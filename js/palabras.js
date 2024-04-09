@@ -1,14 +1,14 @@
 var palabras = [
     {
         "engTerm": "Arrest",
-        "spaEquiv": "Detencion",
+        "spaEquiv": "Detención",
         "definition": "To deprive(a person) of liberty by taking them into custody, under lawful authory.",
         "sampleSentenceEng": "After your son's arrest, he will be taken to the county jail and will be held there until he appears before the judge",
         "sampleSentenceSpa": "Después del arresto de su hijo, él será llevado a la cárcel del condado y permanecerá ahí hasta que se presente ante un juez"
     },
     {
         "engTerm": "Assault",
-        "spaEquiv": "Agresion",
+        "spaEquiv": "Agresión",
         "definition": "An intentional or recless act that causes another person to expect to be subjected to immediate and unlawful violence.",
         "sampleSentenceEng": "I need to know when the assault took place and if you recognize the assailant.",
         "sampleSentenceSpa": "Necesito saber cuándo ocurrió la agresión física y si usted reconoce al agresor"
