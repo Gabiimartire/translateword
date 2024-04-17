@@ -73,7 +73,7 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                             }
                         })
                     }
-                    else if(event.target.value.normalize('NFD').toUpperCase === palabra[key].toString().normalize('NFD').toUpperCase){
+/*                     else if(event.target.value.normalize('NFD').toUpperCase === palabra[key].toString().normalize('NFD').toUpperCase){
 
                         input.style.color = 'var(--good)'
                         let word_Spa = document.getElementById("palabras_espanol")
@@ -101,8 +101,8 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                                 </div>`
                         todo_el_menu.appendChild(wordInfo)
                         word_Spa.appendChild(divSpa)
-                    }
-                    else if(!palabras.some(p => p[key] === event.target.value)){
+                    } */
+/*                     else if(!palabras.some(p => p[key] === event.target.value)){
 
                         input.style.color = 'var(--wrong)'
                         let word_Spa = document.getElementById("palabras_espanol")
@@ -130,7 +130,7 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                                 </div>`
                         todo_el_menu.appendChild(wordInfo)
                         word_Spa.appendChild(divSpa)
-                    }
+                    } */
                 }
             })
 
