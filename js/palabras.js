@@ -18,7 +18,7 @@ var palabras = [
     "sampleSentenceSpa": "¿Cómo ocurrió el accidente?"
    },
    {
-    "Total": 21,
+    "Total": 3,
     "Auto Insurance": "Medical",
     "engTerm": "Antibiotics",
     "spaEquiv": "Antibióticos",
@@ -27,7 +27,7 @@ var palabras = [
     "sampleSentenceSpa": "Es importante que tome los antibióticos recetados con comida hasta que se terminen. No deje de tomarlos, incluso si empieza a sentirse mejor."
    },
    {
-    "Total": 10,
+    "Total": 4,
     "Auto Insurance": "General",
     "engTerm": "Address",
     "spaEquiv": ["Domicilio", "Dirección"],
@@ -36,7 +36,7 @@ var palabras = [
     "sampleSentenceSpa": "Es su dirección de correspondencia la misma que su dirección de residencia?"
    },
   {
-    "Total": 18,
+    "Total": 5,
     "Auto Insurance": "Auto Insurance",
     "engTerm": "Alley ",
     "spaEquiv": ["Callejón", "Pasadizo"],

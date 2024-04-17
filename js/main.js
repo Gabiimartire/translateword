@@ -31,12 +31,10 @@ function reset_y_numeroRandom(allWords, callback){
         callback([word, posicion])
     }
     document.getElementById("reset").addEventListener('click', handleClick)
-
 }
 //
 reset_y_numeroRandom(allWords, function(valorRandom, palabra){
     input.addEventListener('keypress', function(){
-        console.log("valor Obtenido", valorRandom[1])
         if(event.keyCode === 13){
             if(event.target.value == palabras[valorRandom[1]].spaEquiv){
                 input.style.color = 'var(--good)'

@@ -4373,7 +4373,7 @@ var palabras =[
   "spaEquiv": ["Reparaciones", "Arreglos"],
   "definition": "To restore to sound condition after damage.",
   "sampleSentenceEng": "When will the repairs to my car be completed? I need my car to go to work as the bus service is very slow where I live.",
-  "sampleSentenceSpa": "�Cuando ser�n terminadas las reparaciones de mi carro? Necesito mi carro para ir al trabajo ya que el servicio de bus es muy lento donde yo vivo. "
+  "sampleSentenceSpa": "¿Cuando serán terminadas las reparaciones de mi carro? Necesito mi carro para ir al trabajo ya que el servicio de bus es muy lento donde yo vivo. "
  },
  {
   "Total": 487,
@@ -4382,7 +4382,7 @@ var palabras =[
   "spaEquiv": "Reemplazar",
   "definition": "To provide a substitute for something broken or unsatisfactory.",
   "sampleSentenceEng": "They replaced the roof, which was damage during the hurricane.",
-  "sampleSentenceSpa": "Reemplazaron el techo que fue da�ado durante el hurac�n."
+  "sampleSentenceSpa": "Reemplazaron el techo que fue dañado durante el huracán."
  },
  {
   "Total": 488,
@@ -4391,7 +4391,7 @@ var palabras =[
   "spaEquiv": ["Reporte", "Informe"],
   "definition": "An account given of a particular matter, especially in the form of an official document, after thorough investigation or consideration by an appointed person or body.",
   "sampleSentenceEng": "According to the police report, you were standing on the corner when the fire began.",
-  "sampleSentenceSpa": "Seg�n el informe de la polic�a usted estaba parado en la esquina cuando empez� el incendio."
+  "sampleSentenceSpa": "Según el informe de la policía usted estaba parado en la esquina cuando empezó el incendio."
  },
  {
   "Total": 489,
@@ -4400,7 +4400,7 @@ var palabras =[
   "spaEquiv": ["Solicitar", "Pedir"],
   "definition": "To make a request to or of.",
   "sampleSentenceEng": "I requested a loan modification and I haven't received it.",
-  "sampleSentenceSpa": "Solicit� una modificaci�n de pr�stamo y no la he recibido."
+  "sampleSentenceSpa": "Solicité una modificación de préstamo y no la he recibido."
  },
  {
   "Total": 490,
@@ -4409,16 +4409,16 @@ var palabras =[
   "spaEquiv": "Requisitos ",
   "definition": "A prerequisite, something that is required or needed to cualify for something, or to complete a task.",
   "sampleSentenceEng": "I would like to refinance my home; what are the requirements and how soon can I start the process?",
-  "sampleSentenceSpa": "Quisiera refinanciar mi casa; �cuales son los requisitos y que tan r�pido puedo empezar el proceso?"
+  "sampleSentenceSpa": "Quisiera refinanciar mi casa; ¿cuales son los requisitos y que tan rápido puedo empezar el proceso?"
  },
  {
   "Total": 491,
   "Auto Insurance": "Travel and Hospitality",
   "engTerm": "Reservation ",
-  "spaEquiv": "Reservaci�n",
+  "spaEquiv": "Reservación",
   "definition": "An arrangement by which accommodations are secured in advance, as in a hotel or restaurant or on an airplane.",
   "sampleSentenceEng": "Your reservation is confirmed for 6 nights at the Disney Resort Hotel beginning on July 1st.",
-  "sampleSentenceSpa": "Su reservaci�n esta confirmada para 6 noches en el Disney Resort Hotel empezando el primero de julio. "
+  "sampleSentenceSpa": "Su reservación esta confirmada para 6 noches en el Disney Resort Hotel empezando el primero de julio. "
  },
  {
   "Total": 492,
@@ -4427,7 +4427,7 @@ var palabras =[
   "spaEquiv": ["Residir", "Vivir"],
   "definition": "Have one's permanent home in a particular place, be situated.",
   "sampleSentenceEng": "Where do you currently reside? Do any other family members live with you?",
-  "sampleSentenceSpa": "¿Dónde vive actualmente? �Algunos otros familiares viven con usted?"
+  "sampleSentenceSpa": "¿Dónde vive actualmente? ¿Algunos otros familiares viven con usted?"
  },
  {
   "Total": 493,
@@ -4436,7 +4436,7 @@ var palabras =[
   "spaEquiv": "Recursos",
   "definition": "An amount of money that is used for a special purpose",
   "sampleSentenceEng": "You do not have enough resources to qualify for that type of home. ",
-  "sampleSentenceSpa": "No tiene suficientes recursos para calificar a ese tipo de pr�stamos."
+  "sampleSentenceSpa": "No tiene suficientes recursos para calificar a ese tipo de préstamos."
  },
  {
   "Total": 494,
@@ -4445,7 +4445,7 @@ var palabras =[
   "spaEquiv": "Orden de alejamiento",
   "definition": "A legally binding order of the court, enforceable by law enforcement officials as well as the court. Such protective orders are issued, not only to protect victims from violence, but from other forms of abuse, nuisance, and stalking.",
   "sampleSentenceEng": "There are many steps to follow in order to get a domestic violence restraining order.",
-  "sampleSentenceSpa": "Hay varios pasos a seguir para obtener una orden de restricci�n por violencia dom�stica."
+  "sampleSentenceSpa": "Hay varios pasos a seguir para obtener una orden de restricción por violencia doméstica."
  },
  {
   "Total": 495,
@@ -4454,7 +4454,7 @@ var palabras =[
   "spaEquiv": ["Ir retrocediendo", "Ir en reversa", "Retroceder"],
   "definition": "To move backwards.",
   "sampleSentenceEng": "When I put the car into reverse, I backed up into another car. It was not intentional as I did not see the other car.",
-  "sampleSentenceSpa": "Cuando puse el carro en reversa, retroced� contra otro carro. No fu� intencionalmente ya que yo no vi el otro carro. "
+  "sampleSentenceSpa": "Cuando puse el carro en reversa, retrocedí contra otro carro. No fué intencionalmente ya que yo no vi el otro carro. "
  },
  {
   "Total": 496,
@@ -4517,7 +4517,7 @@ var palabras =[
   "spaEquiv": ["Número de ruta bancaria", "Número de identificación bancaria"],
   "definition": "The routing number is a nine digit bank code which appears on the bottom of checks identifying the financial institution on which it was drawn.",
   "sampleSentenceEng": "The routing number is the bank identification number and appears on the bottom left hand side of your check.",
-  "sampleSentenceSpa": "El n�mero de ruta es el n�mero de identificaci�n del banco y aparece en la esquina inferior izquierda de su cheque. "
+  "sampleSentenceSpa": "El n�mero de ruta es el n�mero de identificación del banco y aparece en la esquina inferior izquierda de su cheque. "
  },
  {
   "Total": 503,
@@ -4544,7 +4544,7 @@ var palabras =[
   "spaEquiv": ["Valor residual", "Valor de rescate"],
   "definition": "The value assigned by an insurer to property deemed beyond repair, or whose value is less than the actual cost of repair.",
   "sampleSentenceEng": "We can calculate the cost of labor and parts to fix or replace each affected item and estimate the salvage value of the total loss vehicle.",
-  "sampleSentenceSpa": "Podemos hacer un c�lculo del costo de la mano de obra y las partes para arreglar o remplazar cada art�culo da�ado y calcular el valor residual del veh�culo de p�rdida total."
+  "sampleSentenceSpa": "Podemos hacer un cálculo del costo de la mano de obra y las partes para arreglar o remplazar cada artículo dañado y calcular el valor residual del veh�culo de p�rdida total."
  },
  {
   "Total": 506,
@@ -4553,7 +4553,7 @@ var palabras =[
   "spaEquiv": "Cuenta de ahorros",
   "definition": "A bank account that lets you store your money securely while typically earning interest. This means the bank pays you to keep your funds deposited.",
   "sampleSentenceEng": "We offer 4% interest in our savings account.",
-  "sampleSentenceSpa": "Ofrecemos un 4% de inter�s en nuestras cuentas de ahorros. "
+  "sampleSentenceSpa": "Ofrecemos un 4% de interés en nuestras cuentas de ahorros. "
  },
  {
   "Total": 507,

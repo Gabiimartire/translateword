@@ -20,6 +20,8 @@ function reset_y_numeroRandom(allWords, callback){
         //
         let word = allWords[indiceAleatorio]
         let posicion = indiceAleatorio
+               let word_Spa = document.getElementById("palabras_espanol")
+            word_Spa.innerHTML = ""
         let todo_el_menu = document.getElementById("boxes_")
         todo_el_menu.innerHTML = ""
         input.value = ""
