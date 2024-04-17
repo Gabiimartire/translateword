@@ -14,26 +14,25 @@ filtrarPalabras(palabras, allWords)
 
 function reset_y_numeroRandom(allWords, callback){
     function handleClick(){
-        //
         if(event.key === 'ArrowUp'){
             let indiceAleatorio = Math.floor(Math.random() * allWords.length);
+            let desaparecer = document.getElementById('desaparecer')
+            desaparecer.innerHTML= ""
             label.innerHTML = allWords[indiceAleatorio];
-            //
             let word = allWords[indiceAleatorio]
             let posicion = indiceAleatorio
             let word_Spa = document.getElementById("palabras_espanol")
-            word_Spa.innerHTML = ""
             let todo_el_menu = document.getElementById("boxes_")
+            word_Spa.innerHTML = ""
             todo_el_menu.innerHTML = ""
             input.value = ""
             input.style.color = "black"
-            //
             callback([word, posicion])
         }
     }
     document.addEventListener('keydown', handleClick)
-
 }
+
 reset_y_numeroRandom(allWords, function(valorRandom, palabra){
     let ind = valorRandom[1]
     input.addEventListener('keypress', function(){

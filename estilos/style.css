@@ -38,6 +38,7 @@ header{
 }
 .box_word_appears{
     background-color: var(--label);
+    height: auto;
 }
 .word_appears{
     font-weight: bold;
@@ -48,9 +49,12 @@ input{
     font-size: 3.5rem;
     font-weight: bolder;
 }
-.sampleSentence, .sampleSentenceSpa{
-    height: 23rem;
-    width: 20rem;
+.sampleSentence, .sampleSentenceSpa{ 
+
+    min-height: 15rem;
+    min-width: 15rem;
+    max-width: 25rem;
+    max-height: 25rem;
     border-radius: 10px;
     
 }
