@@ -45,6 +45,7 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                         palabra[key].forEach(comparacion =>{
                             if(event.target.value.normalize('NFD').toUpperCase === comparacion.normalize('NFD').toUpperCase){
                                 input.style.color = 'var(--good)'
+
                                 let word_Spa = document.getElementById("palabras_espanol")
                                 word_Spa.innerHTML = ""
                                 let todo_el_menu = document.getElementById("boxes_")
@@ -73,8 +74,38 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                             }
                         })
                     }
-                    else if(palabra[key] === event.target.value){
+                    else if(event.target.value.normalize('NFD').toUpperCase === palabra[key].toString().normalize('NFD').toUpperCase){
+
                         input.style.color = 'var(--good)'
+                        let word_Spa = document.getElementById("palabras_espanol")
+                        let todo_el_menu = document.getElementById("boxes_")
+                        word_Spa.innerHTML = ""
+                        todo_el_menu.innerHTML = ""
+                        let divSpa = document.createElement('div')
+                        divSpa.innerHTML = `<p class="d-flex justify-content-center align-items-center gap-2 text-white fw-bold">Respuestas Posibles: <span class="text-success">${palabras[ind].spaEquiv}</span> </p>`
+                        divSpa.className = "d-flex justify-content-center align-items-center text-light fs-2"
+                        let wordInfo = document.createElement('div')
+                        wordInfo.className = "d-flex justify-content-center align-items-center flex-column"
+                        wordInfo.innerHTML = `<p class="text-light fs-3">
+                        <span id="word_Eng">${palabras[ind].engTerm}</span>
+                        Definition: <span id="definition">
+                        ${palabras[ind].definition}</span></p>
+                        <div class="box d-flex justify-content-center align-items-center gap-5 my-3">
+                                <div class="sampleSentence">
+                                <h2 class="text-center fw-bold">Sample Sentence English</h2>
+                                <p class="textsentence">${palabras[ind].sampleSentenceEng}</p>
+                                </div>
+                                <div class="sampleSentenceSpa">
+                                <h2 class="text-center fw-bold">Sample Sentence Spanish</h2>
+                                <p class="textsentence">${palabras[ind].sampleSentenceSpa}</p>
+                                </div>
+                                </div>`
+                        todo_el_menu.appendChild(wordInfo)
+                        word_Spa.appendChild(divSpa)
+                    }
+                    else if(!palabras.some(p => p[key] === event.target.value)){
+
+                        input.style.color = 'var(--wrong)'
                         let word_Spa = document.getElementById("palabras_espanol")
                         let todo_el_menu = document.getElementById("boxes_")
                         word_Spa.innerHTML = ""

@@ -4985,7 +4985,7 @@ var palabras =[
   "spaEquiv": ["Varada", "Varado"],
   "definition": "Left helpless, without transportation. For example, when a car breaks down.",
   "sampleSentenceEng": "He left me stranded in town with no car and no money for a bus.",
-  "sampleSentenceSpa": "Él me dejó varada en el pueblo sin carro ni dinero para el autob�s. "
+  "sampleSentenceSpa": "Él me dejó varada en el pueblo sin carro ni dinero para el autobús. "
  },
  {
   "Total": 555,
@@ -4994,7 +4994,7 @@ var palabras =[
   "spaEquiv": "Concentración",
   "definition": "The proportion of active drug substance to excipient, measured in units of volume or concentration. The strength of a drug product, which indicates the amount of active ingredient in each dose.",
   "sampleSentenceEng": "The doctor changed the medication strength.",
-  "sampleSentenceSpa": "El m�dico cambi� la concentraci�n del medicamento."
+  "sampleSentenceSpa": "El médico cambió la concentración del medicamento."
  },
  {
   "Total": 556,
@@ -5003,7 +5003,7 @@ var palabras =[
   "spaEquiv": ["Infección de la garganta por estreptococos",  "Estreptococos en la garganta", "Faringitis estreptocócica"],
   "definition": "Throat infection caused by streptococcus bacteria. Symptoms include fever, redness of the throat, and inflammation of the tonsils.",
   "sampleSentenceEng": "We need to do a strep throat test on your throat.",
-  "sampleSentenceSpa": "Tenemos que hacer una prueba de faringitis estreptoc�cica en la garganta."
+  "sampleSentenceSpa": "Tenemos que hacer una prueba de faringitis estreptocócica en la garganta."
  },
  {
   "Total": 557,
@@ -5012,7 +5012,7 @@ var palabras =[
   "spaEquiv": ["Camilla", "Camilla portátil para ambulancia"],
   "definition": "An apparatus used for moving patients who require care. A basic type of cot that must be carried by two or more people.",
   "sampleSentenceEng": "The paramedics came and put me on a stretcher.",
-  "sampleSentenceSpa": "Los param�dicos llegaron y me pusieron en una camilla."
+  "sampleSentenceSpa": "Los paramédicos llegaron y me pusieron en una camilla."
  },
  {
   "Total": 558,
@@ -5021,7 +5021,7 @@ var palabras =[
   "spaEquiv": ["Derrame cerebral", "Apoplejía"],
   "definition": "Occurs when blood supply to part of the brain is disrupted, causing brain cells to die. When blood flow to the brain is impaired, oxygen and glucose cannot be delivered to the brain.",
   "sampleSentenceEng": "My father suffered a stroke last year and still has difficulty walking and speaking, but with continued therapy he should improve slowly.",
-  "sampleSentenceSpa": "Mi pap� sufri� un derrame cerebral el a�o pasado y todav�a tiene dificultad para caminar y hablar, pero con terapia cont�nua �l debe mejorar despacio. "
+  "sampleSentenceSpa": "Mi papá sufrió un derrame cerebral el año pasado y todavía tiene dificultad para caminar y hablar, pero con terapia cont�nua �l debe mejorar despacio. "
  },
  {
   "Total": 559,
@@ -5039,7 +5039,7 @@ var palabras =[
   "spaEquiv": ["Suscriptor", "Suscriptora"],
   "definition": "A person who receives a service or coverage regularly by paying in advance.",
   "sampleSentenceEng": "Some large companies will not sell, lease or rent its email subscriber list to third parties.",
-  "sampleSentenceSpa": "Algunas compa��as grandes no venden, arriendan o alquilan su lista de correo electr�nico de suscriptores a terceros."
+  "sampleSentenceSpa": "Algunas compañías grandes no venden, arriendan o alquilan su lista de correo electr�nico de suscriptores a terceros."
  },
  {
   "Total": 561,
@@ -5048,7 +5048,7 @@ var palabras =[
   "spaEquiv": "Suficiente",
   "definition": "Being as much as is needed; adequate; enough.",
   "sampleSentenceEng": "There is sufficient balance to execute the transaction.",
-  "sampleSentenceSpa": "El saldo es suficiente para realizar la transacci�n."
+  "sampleSentenceSpa": "El saldo es suficiente para realizar la transacción."
  },
  {
   "Total": 562,
@@ -5066,7 +5066,7 @@ var palabras =[
   "spaEquiv": ["Ceder, Entregar"],
   "definition": "To return, turn in, give up, or give back an asset.",
   "sampleSentenceEng": "You have 15 days to bring your account up to date or you will have to surrender your vehicle.",
-  "sampleSentenceSpa": "Usted tiene 15 d�as para poner su cuenta al d�a o tendr� que entregar su veh�culo."
+  "sampleSentenceSpa": "Usted tiene 15 días para poner su cuenta al día o tendrá que entregar su veh�culo."
  },
  {
   "Total": 564,
@@ -5075,7 +5075,7 @@ var palabras =[
   "spaEquiv": "Suspender",
   "definition": "1. Temporarily prevent from continuing or being in force or effect. 2. To bar for a period from a privilege, office, or position, usually as a punishment.",
   "sampleSentenceEng": "Your driver's license is suspended for 90 days. ",
-  "sampleSentenceSpa": "Su licencia de conducir est� suspendida por 90 d�as."
+  "sampleSentenceSpa": "Su licencia de conducir est�ásuspendida por 90 días."
  },
  {
   "Total": 565,
@@ -5102,7 +5102,7 @@ var palabras =[
   "spaEquiv": "S�ntomas",
   "definition": "An indication or sign of a disorder or disease, especially a subjective one such as pain, sensation or change in bodily function experienced by a patient that is associated with a particular disease.",
   "sampleSentenceEng": "Symptoms may differ from patient to patient. ",
-  "sampleSentenceSpa": "Los s�ntomas pueden diferir entre paciente y paciente. "
+  "sampleSentenceSpa": "Los síntomas pueden diferir entre paciente y paciente. "
  },
  {
   "Total": 568,
@@ -5111,7 +5111,7 @@ var palabras =[
   "spaEquiv": "Pegarse o seguir de cerca a otro vehículo",
   "definition": "Driving too closely behind another vehicle.",
   "sampleSentenceEng": "He hit the car in front of him because he was tailgating.",
-  "sampleSentenceSpa": "�l golpe� el coche delante de �l porque iba pegado al otroiba siguiendo al otro demasiado cerca."
+  "sampleSentenceSpa": "Él golpeó el coche delante de él porque iba pegado al otroiba siguiendo al otro demasiado cerca."
  },
  {
   "Total": 569,
@@ -5120,7 +5120,7 @@ var palabras =[
   "spaEquiv": ["Luz trasera", "Calavera"],
   "definition": "Tail Lights are mounted to the rear of the car above the bumper. They are red in color and have accompanying white lights beside them to indicate when the vehicle is in reverse. Tail lights make other car�s aware of your presence so that you can travel safely in the dark. Also, the red color of the tail lights shines more brightly whenever you are braking so that other cars know to slow down as well.",
   "sampleSentenceEng": "I stopped you because your taillight is broken.",
-  "sampleSentenceSpa": "Lo detuve porque su luz trasera est� rota."
+  "sampleSentenceSpa": "Lo detuve porque su luz trasera está rota."
  },
  {
   "Total": 570,
