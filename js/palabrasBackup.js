@@ -1769,7 +1769,7 @@ var palabras =[
   "Total": 197,
   "Auto Insurance": "911 - Law enforcement",
   "engTerm": "DUI",
-  "spaEquiv": "Conducir bajo los efectos de alcohol o drogas ",
+  "spaEquiv": "Conducir bajo los efectos de alcohol o drogas",
   "definition": "Refers to the crime of driving a motor vehicle while impaired by alcohol or other drugs (including recreational drugs and those prescribed by physicians), to a level that renders the driver incapable of operating a motor vehicle safely.",
   "sampleSentenceEng": "You are being charged with DUI-driving under the influence of drugs andor alcohol. Is this your first offense?",
   "sampleSentenceSpa": "Usted tiene cargos de conducir bajo los efecto de alcohol o droga. ¿es esta su primer ofensa?"

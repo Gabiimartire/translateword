@@ -42,15 +42,14 @@ header{
 }
 .word_appears{
     font-weight: bold;
-    font-size: 3.5rem;
+    font-size: 2rem;
     padding: 10px;
 }
 input{
-    font-size: 3.5rem;
+/*     font-size: 3.5rem; */
     font-weight: bolder;
 }
 .sampleSentence, .sampleSentenceSpa{ 
-
     min-height: 15rem;
     min-width: 15rem;
     max-width: 25rem;
@@ -60,13 +59,15 @@ input{
 }
 .sampleSentence{
     background-color: var(--label);
+    padding: 1px 2rem;
 }
 .sampleSentenceSpa{
     background-color: var(--inputs);
+    padding: 1px 2rem;
 }
 .textsentence{
     padding: 1.4rem !important;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     font-weight: medium;
 }
 .boton_reset{
@@ -76,6 +77,6 @@ input{
 }
 ::placeholder{
     color: gray;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     text-align: center;
 }
