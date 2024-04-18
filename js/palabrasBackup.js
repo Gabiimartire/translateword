@@ -1,7 +1,7 @@
 var palabras =[
  {
   "Total": 1,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Accessible",
   "spaEquiv": ["Accesible", "Alcanzable"],
   "definition": "Easy to approach, reach, enter, speak with, or use.",
@@ -10,7 +10,7 @@ var palabras =[
  },
  {
   "Total": 2,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Accident",
   "spaEquiv": "Accidente",
   "definition": "An unfortunate incident that happens unexpectedly and unintentionally, typically resulting in damage or injury.",
@@ -19,7 +19,7 @@ var palabras =[
  },
  {
   "Total": 3,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Account",
   "spaEquiv": "Cuenta",
   "definition": "A formal business arrangement providing for regular dealings or services (as in banking, advertising, email or store credit).",
@@ -28,7 +28,7 @@ var palabras =[
  },
  {
   "Total": 4,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Account holder",
   "spaEquiv": "Titular de la cuenta",
   "definition": "The owner of an account.",
@@ -37,7 +37,7 @@ var palabras =[
  },
  {
   "Total": 5,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Account specialist",
   "spaEquiv": "Especialista en manejo de cuentas",
   "definition": "Serves customers by completing enrollments and conversion mailings; responding to requests and inquiries; resolving complaints; maintaining quality service.",
@@ -46,7 +46,7 @@ var palabras =[
  },
  {
   "Total": 6,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "ACH (Automated Clearing House)",
   "spaEquiv": "Cámara de compensación automatizada",
   "definition": "The Automated Clearing House (ACH) is an electronic funds-transfer system that facilitates payments in the U.S. It acts as a financial hub and helps people and organizations move money from one bank account to another.",
@@ -55,7 +55,7 @@ var palabras =[
  },
  {
   "Total": 7,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Aches and pains",
   "spaEquiv": ["Malestares", "Achaques"],
   "definition": "Minor pains and discomforts, typically in the muscles.",
@@ -64,7 +64,7 @@ var palabras =[
  },
  {
   "Total": 8,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Acid reflux",
   "spaEquiv": ["Reflujo gástrico", "Reflujo ácido"],
   "definition": "A condition in which acidic gastric fluid is regurgitated into the esophagus, causing heartburn.",
@@ -73,7 +73,7 @@ var palabras =[
  },
  {
   "Total": 9,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Active",
   "spaEquiv": ["Activo","Vigente"],
   "definition": "Currently in use or in effect.",
@@ -82,7 +82,7 @@ var palabras =[
  },
  {
   "Total": 10,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Address",
   "spaEquiv": ["Domicilio", "Dirección"],
   "definition": "The information about where a place is located or where someone lives.",
@@ -91,7 +91,7 @@ var palabras =[
  },
 {
   "Total": 11,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Adjuster",
   "spaEquiv": ["Liquidador de daños", "Liquidadora de daños", "Perita de siniestros", "Perito de siniestros"],
   "definition": "Insurance company employee in charge of processing claims to their resolution.",
@@ -101,7 +101,7 @@ var palabras =[
 
  {
   "Total": 12,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Advice nurse",
   "spaEquiv": ["Enfermera consejera","Enfermero consejero"],
   "definition": "Responsible for answering calls and providing appropriate information to assist callers in assessing needs for health services. They give appropriate clinical options and assist in assessing primary care, specialty care or community resources. They also educate callers on self-care advice and preventative measures.",
@@ -110,7 +110,7 @@ var palabras =[
  },
  {
   "Total": 13,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Affordable",
   "spaEquiv": "Asequible",
   "definition": "Being within the financial means of most people. Being economically able to pay for an asset or service",
@@ -119,7 +119,7 @@ var palabras =[
  },
  {
   "Total": 14,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Airbag",
   "spaEquiv": "Bolsa de aire",
   "definition": "A safety device inside a vehicle, consisting of a cushion designed to inflate rapidly in the event of a collision and positioned so as to protect passengers from being thrown.",
@@ -128,7 +128,7 @@ var palabras =[
  },
  {
   "Total": 15,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Airway",
   "spaEquiv": ["Vías respiratorias", "Vía respiratoria"],
   "definition": "The passage by which air reaches a person's lungs.",
@@ -137,7 +137,7 @@ var palabras =[
  },
  {
   "Total": 16,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": ["Alien registration card", "Permanent residet card", "Green card (Informal)"],
   "spaEquiv": ["Carnet de extranjería", "Tarjeta de residencia permanente"],
   "definition": "An Alien Registration Card is the official name for the identification card given to lawful permanent residents by the USCIS to identify them as such. Other names for the alien registration card include green card, permanent resident card, and permanent visa.",
@@ -146,7 +146,7 @@ var palabras =[
  },
  {
   "Total": 17,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Alimony",
   "spaEquiv": ["Pensión al ex-cónyuge", "Pensión a la ex-cónyuge"],
   "definition": "Payments made to a spouse or former spouse under a separation or divorce agreement.",
@@ -155,7 +155,7 @@ var palabras =[
  },
  {
   "Total": 18,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Alley ",
   "spaEquiv": ["Callejón", "Pasadizo"],
   "definition": "A narrow passageway between or behind buildings.",
@@ -164,7 +164,7 @@ var palabras =[
  },
  {
   "Total": 19,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Amount",
   "spaEquiv": ["Monto", "Cantidad"],
   "definition": "A quantity of something, such as money.",
@@ -173,7 +173,7 @@ var palabras =[
  },
  {
   "Total": 20,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Annual out-of-pocket maximum",
   "spaEquiv": ["Límite anual de gastos del paciente", "Tope anual"],
   "definition": "Refers to the most money an insured individual will have to pay out of his own pocket, during a policy period (usually a year) for health care services.     Añadir: . When this limit is reached, your health plan will cover 100% of your qualified expenses.",
@@ -182,7 +182,7 @@ var palabras =[
  },
  {
   "Total": 21,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Antibiotics",
   "spaEquiv": "Antibióticos",
   "definition": "Drugs used to kill harmful bacteria and to cure infections (such as penicillin or its derivatives). Antibiotics inhibit the growth of and destroy microorganisms.",
@@ -191,7 +191,7 @@ var palabras =[
  },
  {
   "Total": 22,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Antifreeze",
   "spaEquiv": "Agente anticongelante",
   "definition": "A liquid, typically based on ethylene glycol, which can be added to water to lower the freezing point, chiefly used in the radiator of a motor vehicle",
@@ -200,7 +200,7 @@ var palabras =[
  },
  {
   "Total": 23,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Antitheft device",
   "spaEquiv": "Dispositivo contra robos",
   "definition": "Refers to any device or method used to prevent or deter the unauthorized appropriation of items considered valuable.",
@@ -209,7 +209,7 @@ var palabras =[
  },
  {
   "Total": 24,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Appliances ",
   "spaEquiv": "Electrodomésticos",
   "definition": "Devices or instruments designed to perform a specific function, especially an electrical device, such as a washer or a toaster, for household use.",
@@ -218,7 +218,7 @@ var palabras =[
  },
  {
   "Total": 25,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Application",
   "spaEquiv": "Solicitud",
   "definition": "A form used in making a request for a service or purchase, to be filled out by an applicant, as for a loan, credit card, job, driver's license, etc.",
@@ -227,7 +227,7 @@ var palabras =[
  },
  {
   "Total": 26,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Appointment",
   "spaEquiv": "Cita",
   "definition": "An arrangement to meet a person or be at a place at a certain time.",
@@ -236,7 +236,7 @@ var palabras =[
  },
  {
   "Total": 27,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Appraiser ",
   "spaEquiv": ["Tasador", "Tasadora", "Evaluador", "Evaluadora", "Agente de avalúos"],
   "definition": "One who estimates officially the cost or repairs or replacement of damaged property, such as a home or a car.",
@@ -245,7 +245,7 @@ var palabras =[
  },
  {
   "Total": 28,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Approved",
   "spaEquiv": "Aprobado",
   "definition": "To officially accept. (Context dependent) Refers to the act of officially agreeing to or accepting as satisfactory or meeting requirements.",
@@ -254,7 +254,7 @@ var palabras =[
  },
  {
   "Total": 29,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "APR (Annual Percentage Rate)",
   "spaEquiv": ["Tasa porcentual anual", "Tasa de interés anual"],
   "definition": "Describes the interest rate for a whole year (annualized), rather than just a monthly feerate, as applied on a loan, mortgage loan, credit card, etc. It is a charge expressed as an annual rate.",
@@ -263,7 +263,7 @@ var palabras =[
  },
  {
   "Total": 30,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Area code",
   "spaEquiv": "Código de área",
   "definition": "A three-digit code that identifies one of the telephone areas into which the U.S. and certain other countries are divided and that precedes the local telephone number when dialing a call between areas.",
@@ -272,7 +272,7 @@ var palabras =[
  },
  {
   "Total": 31,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Arrangement",
   "spaEquiv": ["Arreglo", "Acuerdo"],
   "definition": "A plan for an event, or with the goal of fulfilling an obligation.",
@@ -281,7 +281,7 @@ var palabras =[
  },
  {
   "Total": 32,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Arrest",
   "spaEquiv": ["Detención", "Arresto"],
   "definition": "To deprive (a person) of liberty by taking them into custody, under lawful authority.",
@@ -290,7 +290,7 @@ var palabras =[
  },
  {
   "Total": 33,
-  "Auto Insurance": "Travel and Hospitality",
+  "industry": "Travel and Hospitality",
   "engTerm": "Arrival ",
   "spaEquiv": "Llegada ",
   "definition": "The act or time of arriving.",
@@ -299,7 +299,7 @@ var palabras =[
  },
  {
   "Total": 34,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Artery",
   "spaEquiv": "Arteria ",
   "definition": "Any of the muscular-walled tubes forming part of the circulation system by which blood (mainly which has been oxygenated) is conveyed from the heart to all parts of the body.",
@@ -308,7 +308,7 @@ var palabras =[
  },
  {
   "Total": 35,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Assault",
   "spaEquiv": "Agresión",
   "definition": "An intentional or reckless act that causes another person to expect to be subjected to immediate and unlawful violence.",
@@ -317,7 +317,7 @@ var palabras =[
  },
  {
   "Total": 36,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "At fault",
   "spaEquiv": ["Tener la culpa", "Culpable"],
   "definition": "Responsibility for a mistake or an offense; culpability.",
@@ -326,7 +326,7 @@ var palabras =[
  },
  {
   "Total": 37,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "ATM (Automated Teller Machine)",
   "spaEquiv": "Cajero automático",
   "definition": "An unattended machine, usually outside a bank, that automatically provides cash and performs other banking services on insertion of a special card by the account holder.",
@@ -335,7 +335,7 @@ var palabras =[
  },
  {
   "Total": 38,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Automatic Payment",
   "spaEquiv": "Pago automático",
   "definition": "Process that pays bills directly from a bank account through an electronic payment system; an individual will authorize payments to vendors on a regular basis. Vendors will submit requests for payment directly to the bank.",
@@ -344,7 +344,7 @@ var palabras =[
  },
  {
   "Total": 39,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Baby bottle",
   "spaEquiv": "Biberón ",
   "definition": "A bottle with a nipple to drink directly from. It is typically used by infants and young children when a mother does not breastfeed.",
@@ -353,7 +353,7 @@ var palabras =[
  },
  {
   "Total": 40,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Baby formula",
   "spaEquiv": ["Fórmula para bebés", "Fórmula para lactantes", "Leche infantil"],
   "definition": "Food which contains nutrients to feed infants used as a complete or partial substitute for breast milk.",
@@ -362,7 +362,7 @@ var palabras =[
  },
  {
   "Total": 41,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Backdated",
   "spaEquiv": "Retroactivo",
   "definition": "To make something, especially a pay increase, effective from an earlier time.",
@@ -371,7 +371,7 @@ var palabras =[
  },
  {
   "Total": 42,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Backfire",
   "spaEquiv": "Explosión del escape",
   "definition": "Refers to an engine that undergoes a mistimed explosion in the cylinder or exhaust.",
@@ -380,7 +380,7 @@ var palabras =[
  },
  {
   "Total": 43,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Backrest",
   "spaEquiv": "Respaldo",
   "definition": "A support for a person's back when taking a seat.",
@@ -389,7 +389,7 @@ var palabras =[
  },
  {
   "Total": 44,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Bail",
   "spaEquiv": "Fianza ",
   "definition": "Security, usually a sum of money exchanged for the release of an arrested person as a guarantee of that person's appearance for trial.",
@@ -398,7 +398,7 @@ var palabras =[
  },
  {
   "Total": 45,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Balance",
   "spaEquiv": "Saldo (NO BALANCE)",
   "definition": "The amount of money you have in a bank account or an amount of money owed.",
@@ -407,7 +407,7 @@ var palabras =[
  },
  {
   "Total": 46,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Balance transfer",
   "spaEquiv": "Transferencia de saldo",
   "definition": "To shift existing credit card debt to another card or account charging a low interest rate or even 0% interest, helping you to save money.",
@@ -416,7 +416,7 @@ var palabras =[
  },
  {
   "Total": 47,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": ["Bathtub chair", "Shower chair"],
   "spaEquiv": ["Silla para la bañera o tina", "Silla para la ducha"],
   "definition": "A shower chair is a seat made for bathtubs or showers. These seats are designed for use by people who are unable to stand to take a shower and must sit instead. With the use of shower chairs, elderly people and those with mobility problems are able to have some independence by bathing themselves or having help doing so.",
@@ -425,7 +425,7 @@ var palabras =[
  },
  {
   "Total": 48,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Bedpan",
   "spaEquiv": "Bacinilla ",
   "definition": "A bedpan or bed pan is a device used as a receptacle for the urine andor feces of a person who is confined to a bed and therefore not able to use a toilet or chamber pot.",
@@ -434,7 +434,7 @@ var palabras =[
  },
  {
   "Total": 49,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Bedside commode ",
   "spaEquiv": ["Inodoro portátil", "Retrete portátil", "Baño portátil"],
   "definition": "A bedside commode is a portable toilet. It has no water supply or drainage and can be easily moved around for convenience. It is a great help to people who can't walk to the bathroom because of frailty or illness. A bedside commode is better than using a bedpan or urinal.",
@@ -443,7 +443,7 @@ var palabras =[
  },
  {
   "Total": 50,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Beneficiary",
   "spaEquiv": "Beneficiaria(o)",
   "definition": "Person(s) who may become eligible to receive or is receiving benefits under an insurance policy.",
@@ -452,7 +452,7 @@ var palabras =[
  },
  {
   "Total": 51,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Benefits",
   "spaEquiv": "Beneficios",
   "definition": "Payment or service provided, receiving money from the government because of a low income or lack of income. An advantage or profit gained from something.",
@@ -461,7 +461,7 @@ var palabras =[
  },
  {
   "Total": 52,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Bill ",
   "spaEquiv": "Factura",
   "definition": "An itemized account of the separate cost of goods sold, services performed, or work done, a statement of charges, invoice.",
@@ -470,7 +470,7 @@ var palabras =[
  },
  {
   "Total": 53,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Bill of sale ",
   "spaEquiv": "Contrato de Compraventa ",
   "definition": "Document that transfers ownership of goods from one person to another. (NOT real state)",
@@ -479,7 +479,7 @@ var palabras =[
  },
  {
   "Total": 54,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Billing department",
   "spaEquiv": "Departamento de facturación",
   "definition": "Department within an organization, that prepares or sends out invoices to obtain payments for services or goods.",
@@ -488,7 +488,7 @@ var palabras =[
  },
  {
   "Total": 55,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Birth certificate",
   "spaEquiv": ["Acta de nacimiento" ,"Partida de nacimiento", "Certificado de nacimiento"],
   "definition": "An official document issued upon a person's birth, attesting to the date and place of birth, parentage, etc.",
@@ -497,7 +497,7 @@ var palabras =[
  },
  {
   "Total": 56,
-  "Auto Insurance": "Jail system",
+  "industry": "Jail system",
   "engTerm": "Birthmarks",
   "spaEquiv": ["Marcas de nacimiento", "Manchas de nacimiento"],
   "definition": "An unusual and typically permanent brown or red mark on someone's body from birth.",
@@ -506,7 +506,7 @@ var palabras =[
  },
  {
   "Total": 57,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Bite",
   "spaEquiv": ["Mordedura", "Picadura"],
   "definition": "Refers to a person or an animal use of the teeth to cut into something in order to eat it.  An animal bite is an injury caused by the mouth and teeth of an animal (including humans).",
@@ -515,7 +515,7 @@ var palabras =[
  },
  {
   "Total": 58,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Bladder",
   "spaEquiv": "Vejiga ",
   "definition": "A membranous sac in humans and other animals, in which urine is collected for excretion.",
@@ -524,7 +524,7 @@ var palabras =[
  },
  {
   "Total": 59,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Bleeding ",
   "spaEquiv": "Sangrado",
   "definition": "Escape of blood from an injured vessel",
@@ -533,7 +533,7 @@ var palabras =[
  },
  {
   "Total": 60,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Blind curve ",
   "spaEquiv": "Curva sin visibilidad",
   "definition": "Type of curve, curve, curved segment of a road that prevents motorists from having ample visibility when driving.",
@@ -542,7 +542,7 @@ var palabras =[
  },
  {
   "Total": 61,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Blind spot",
   "spaEquiv": ["Punto ciego", "Zona muerta"],
   "definition": "Refers to an area around the vehicle that cannot be directly observed by the driver while at the controls, under existing circumstances.",
@@ -551,7 +551,7 @@ var palabras =[
  },
  {
   "Total": 62,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Blinkers",
   "spaEquiv": "Luces intermitentes",
   "definition": "A device that blinks, especially a vehicle's turn signal.",
@@ -560,7 +560,7 @@ var palabras =[
  },
  {
   "Total": 63,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Blood",
   "spaEquiv": "Sangre",
   "definition": "The red liquid that circulates in the arteries and veins of humans and other vertebrate animals, carrying oxygen to and carbon dioxide from the tissues of the body.",
@@ -569,7 +569,7 @@ var palabras =[
  },
  {
   "Total": 64,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Blood alcohol level ",
   "spaEquiv": "Nivel de alcoholemia",
   "definition": "Refers to the concentration of alcohol in one's bloodstream, expressed as a percentage. This percentage isused to determine whether a person is legally intoxicated, especially for DUI law.",
@@ -578,7 +578,7 @@ var palabras =[
  },
  {
   "Total": 65,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Blood Pressure",
   "spaEquiv": "Presión arterial",
   "definition": "The pressure of the blood in the circulatory system closely related to the force and rate of the heartbeat and the diameter and elasticity of the arterial walls.",
@@ -587,7 +587,7 @@ var palabras =[
  },
  {
   "Total": 66,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": ["Blood pressure cuff"],
   "spaEquiv": ["Tensiómetro", "Medidor de la presión arterial"],
   "definition": "An instrument for measuring blood pressure in the arteries, especially one consisting of a pressure gauge and a nylon or rubber cuff that wraps around the upper arm and inflates to constrict the arteries.",
@@ -596,7 +596,7 @@ var palabras =[
  },
  {
   "Total": 67,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Bloody stool",
   "spaEquiv": ["Defecación con sangre", "Defecación sanguinolenta", "Heces con sangre", "Heces sanguinolentas"],
   "definition": "Refers to a sign that there is bleeding somewhere along the digestive tract.",
@@ -605,7 +605,7 @@ var palabras =[
  },
  {
   "Total": 68,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Bodily injury",
   "spaEquiv": ["Lesiones corporales", "Daños físicos"],
   "definition": "Any physical or mental impairment suffered by an insured. It includes occupational diseases, auto injuries, work-related accidents and even death.",
@@ -614,7 +614,7 @@ var palabras =[
  },
  {
   "Total": 69,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Body shop ",
   "spaEquiv": ["Taller de carrocería", "Taller de chapistería", "Taller de latonería"],
   "definition": "A repair establishment specializing in non-mechanical damages to automobile framework and body.",
@@ -623,7 +623,7 @@ var palabras =[
  },
  {
   "Total": 70,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Booster shot",
   "spaEquiv": ["Vacuna de refuerzo", "Dosis de refuerzo"],
   "definition": "A dose of a substance used to renew or increase the effect of a drug or immunizing agent.",
@@ -632,7 +632,7 @@ var palabras =[
  },
  {
   "Total": 71,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Borrow",
   "spaEquiv": "Pedir prestado",
   "definition": "To obtain or receive (something) on loan with the promise or understanding of returning it or its equivalent.",
@@ -641,7 +641,7 @@ var palabras =[
  },
  {
   "Total": 72,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Bowel movement ",
   "spaEquiv": ["Evacuación", "Deposición", "Defecación"],
   "definition": "An act of passing usually solid waste through the rectum and anus.",
@@ -650,7 +650,7 @@ var palabras =[
  },
  {
   "Total": 73,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Braces",
   "spaEquiv": ["Frenillos", "aparatos dentales", "Soporte"],
   "definition": "(Dental) Braces are devices used in orthodontics that align and straighten teeth.(Orthopedics) A device fitted to something, in particular a weak or injured part of the body, to give support. Example: A neck brace. ",
@@ -659,7 +659,7 @@ var palabras =[
  },
  {
   "Total": 74,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Brake (verb)",
   "spaEquiv": "Frenar ",
   "definition": "Halt or stop, refers to an interruption to continue driving a vehicle.",
@@ -668,7 +668,7 @@ var palabras =[
  },
  {
   "Total": 75,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Branch",
   "spaEquiv": "Sucursal",
   "definition": "A division of a business or other organization.",
@@ -677,7 +677,7 @@ var palabras =[
  },
  {
   "Total": 76,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Brand",
   "spaEquiv": ["Marca", "De patente"],
   "definition": "A trademark or distinctive name identifying a product, service, or organization.",
@@ -686,7 +686,7 @@ var palabras =[
  },
  {
   "Total": 77,
-  "Auto Insurance": "Health Insurance",
+  "industry": "Health Insurance",
   "engTerm": ["Brand name", "medication"],
   "spaEquiv": "Medicamentos de marca",
   "definition": "A drug that has a trade name and is protected by a patent (can be produced and sold only by the company holding the patent).",
@@ -695,7 +695,7 @@ var palabras =[
  },
  {
   "Total": 78,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Breast pump",
   "spaEquiv": "Extractor de leche ",
   "definition": "A breast pump is a mechanical device that lactating women use to extract milk from their breasts. They may be manual devices powered by hand or foot movements or automatic devices powered by electricity.",
@@ -704,7 +704,7 @@ var palabras =[
  },
  {
   "Total": 79,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Breast self-examination",
   "spaEquiv": ["Autoexamen de los senos","Autoexamen de mamas"],
   "definition": "A screening method used in an attempt to detect early breast cancer.",
@@ -713,7 +713,7 @@ var palabras =[
  },
  {
   "Total": 80,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": ["Breast-feeding", "clinic"],
   "spaEquiv": ["Clínica de lactancia materna", "Clínica de amamantamiento"],
   "definition": "Facilities committed to the protection, promotion and support of breast feeding. Breastfeeding is the optimal way to feed neonates and infants.",
@@ -722,7 +722,7 @@ var palabras =[
  },
  {
   "Total": 81,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Breathing",
   "spaEquiv": ["Respiración","Respirar"],
   "definition": "The passage of air into and out of the lungs to supply the body with oxygen.",
@@ -731,7 +731,7 @@ var palabras =[
  },
  {
   "Total": 82,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Breathing tube",
   "spaEquiv": "Tubo respiratorio",
   "definition": "A tube inserted (as through the nose or mouth) into the trachea to maintain an unobstructed passageway especially to deliver oxygen or anesthesia to the lungs.",
@@ -740,7 +740,7 @@ var palabras =[
  },
  {
   "Total": 83,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Brief",
   "spaEquiv": ["Breve", "Corto", "Rápido","Conciso"],
   "definition": "Short in time, duration, length, or extent. A short, succinct statement.",
@@ -749,7 +749,7 @@ var palabras =[
  },
  {
   "Total": 84,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Broadside collision ",
   "spaEquiv": ["Choque de costado", "Choque lateral"],
   "definition": "Refers to where the side of one vehicle is impacted by the front or rear of another vehicle, forming a \"T\".",
@@ -758,7 +758,7 @@ var palabras =[
  },
  {
   "Total": 85,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Broken down ",
   "spaEquiv": "Descompuesto",
   "definition": "Not functioning due to a mechanical failure; worn-out.",
@@ -767,7 +767,7 @@ var palabras =[
  },
  {
   "Total": 86,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Bronchi",
   "spaEquiv": "Bronquios",
   "definition": "Plural form of bronchus. Any of the major air passages of the lungs that diverge from the windpipe.",
@@ -776,7 +776,7 @@ var palabras =[
  },
  {
   "Total": 87,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Browser ",
   "spaEquiv": ["Explorador","Navegador", "Buscador"],
   "definition": "A computer program for searching, especially on a worldwide network.",
@@ -785,7 +785,7 @@ var palabras =[
  },
  {
   "Total": 88,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Budget billing",
   "spaEquiv": ["Facturación presupuestada", "Facturación estandarizada"],
   "definition": "Utility bills fluctuate based on consumption; as a result, consumers may have high and low monthly utility bills. Budget billing refers to a program, offered by utility companies, in which the cost of utility bills during high demand months is spread out through the entire year. By spreading the cost of high demand months over a 12 month period, consumers do not need to stress over their utility bills.",
@@ -794,7 +794,7 @@ var palabras =[
  },
  {
   "Total": 89,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Bumper ",
   "spaEquiv": ["Parachoques", "Paragolpes", "Defensa"],
   "definition": "A horizontal bar fixed across the front or back of a motor vehicle to lessen or reduce shock or damage in a collision.",
@@ -803,7 +803,7 @@ var palabras =[
  },
  {
   "Total": 90,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Bundled services",
   "spaEquiv": ["Servicios incluidos", "Paquete de servicios", "Combo de servicios"],
   "definition": "Refers to offering several products for sale as one combined product.",
@@ -812,7 +812,7 @@ var palabras =[
  },
  {
   "Total": 91,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Burglary",
   "spaEquiv": ["Usurpación de morada", "Allanamiento de morada", "Meterse a robar un inmueble"],
   "definition": "Also called breaking and entering. It is an illegal entry into a building for the purposes of committing an offence. Usually that offence will be theft.",
@@ -821,7 +821,7 @@ var palabras =[
  },
  {
   "Total": 92,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Burning sensation",
   "spaEquiv": ["Ardor", "Escozor"],
   "definition": "Refers to any sensations anywhere that elicit a feeling of warmth or intense heat that may or may not be accompanied by pain. Blazing, red-hot, smoldering, sensation.",
@@ -830,7 +830,7 @@ var palabras =[
  },
  {
   "Total": 93,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Business days ",
   "spaEquiv": ["Días hábiles", "Días laborables", "Días útiles"],
   "definition": "A business day is considered every official working day of the week. Another common term is working day. Typically, these are the days between and including Monday to Friday and do not include public holidays and weekends.",
@@ -839,7 +839,7 @@ var palabras =[
  },
  {
   "Total": 94,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Buttock",
   "spaEquiv": ["Nalga", "Glúteo"],
   "definition": "Either of the two round fleshy parts that form the lower rear area of a human trunk.",
@@ -848,7 +848,7 @@ var palabras =[
  },
  {
   "Total": 95,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Cardiac arrest ",
   "spaEquiv": "Paro cardíaco",
   "definition": "A sudden, sometimes temporary, cessation of function of the heart.",
@@ -857,7 +857,7 @@ var palabras =[
  },
  {
   "Total": 96,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Case (number)",
   "spaEquiv": "Número de caso",
   "definition": "A reference number that may consist of all numbers, numbers and letters, or even include other characters such as a dash.",
@@ -866,7 +866,7 @@ var palabras =[
  },
  {
   "Total": 97,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Case worker",
   "spaEquiv": ["Trabajador de caso", "Trabajadora de caso"],
   "definition": "A type of social worker who is employed by a government agency, non-profit organization, or other group to take on the cases of individuals and provide them with advocacy, information or other services.",
@@ -875,7 +875,7 @@ var palabras =[
  },
  {
   "Total": 98,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Cavity",
   "spaEquiv": "Caries",
   "definition": "Tooth decay.",
@@ -884,7 +884,7 @@ var palabras =[
  },
  {
   "Total": 99,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Change lane (noun)",
   "spaEquiv": ["Carril de cambio", "Carril de cruce", "Carril para doblar", "Carril para cruzar"],
   "definition": "Refers to an auxiliary lane designed to separate turning vehicles from through vehicles.",
@@ -893,7 +893,7 @@ var palabras =[
  },
  {
   "Total": 100,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Charge",
   "spaEquiv": "Cobro",
   "definition": "To impose or ask as a price or fee.",
@@ -902,7 +902,7 @@ var palabras =[
  },
  {
   "Total": 101,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Chart ",
   "spaEquiv": "Cartilla médica ",
   "definition": "A sheet of information in the form of a table, graph or diagram.",
@@ -911,7 +911,7 @@ var palabras =[
  },
  {
   "Total": 102,
-  "Auto Insurance": "Travel and Hospitality",
+  "industry": "Travel and Hospitality",
   "engTerm": "Check-in",
   "spaEquiv": ["Registro de entrada", "Registro de ingreso"],
   "definition": "To register or record one's arrival somewhere, as at a hotel or airport.",
@@ -920,7 +920,7 @@ var palabras =[
  },
  {
   "Total": 103,
-  "Auto Insurance": "Travel and Hospitality",
+  "industry": "Travel and Hospitality",
   "engTerm": "Check-out",
   "spaEquiv": "Registro de salida",
   "definition": "Record one's departure from a hotel by paying the bill, or from a conference or other function.",
@@ -929,7 +929,7 @@ var palabras =[
  },
  {
   "Total": 104,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Check-point ",
   "spaEquiv": "Punto de inspección",
   "definition": "A point (place or location) at which a check is performed",
@@ -938,7 +938,7 @@ var palabras =[
  },
  {
   "Total": 105,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Checking account",
   "spaEquiv": ["Cuenta corriente", "Cuenta de cheques"],
   "definition": "A bank account from which you can take money by writing checks",
@@ -947,7 +947,7 @@ var palabras =[
  },
  {
   "Total": 106,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Chicken Pox",
   "spaEquiv": "Varicela",
   "definition": "Chickenpox is an infection caused by the varicella zoster virus. Most cases are in children under age 15, but older children and adults can get it. It spreads very easily from one person to another.",
@@ -956,7 +956,7 @@ var palabras =[
  },
  {
   "Total": 107,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Child support",
   "spaEquiv": ["Manutención de menores", "Manutención para las hijas", "Manutención para los hijos"],
   "definition": "Child support is money paid by one parent to the other parent for the purpose of providing financial support to a child or children. Most frequently, child support is paid by the non-custodial parent to the custodial parent.",
@@ -965,7 +965,7 @@ var palabras =[
  },
  {
   "Total": 108,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Chills",
   "spaEquiv": "Escalofríos",
   "definition": " A sensation of coldness, often accompanied by shivering and pallor of the skin.",
@@ -974,7 +974,7 @@ var palabras =[
  },
  {
   "Total": 109,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Chiropractor ",
   "spaEquiv": ["Quiropráctica", "Quiropráctico"],
   "definition": "A health care professional trained to diagnose and treat neuromuscular disorders, through manual adjustment andor manipulation of the spine, bones and joints.",
@@ -983,7 +983,7 @@ var palabras =[
  },
  {
   "Total": 110,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Chlamydia",
   "spaEquiv": "Clamidia",
   "definition": "A bacterial infection caused by  Chlamydia trachomatis. The infection can spread through the genital tract from various types of sexual contact.",
@@ -992,7 +992,7 @@ var palabras =[
  },
  {
   "Total": 111,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Choke",
   "spaEquiv": ["Atorarse", "Atragantarse"],
   "definition": "Refers to a person or animal with severe difficulty in breathing because of a constricted or obstructed throat or a lack of air.",
@@ -1001,7 +1001,7 @@ var palabras =[
  },
  {
   "Total": 112,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Chronic",
   "spaEquiv": "Crónico",
   "definition": "The term chronic is often applied when the course of the disease lasts for more than three months.",
@@ -1010,7 +1010,7 @@ var palabras =[
  },
  {
   "Total": 113,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Claim",
   "spaEquiv": ["Reclamación", "Reclamo"],
   "definition": "A demand for payment in accordance with an insurance policy. A demand for something due or believed to be due.",
@@ -1019,7 +1019,7 @@ var palabras =[
  },
  {
   "Total": 114,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Clinic",
   "spaEquiv": "Clínica",
   "definition": "A establishment or hospital department where outpatients are given treatment.",
@@ -1028,7 +1028,7 @@ var palabras =[
  },
  {
   "Total": 115,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Clutch ",
   "spaEquiv": "Embrague",
   "definition": "Refers to a mechanism for connecting and disconnecting an engine and the transmission system in a vehicle.",
@@ -1037,7 +1037,7 @@ var palabras =[
  },
  {
   "Total": 116,
-  "Auto Insurance": "Health Insurance",
+  "industry": "Health Insurance",
   "engTerm": "Co-pay / Co-payment",
   "spaEquiv": ["Copago", "Pago compartido", "Porción de pago"],
   "definition": "A common feature of many health plans, where the insured pays a set out-of-pocket amount for health care services. Providers often charge co-pays for services such as doctor visits or prescriptions drugs.",
@@ -1046,7 +1046,7 @@ var palabras =[
  },
  {
   "Total": 117,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Co-signer",
   "spaEquiv": ["Aval", "Fiador", "Fiadora"],
   "definition": "A person who signs an official document (such as a loan) with another person.",
@@ -1055,7 +1055,7 @@ var palabras =[
  },
  {
   "Total": 118,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Code",
   "spaEquiv": ["Código", "Clave"],
   "definition": "A set words, letters, figures, or other symbols identification or to protect private information.",
@@ -1064,7 +1064,7 @@ var palabras =[
  },
  {
   "Total": 119,
-  "Auto Insurance": "Health Insurance",
+  "industry": "Health Insurance",
   "engTerm": "Coinsurance",
   "spaEquiv": ["Coaseguro", "Co seguro", "Seguro compartido"],
   "definition": "Coinsurance is the percentage of costs a patient pays for medical expenses - such as a hospital stay, office visit, medical device, or prescription drug. Coinsurance is a form of cost-sharing, or splitting the cost of a service or medication between the insurance company and consumer.",
@@ -1073,7 +1073,7 @@ var palabras =[
  },
  {
   "Total": 120,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Collections (Collections department)",
   "spaEquiv": ["Departamento de cobranzas", "Departamento de cobros"],
   "definition": "A special department set up for the purpose of collectingrecovering payments on delinquent or past-due accounts. Not to be confused with a collections agency.",
@@ -1083,7 +1083,7 @@ var palabras =[
  },
  {
   "Total": 121,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Collision ",
   "spaEquiv": ["Colisión", "Choque"],
   "definition": "A crash, an accident resulting from violent impact of a moving object. A forcefull impact between two objects.",
@@ -1092,7 +1092,7 @@ var palabras =[
  },
  {
   "Total": 122,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Collision coverage",
   "spaEquiv": "Cobertura contra choques",
   "definition": "Coverage that pays for the repair or replacement of a vehicle in case of accident; forms part of what is considered \"full coverage\" for automobile policies.",
@@ -1101,7 +1101,7 @@ var palabras =[
  },
  {
   "Total": 123,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Come to rest (a car after an accident)",
   "spaEquiv": ["Pararse","Detenerse"],
   "definition": "Refers to the state of being motionless or settled.",
@@ -1110,7 +1110,7 @@ var palabras =[
  },
  {
   "Total": 124,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Communicable disease",
   "spaEquiv": ["Enfermedad contagiosa", "Enfermedad contagiable", "Enfermedad transferible"],
   "definition": "An infectious disease transmissible from person to person by direct contact with an affected individual or the individual's discharges or by indirect means.",
@@ -1119,7 +1119,7 @@ var palabras =[
  },
  {
   "Total": 125,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Compact",
   "spaEquiv": ["Compacta","Compacto"],
   "definition": "Something small, or densely packed.",
@@ -1128,7 +1128,7 @@ var palabras =[
  },
  {
   "Total": 126,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Comply (with)",
   "spaEquiv": "Cumplir",
   "definition": "To act or be in accordance with wishes, requests, demands, requirements, conditions, etc. ",
@@ -1137,7 +1137,7 @@ var palabras =[
  },
  {
   "Total": 127,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": ["Comprehensive", "Coverage"],
   "spaEquiv": ["Cobertura contra todo riesgo", "Cobertura integral"],
   "definition": "Automobile coverage that pays for damages not directly related to an auto crash, that covers a wide array of events that can damage your car, including theft, vandalism, fires and natural disasters.",
@@ -1146,7 +1146,7 @@ var palabras =[
  },
  {
   "Total": 128,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Congested ",
   "spaEquiv": ["Congestionada", "Congestionado"],
   "definition": "An abnormal or excessive accumulation of a body fluid. The term is used broadly in medicine, for example 'nasal congestion' referring to excess mucus and secretions in the air passages of the nose.",
@@ -1155,7 +1155,7 @@ var palabras =[
  },
  {
   "Total": 129,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Consolidate",
   "spaEquiv": "Consolidar",
   "definition": "To unite into one system or whole; combine to join or combine together into one thing.",
@@ -1164,7 +1164,7 @@ var palabras =[
  },
  {
   "Total": 130,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Constipation",
   "spaEquiv": "Estreñimiento",
   "definition": "The condition of being unable to easily release solid waste from your body; the condition of being unable to have a bowel movement easily.",
@@ -1173,7 +1173,7 @@ var palabras =[
  },
  {
   "Total": 131,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Contagious",
   "spaEquiv": ["Contagiosa", "Contagioso"],
   "definition": "(of a disease) Spread from one person or organism to another by direct or indirect contact.",
@@ -1182,7 +1182,7 @@ var palabras =[
  },
  {
   "Total": 132,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Corner",
   "spaEquiv": "Esquina",
   "definition": "The space between two converging lines or surfaces near their intersection; an angle, either external or internal.",
@@ -1191,7 +1191,7 @@ var palabras =[
  },
  {
   "Total": 133,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Cough",
   "spaEquiv": "Tos",
   "definition": "To expel air from the lungs suddenly and noisily, often to keep the respiratory passages free of irritating material. To force air through your throat with a short, loud noise often because you are sick.",
@@ -1200,7 +1200,7 @@ var palabras =[
  },
  {
   "Total": 134,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Cough up",
   "spaEquiv": ["Expectorar", "Toser"],
   "definition": "An illness marked by frequent coughing.",
@@ -1209,7 +1209,7 @@ var palabras =[
  },
  {
   "Total": 135,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Coverage",
   "spaEquiv": "Cobertura",
   "definition": "The extent of protection afforded by an insurance policy.",
@@ -1218,7 +1218,7 @@ var palabras =[
  },
  {
   "Total": 136,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "CPR (Cardiopulmonary resuscitation)",
   "spaEquiv": ["Resucitación cardiopulmonar", "RCP","Reanimación cardiopulmonar"],
   "definition": "CPR is an emergency procedure for a person whose heart has stopped or is no longer breathing. CPR can maintain circulation and breathing until emergency help arrives.",
@@ -1227,7 +1227,7 @@ var palabras =[
  },
  {
   "Total": 137,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Cramps",
   "spaEquiv": ["Cólicos","Calambres", "Retorcijones"],
   "definition": "A painful, involuntary contraction of a muscle or muscles, typically caused by fatigue or strain.",
@@ -1236,7 +1236,7 @@ var palabras =[
  },
  {
   "Total": 138,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Crash (verb)",
   "spaEquiv": ["Estrellarse", "Colisionar"],
   "definition": "To collide violently with an obstacle or another vehicle.",
@@ -1245,7 +1245,7 @@ var palabras =[
  },
  {
   "Total": 139,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Credit (verb)",
   "spaEquiv": "Acreditar",
   "definition": "To add an amount of money to an account. Can also be to return an amount back to an account.",
@@ -1254,7 +1254,7 @@ var palabras =[
  },
  {
   "Total": 140,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Credit card",
   "spaEquiv": "Tarjeta de crédito",
   "definition": "A card entitling the owner to use funds from the issuing company up to a certain limit.",
@@ -1263,7 +1263,7 @@ var palabras =[
  },
  {
   "Total": 141,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Credit Check",
   "spaEquiv": ["Verificación de crédito", "Verificación crediticia"],
   "definition": "An examination of someone's credit history (record of paying debt) by a financial organization that is considering lending them money.",
@@ -1272,7 +1272,7 @@ var palabras =[
  },
  {
   "Total": 142,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Credit limit",
   "spaEquiv": "Límite de crédito",
   "definition": "The maximum amount of credit that a financial institution or other lender will extend to a debtor for a loan, credit card or line of credit.",
@@ -1281,7 +1281,7 @@ var palabras =[
  },
  {
   "Total": 143,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Credit report",
   "spaEquiv": ["Informe de crédito", "Reporte de crédito"],
   "definition": "A summary of your financial and debt management history.",
@@ -1290,7 +1290,7 @@ var palabras =[
  },
  {
   "Total": 144,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Credit score",
   "spaEquiv": ["Puntaje de crédito", "Calificación de crédito"],
   "definition": "A number between 300-850 that depicts a consumer's creditworthiness. The higher the score, the better a borrower looks to potential lenders.",
@@ -1299,7 +1299,7 @@ var palabras =[
  },
  {
   "Total": 145,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": ["Crosswalk", "Pedestrian crossing"],
   "spaEquiv": ["Paso peatonal", "Cruce de cebra"],
   "definition": "A marked part of a road where pedestrians have right of way to cross.",
@@ -1308,7 +1308,7 @@ var palabras =[
  },
  {
   "Total": 146,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Cruise control",
   "spaEquiv": "Piloto automático",
   "definition": "An electronic device in a motor vehicle that can be switched on to maintain a selected constant speed without the use of the accelerator.",
@@ -1317,7 +1317,7 @@ var palabras =[
  },
  {
   "Total": 147,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Crutches",
   "spaEquiv": "Muletas",
   "definition": "A long stick with a crosspiece at the top, used as a support under the armpit by a person with an injury or disability.",
@@ -1326,7 +1326,7 @@ var palabras =[
  },
  {
   "Total": 148,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "CT (Computerized Tomography) scan",
   "spaEquiv": "Tomografía computarizada",
   "definition": "A type of imaging that uses special x-ray equipment to make cross-sectional pictures of your body.",
@@ -1335,7 +1335,7 @@ var palabras =[
  },
  {
   "Total": 149,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Current",
   "spaEquiv": ["Actual", "Al Día", "Al Corriente"],
   "definition": "Up to date, current, most recent.",
@@ -1344,7 +1344,7 @@ var palabras =[
  },
  {
   "Total": 150,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Cut-off time",
   "spaEquiv": ["Hora de cierre", "Hora Límite"],
   "definition": "The latest time in any business day that a particular transaction, request or instruction can be processed.",
@@ -1353,7 +1353,7 @@ var palabras =[
  },
  {
   "Total": 151,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Cerebrovascular accident (CVA)",
   "spaEquiv": "Accidente cerebrovascular (ACV)",
   "definition": "The sudden death of some brain cells due to lack of oxygen when the blood flow to the brain is impaired by blockage or rupture of an artery to the brain. A CVA is a higher-register term for stroke.",
@@ -1362,7 +1362,7 @@ var palabras =[
  },
  {
   "Total": 152,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Damages",
   "spaEquiv": ["Daños", "Pérdidas"],
   "definition": "Destruction or a loss in value, usefulness, or ability resulting from an action or event. physical harm that is done to something or to someone's body.",
@@ -1371,7 +1371,7 @@ var palabras =[
  },
  {
   "Total": 153,
-  "Auto Insurance": "Jail system",
+  "industry": "Jail system",
   "engTerm": "Disciplinary Segregation / Dis-Seg",
   "spaEquiv": "Aislamiento disciplinario",
   "definition": "Status assigned to an inmate, as a consequence from a violation of jail rules, which consists of confinement in a cell, room, or other housing unit, in isolation, segregated from inmates who are not on disciplinary segregation status.",
@@ -1380,7 +1380,7 @@ var palabras =[
  },
  {
   "Total": 154,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Deadline",
   "spaEquiv": "Fecha límite",
   "definition": "The latest time or date by which something should be completed. The due date of a bill or task to be completed.",
@@ -1389,7 +1389,7 @@ var palabras =[
  },
  {
   "Total": 155,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Dealer",
   "spaEquiv": "Concesionario",
   "definition": "To sell or distribute something as a business.",
@@ -1398,7 +1398,7 @@ var palabras =[
  },
  {
   "Total": 156,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Debris",
   "spaEquiv": "Escombros",
   "definition": "The scattered remains of something broken or destroyed; rubble or wreckage.",
@@ -1407,7 +1407,7 @@ var palabras =[
  },
  {
   "Total": 157,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Debts",
   "spaEquiv": "Deudas",
   "definition": "Something, typically money, that is owed or due.",
@@ -1416,7 +1416,7 @@ var palabras =[
  },
  {
   "Total": 158,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Deductible",
   "spaEquiv": "Deducible",
   "definition": "The amount for which the insured is liable on each claim made on an insurance policy.",
@@ -1425,7 +1425,7 @@ var palabras =[
  },
  {
   "Total": 159,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Default",
   "spaEquiv": "Incumplimiento",
   "definition": "Default signifies that the account terms were not met and the lender has determined the debt will not be paid.",
@@ -1434,7 +1434,7 @@ var palabras =[
  },
  {
   "Total": 160,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Delinquency",
   "spaEquiv": ["Morosidad", "Falta de pago"],
   "definition": "Delinquency means the the account payment was not made on or before the payment due date.",
@@ -1443,7 +1443,7 @@ var palabras =[
  },
  {
   "Total": 161,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Defroster",
   "spaEquiv": "Desempañador",
   "definition": "A system to clear condensation and thaw frost from the windshield, backglass, andor side windows of a motor vehicle.",
@@ -1452,7 +1452,7 @@ var palabras =[
  },
  {
   "Total": 162,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Delivery",
   "spaEquiv": ["Parto" , "Alumbramiento", "Dar a luz", "Parir"],
   "definition": "The act of giving birth; parturition.",
@@ -1461,7 +1461,7 @@ var palabras =[
  },
  {
   "Total": 163,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Dent",
   "spaEquiv": ["Abolladura", "Hendidura"],
   "definition": "A slight hollow in a hard, even surface made by a blow or by the exertion of pressure. Having the central part lower than the margin.",
@@ -1470,7 +1470,7 @@ var palabras =[
  },
  {
   "Total": 164,
-  "Auto Insurance": "Travel and Hospitality",
+  "industry": "Travel and Hospitality",
   "engTerm": "Departure",
   "spaEquiv": "Salida",
   "definition": "The act of leaving somewhere.",
@@ -1479,7 +1479,7 @@ var palabras =[
  },
  {
   "Total": 165,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Deploy",
   "spaEquiv": "Desplegar",
   "definition": "When a safety device in a car, consisting of a bag inflates automatically in an accident and prevents the passengers from being thrown forward.",
@@ -1488,7 +1488,7 @@ var palabras =[
  },
  {
   "Total": 166,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Deposit",
   "spaEquiv": "Depositar",
   "definition": "To put (money) in a bank account.",
@@ -1497,7 +1497,7 @@ var palabras =[
  },
  {
   "Total": 167,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Detour",
   "spaEquiv": ["Desvío", "Desviación"],
   "definition": "A long or roundabout route taken to avoid something along the way.",
@@ -1506,7 +1506,7 @@ var palabras =[
  },
  {
   "Total": 168,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Diabetes",
   "spaEquiv": "Diabetes",
   "definition": "Any of a group of diseases characterized by high blood sugar (glucose) levels caused by insufficient production of insulin, impaired response to insulin, or both. With type 1 diabetes, your body does not make insulin. With type 2 diabetes, the more common type, your body does not make or use insulin well. Without enough insulin, the glucose stays in your blood.",
@@ -1515,7 +1515,7 @@ var palabras =[
  },
  {
   "Total": 169,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Diapers",
   "spaEquiv": "Pañales",
   "definition": "A piece of absorbent material wrapped around a baby's bottom and between their legs to absorb and retain urine and feces.",
@@ -1524,7 +1524,7 @@ var palabras =[
  },
  {
   "Total": 170,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Diarrhea",
   "spaEquiv": "Diarrea",
   "definition": "Loose, watery stools more than three times in one day. You may also have cramps, bloating, nausea and an urgent need to have a bowel movement.",
@@ -1533,7 +1533,7 @@ var palabras =[
  },
  {
   "Total": 171,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Digits",
   "spaEquiv": ["Dígitos", "Números"],
   "definition": "Any of the Arabic numerals 1 to 9 and usually the symbol 0, especially when forming part of a number.",
@@ -1542,7 +1542,7 @@ var palabras =[
  },
  {
   "Total": 172,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Direct deposit",
   "spaEquiv": "Depósito directo",
   "definition": "The electronic transfer of funds directly from the payer into the bank account of the recipient.",
@@ -1551,7 +1551,7 @@ var palabras =[
  },
  {
   "Total": 173,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Direction",
   "spaEquiv": ["Dirección", "Rumbo"],
   "definition": "The course or path on which something is moving or pointing.",
@@ -1560,7 +1560,7 @@ var palabras =[
  },
  {
   "Total": 174,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Disability",
   "spaEquiv": ["Discapacidad", "Incapacidad"],
   "definition": "Impairment of physical activity; the extent to which normal work or daily activities cannot be performed due to mental or physical injury or impairment.",
@@ -1569,7 +1569,7 @@ var palabras =[
  },
  {
   "Total": 175,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Discharge (from the body)",
   "spaEquiv": ["Flujo", "Secreción"],
   "definition": "Secretions.",
@@ -1578,7 +1578,7 @@ var palabras =[
  },
  {
   "Total": 176,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Discharge (release from the hospital)",
   "spaEquiv": "Dar de alta",
   "definition": "The point at which the patient leaves the hospital and either returns home or is transferred to another facility such as one for rehabilitation or to a nursing home.",
@@ -1587,7 +1587,7 @@ var palabras =[
  },
  {
   "Total": 177,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Disclaimer",
   "spaEquiv": "Descargo de responsabilidad",
   "definition": "A defensive measure, used generally with the purpose of protection from unwanted claims or liability.",
@@ -1596,7 +1596,7 @@ var palabras =[
  },
  {
   "Total": 178,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Disclosure",
   "spaEquiv": "Divulgación",
   "definition": "A notice or a statement that lets people know relevant information that could help them make informed decisions about a service.",
@@ -1605,7 +1605,7 @@ var palabras =[
  },
  {
   "Total": 179,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Discomfort",
   "spaEquiv": ["Molestia", "Malestar"],
   "definition": "An absence of comfort or ease; uneasiness, hardship, or mild pain. Being uneasy, anxious, or embarrassed.",
@@ -1614,7 +1614,7 @@ var palabras =[
  },
  {
   "Total": 180,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": ["Disconnection", "Shutoff"],
   "spaEquiv": "Desconexión",
   "definition": "To stop or end the supply of electricity, water, gas, etc., to (something, such as a piece of electronic equipment).",
@@ -1623,7 +1623,7 @@ var palabras =[
  },
  {
   "Total": 181,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Ditch",
   "spaEquiv": "Zanja",
   "definition": "A narrow channel dug in the ground, typically used for drainage alongside a road or the edge of a field.",
@@ -1632,7 +1632,7 @@ var palabras =[
  },
  {
   "Total": 182,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": ["Dizzy", "Light headed"],
   "spaEquiv": "Mareada(o)  Aturdida(o)",
   "definition": "Having a feeling of being whirled about and in danger of falling down. Feeling unsteady or confused.",
@@ -1641,7 +1641,7 @@ var palabras =[
  },
  {
   "Total": 183,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "DMV (Department of Motor Vehicles)",
   "spaEquiv": "Departamento de Vehiculos Motorizados",
   "definition": "A state agency in charge of administering vehicle registration and driver licensing and keeping driving records for drivers in the state, including tickets, accidents, etc.",
@@ -1650,7 +1650,7 @@ var palabras =[
  },
  {
   "Total": 184,
-  "Auto Insurance": "Jail system",
+  "industry": "Jail system",
   "engTerm": ["Doing the Dutch", "The Dutch Act"],
   "spaEquiv": "Reclusa(o) que planea suicidarse",
   "definition": "Inmate talk: To commit suicide",
@@ -1659,7 +1659,7 @@ var palabras =[
  },
  {
   "Total": 185,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Dosage",
   "spaEquiv": "Dosificación",
   "definition": "Refers to the duration or frequency at which a medicine must be taken or administered. The dosage is the dose, or amount of drug, plus when and how often to take it.",
@@ -1668,7 +1668,7 @@ var palabras =[
  },
  {
   "Total": 186,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Dose",
   "spaEquiv": "Dosis",
   "definition": "Refers to a measured portion or a quantity of a medicine or a substance that must be taken at a time.",
@@ -1677,7 +1677,7 @@ var palabras =[
  },
  {
   "Total": 187,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Double park",
   "spaEquiv": "Estacionarse paralelamente",
   "definition": "Park (a vehicle) alongside one that is already parked at the side of the road.",
@@ -1686,7 +1686,7 @@ var palabras =[
  },
  {
   "Total": 188,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "(Feeling) Down / Weak",
   "spaEquiv": ["Decaída", "Decaído"],
   "definition": "Feeling out of sorts, under the weather, weak, unwell.",
@@ -1695,7 +1695,7 @@ var palabras =[
  },
  {
   "Total": 189,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Down payment",
   "spaEquiv": ["Pago inicial" ,"Cuota Inicial", "Anticipo"],
   "definition": "An initial amount paid at the time of purchase.",
@@ -1704,7 +1704,7 @@ var palabras =[
  },
  {
   "Total": 190,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "DPT / DTP / DTaP / TdaP / DTP vaccine",
   "spaEquiv": "Vacuna contra la difteria, el tétanos y la tos ferina ",
   "definition": "A vaccine used for active immunization against diphtheria, tetanus, and whooping cough. Sometimes this vaccine is called the bacterial triple shot, however, it is a different register.",
@@ -1713,7 +1713,7 @@ var palabras =[
  },
  {
   "Total": 191,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Drivable",
   "spaEquiv": ["Conducible", "Manejable"],
   "definition": "Vehicle which use or operation is possible.",
@@ -1722,7 +1722,7 @@ var palabras =[
  },
  {
   "Total": 192,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Drive-in facility",
   "spaEquiv": "Centro de inspecciones",
   "definition": "Locations designated by auto insurance companies, where drivers can bring their vehicles to have damages inspected, in order to have an estimate of the repair costs. An insurance office designated to inspect and evaluate damages to automobiles.",
@@ -1731,7 +1731,7 @@ var palabras =[
  },
  {
   "Total": 193,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Drive-through bank ",
   "spaEquiv": "Auto banco",
   "definition": "Refers to a type of service provided by a business that allows customers to purchase products or receive services without leaving their cars.",
@@ -1740,7 +1740,7 @@ var palabras =[
  },
  {
   "Total": 194,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Driver's License",
   "spaEquiv": "Licencia de conducir",
   "definition": "An official document or card which shows that you have the legal right to drive a vehicle. A permit, issued by a state's motor vehicle bureau, that allows the holder to drive a motor vehicle on public roads.",
@@ -1749,7 +1749,7 @@ var palabras =[
  },
  {
   "Total": 195,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Drizzle",
   "spaEquiv": ["Llovizna", "Garúa"],
   "definition": "Rain that falls lightly in very small drops.",
@@ -1758,7 +1758,7 @@ var palabras =[
  },
  {
   "Total": 196,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Due date",
   "spaEquiv": "Fecha de vencimiento",
   "definition": "The day by which something must be completed, done, paid, etc. ",
@@ -1767,7 +1767,7 @@ var palabras =[
  },
  {
   "Total": 197,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "DUI",
   "spaEquiv": "Conducir bajo los efectos de alcohol o drogas",
   "definition": "Refers to the crime of driving a motor vehicle while impaired by alcohol or other drugs (including recreational drugs and those prescribed by physicians), to a level that renders the driver incapable of operating a motor vehicle safely.",
@@ -1776,7 +1776,7 @@ var palabras =[
  },
  {
   "Total": 198,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Dull pain",
   "spaEquiv": "Dolor sordo",
   "definition": "Pain lacking in force, intensity, or sharpness; type of pain that is not very strong but continues for a long time.",
@@ -1785,7 +1785,7 @@ var palabras =[
  },
  {
   "Total": 199,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Durable medical equipment",
   "spaEquiv": "Equipo médico duradero",
   "definition": "Any equipment that provides therapeutic benefits to a patient in need because of certain conditions andor illnesses.",
@@ -1794,7 +1794,7 @@ var palabras =[
  },
  {
   "Total": 200,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "DWI (Driving While Intoxicated)",
   "spaEquiv": ["Conducir", "manejar en estado de ebriedad"],
   "definition": "In one state, DUI might be the same as DWI, while in another state the two terms could be different. DUI refers to driving under the influence, while DWI may mean driving while intoxicated or driving while impaired. The precise definitions depend on the state.",
@@ -1803,7 +1803,7 @@ var palabras =[
  },
  {
   "Total": 201,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Earning (an income)",
   "spaEquiv": "Generación de ingresos",
   "definition": "To gain or be paid (money or other payment) in return for work or service.",
@@ -1812,7 +1812,7 @@ var palabras =[
  },
  {
   "Total": 202,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Eastbound",
   "spaEquiv": ["En dirección este", "Rumbo al este"],
   "definition": "Going towards the east.",
@@ -1821,7 +1821,7 @@ var palabras =[
  },
  {
   "Total": 203,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "EBT card",
   "spaEquiv": "Tarjeta de transferencia electrónica de beneficios (Tarjeta EBT )",
   "definition": "Through the EBT program, recipients of nutrition assistance are issued an electronic card similar to a debit card for payment of benefits directly to retailers. EBT is used most commonly for a program called SNAP, which provides food-purchasing assistance for low- and no-income people.",
@@ -1830,7 +1830,7 @@ var palabras =[
  },
  {
   "Total": 204,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Effective date",
   "spaEquiv": "Fecha de vigencia",
   "definition": "The date on which coverage begins. Date on which some service, agreement or right of use enters into effect.",
@@ -1839,7 +1839,7 @@ var palabras =[
  },
  {
   "Total": 205,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Eligible",
   "spaEquiv": "Elegible",
   "definition": "Meeting the stipulated requirements;qualified.",
@@ -1848,7 +1848,7 @@ var palabras =[
  },
  {
   "Total": 206,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Emergency",
   "spaEquiv": "Emergencia",
   "definition": "An unexpected and usually dangerous situation that calls for immediate medical attention.",
@@ -1857,7 +1857,7 @@ var palabras =[
  },
  {
   "Total": 207,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": ["Emergency lights" ,"Emergency blinkers","Hazard lights"],
   "spaEquiv": ["Luces de emergencias","Luces intermitentes"],
   "definition": "The flashing lights of a motor vehicle to indicate that the vehicle is stationary and temporarily obstructing the traffic.",
@@ -1866,7 +1866,7 @@ var palabras =[
  },
  {
   "Total": 208,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Emergency Room (ER) / Emergency Department (ED)",
   "spaEquiv": "Sala de emergencias",
   "definition": "A hospital room or area that is used for treating people who need immediate medical care - abbreviation ER. The section of a health care facility for providing rapid treatment to victims of sudden illness or trauma.",
@@ -1875,7 +1875,7 @@ var palabras =[
  },
  {
   "Total": 209,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Employer",
   "spaEquiv": ["Empleador", "Empleadora", "Patrona", "Patrón"],
   "definition": "A person or company that has people who do work for wages or a salary.",
@@ -1884,7 +1884,7 @@ var palabras =[
  },
  {
   "Total": 210,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Employment",
   "spaEquiv": "Empleo",
   "definition": "An activity or service performed for another, especially for compensation or as an occupation.",
@@ -1893,7 +1893,7 @@ var palabras =[
  },
  {
   "Total": 211,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "EMS (Emergency Medical Service)",
   "spaEquiv": "Servicio de emergencias médicas",
   "definition": "A system that provides emergency medical care. Once it is activated by an incident that causes serious illness or injury, the focus of EMS is emergency medical care of the patient(s).",
@@ -1902,7 +1902,7 @@ var palabras =[
  },
  {
   "Total": 212,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "EMT (Emergency Medical Technician)",
   "spaEquiv": ["Técnica de emergencias médicas", "Técnico de emergencias médicas"],
   "definition": "A first responder who is trained in basic medical knowledge and skills to provide immediate medical care to patients in an emergency. They are often the first emergency service providers to arrive on the scene of a crisis, such as an accident, medical emergency, fire or natural disaster.",
@@ -1911,7 +1911,7 @@ var palabras =[
  },
  {
   "Total": 213,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Engine",
   "spaEquiv": "Motor",
   "definition": "A motor that propels an automobile by converting thermal energy to power to produce force and motion.",
@@ -1920,7 +1920,7 @@ var palabras =[
  },
  {
   "Total": 214,
-  "Auto Insurance": "Health Insurance",
+  "industry": "Health Insurance",
   "engTerm": "Enroll (verb)",
   "spaEquiv": "Inscribirse",
   "definition": "To register and give information relevant to an insured's participation in an insurance plan. To officially register as a member of an institution, company or organization that provides services.",
@@ -1929,7 +1929,7 @@ var palabras =[
  },
  {
   "Total": 215,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Enrolled",
   "spaEquiv": ["Inscrita", "Inscrito"],
   "definition": "To officially register as a member of an institution, company or organization that provides services.",
@@ -1938,7 +1938,7 @@ var palabras =[
  },
  {
   "Total": 216,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Entrance",
   "spaEquiv": ["Entrada", "Puerta"],
   "definition": "The means or place of entry, such as a vestibule, passage, driveway, door or gate. ",
@@ -1947,7 +1947,7 @@ var palabras =[
  },
  {
   "Total": 217,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Equipment",
   "spaEquiv": ["Aparato", "Equipo"],
   "definition": "A set of tools or devices used or needed fora specific purpose or activity.",
@@ -1956,7 +1956,7 @@ var palabras =[
  },
  {
   "Total": 218,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Equity",
   "spaEquiv": ["Valor líquido",  "Plusvalía", "Patrimonio", "Capital"],
   "definition": "The value of a piece of property (such as a house) after any debts that remain to be paid for it (such as the amount of a mortgage) have been subtracted. In equity is the difference between the value of the assets and the cost of the liabilities of something owned.",
@@ -1965,7 +1965,7 @@ var palabras =[
  },
  {
   "Total": 219,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Escrow account",
   "spaEquiv": ["Cuenta de plica", "Cuenta de depésitos en garantía", "Cuenta de fondos en custodia"],
   "definition": "An account designed to safely hold funds temporarily. For example, a bank can be the escrow provider holding deposits for taxes and insurance on a mortgage loan.",
@@ -1974,7 +1974,7 @@ var palabras =[
  },
  {
   "Total": 220,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Estimate",
   "spaEquiv": ["Presupuesto", "Estimación", "Cálculo aproximado"],
   "definition": "A statement of the approximate cost of work to be done, such as car repairs or a building project.",
@@ -1983,7 +1983,7 @@ var palabras =[
  },
  {
   "Total": 221,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Exit (ramp)",
   "spaEquiv": "(Rampa de) salida",
   "definition": "A highway ramp as in exit ramp  off-ramp which allows vehicles to exit a controlled-access highway, freeway or motorway.",
@@ -1992,7 +1992,7 @@ var palabras =[
  },
  {
   "Total": 222,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Expedite",
   "spaEquiv": ["Acelerar, Agilizar"],
   "definition": "To speed up the progress or executequickly.",
@@ -2001,7 +2001,7 @@ var palabras =[
  },
  {
   "Total": 223,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Expiration date",
   "spaEquiv": "Fecha de vencimiento",
   "definition": "The date after which something (as a credit card) is no longer in effect; the date after which a product (as food or medicine) should not be sold because of an expected decline in quality or effectiveness.",
@@ -2010,7 +2010,7 @@ var palabras =[
  },
  {
   "Total": 224,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Expire",
   "spaEquiv": ["Vencer", "Caducar", "Expirar"],
   "definition": "The ending date of an agreement or contract period.",
@@ -2019,7 +2019,7 @@ var palabras =[
  },
  {
   "Total": 225,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Factory installed",
   "spaEquiv": "Instalado de fábrica",
   "definition": "Equipment or feature installed in an article during the manufacturing process.",
@@ -2028,7 +2028,7 @@ var palabras =[
  },
  {
   "Total": 226,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Feces / Excrement  / Stool / Fecal matter",
   "spaEquiv": ["Excremento", "Heces", "Materia fecal"],
   "definition": "Solid waste passed out of the body.",
@@ -2037,7 +2037,7 @@ var palabras =[
  },
  {
   "Total": 227,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Fee",
   "spaEquiv": ["Cargo","Tarifa","Cuota"],
   "definition": "A payment made to a company or professional person in exchange for services. ie. bank's fees, attorney's fees, an admission's fee, etc.",
@@ -2046,7 +2046,7 @@ var palabras =[
  },
  {
   "Total": 228,
-  "Auto Insurance": "Health Insurance",
+  "industry": "Health Insurance",
   "engTerm": "Fee schedule",
   "spaEquiv": ["Tarifa preindicada", "Lista de precios preindicados"],
   "definition": "A comprehensive listing of fee maximums used to reimburse a physician andor other providers on a fee-for-service basis.",
@@ -2055,7 +2055,7 @@ var palabras =[
  },
  {
   "Total": 229,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Felony",
   "spaEquiv": "Delito mayor",
   "definition": "Serious crimes, such as murder, rape, or robbery, punishable by a more stringent sentence than that given for a misdemeanor.",
@@ -2064,7 +2064,7 @@ var palabras =[
  },
  {
   "Total": 230,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Fender (car) / Mudguard (bicycle)",
   "spaEquiv": ["Guardafango", "Guardabarros", "Guardalodos", "Salpicadera"],
   "definition": "Fender: part of the body of an automobile that is mounted over the wheels to reduce the splashing of mud and water. A guard over each wheel of a motor vehicle, for example, that is shaped and positioned so as to block the splashing of water or mud.Mudguard: a curved strip or cover over a wheel of a vehicle, especially a bicycle or motorcycle, designed to the protect the vehicle and rider from water and dirt thrown up from the road.",
@@ -2073,7 +2073,7 @@ var palabras =[
  },
  {
   "Total": 231,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Fender bender ",
   "spaEquiv": "Choque leve",
   "definition": "A minor collision between motor vehicles.",
@@ -2082,7 +2082,7 @@ var palabras =[
  },
  {
   "Total": 232,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Fever / Temperature",
   "spaEquiv": ["Fiebre", "Tener temperatura"],
   "definition": "An abnormally high body temperature, usually accompanied by shivering, headache, and in severe instances, delirium.",
@@ -2091,7 +2091,7 @@ var palabras =[
  },
  {
   "Total": 233,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Field sobriety test ",
   "spaEquiv": ["Prueba de sobriedad en el sitio", "Prueba de sobriedad en el lugar"],
   "definition": "The Standardized Field Sobriety Test (SFST) is a battery of 3 tests performed during a traffic stop in order to determine if a driver is impaired. The 3 tests that make up the SFST are the horizontal gaze nystagmus (HGN), the walk-and-turn, and the one-leg stand tests.",
@@ -2100,7 +2100,7 @@ var palabras =[
  },
  {
   "Total": 234,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "File taxes (verb)",
   "spaEquiv": "Declarar impuestos",
   "definition": "Generation of a tax return.",
@@ -2109,7 +2109,7 @@ var palabras =[
  },
  {
   "Total": 235,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Fill a precription (verb)",
   "spaEquiv": ["Surtir una medicina", "Surtir una receta"],
   "definition": "Presenting a prescription provided by a healthcare professional to a pharmacy who in turn dispenses the medication listed in the precription.",
@@ -2118,7 +2118,7 @@ var palabras =[
  },
  {
   "Total": 236,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Fine (context dependent) / Penalties",
   "spaEquiv": "Multa",
   "definition": "Refers to a sum of money required to be paid especially to the government as a penalty for an offense.",
@@ -2127,7 +2127,7 @@ var palabras =[
  },
  {
   "Total": 237,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Fingerprints",
   "spaEquiv": ["Huellas dactilares", "Huellas digitales"],
   "definition": "A mark made by the pattern of ridges on the pad of a human finger.",
@@ -2136,7 +2136,7 @@ var palabras =[
  },
  {
   "Total": 238,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Fishtail (verb)",
   "spaEquiv": ["Colearse", "Derrapar"],
   "definition": "Refers to a vehicle skidding in a way that makes a fishtail movement.",
@@ -2145,7 +2145,7 @@ var palabras =[
  },
  {
   "Total": 239,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Fixed interest rate",
   "spaEquiv": "Tasa fija de interés",
   "definition": "An interest rate that does not change over the life of a loan or other form of credit.",
@@ -2154,7 +2154,7 @@ var palabras =[
  },
  {
   "Total": 240,
-  "Auto Insurance": "Travel and Hospitality",
+  "industry": "Travel and Hospitality",
   "engTerm": "Flight ",
   "spaEquiv": "Vuelo ",
   "definition": "A scheduled airline trip.",
@@ -2163,7 +2163,7 @@ var palabras =[
  },
  {
   "Total": 241,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Flip over / Tip over /Overturn",
   "spaEquiv": ["Volcar", "Volcarse"],
   "definition": "Turn upside down.",
@@ -2172,7 +2172,7 @@ var palabras =[
  },
  {
   "Total": 242,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Fog ",
   "spaEquiv": "Neblina ",
   "definition": "Vapor condensed to fine particles of water suspended in the lower atmosphere that differs from cloud only in being near the ground.",
@@ -2181,7 +2181,7 @@ var palabras =[
  },
  {
   "Total": 243,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Follow-up",
   "spaEquiv": ["Seguimiento", "Continuación"],
   "definition": "To pursue further attention to reinforce an initial action. Med: a routine examination of a patient after  or surgical treatment. A doctor's visits to check on the progress a patient is making following a procedure or treatment for a condition.",
@@ -2190,7 +2190,7 @@ var palabras =[
  },
  {
   "Total": 244,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Food bank",
   "spaEquiv": "Banco de alimentos",
   "definition": "A place where stocks of food, typically basic provisions and non-perishable items, are supplied free of charge to people in need.",
@@ -2199,7 +2199,7 @@ var palabras =[
  },
  {
   "Total": 245,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Food poisoning",
   "spaEquiv": ["Intoxicación con alimentos", "Envenenamiento por comestibles"],
   "definition": "Illness caused by bacteria or other toxins in food, typically with vomiting and diarrhea.",
@@ -2208,7 +2208,7 @@ var palabras =[
  },
  {
   "Total": 246,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Food stamps",
   "spaEquiv": ["Cupones de alimentos", "Vales de comida", "Cupones de comida", "Vales de despensa"],
   "definition": "Government benefits provided to eligible low-income individuals to be used to purchase food products.",
@@ -2217,7 +2217,7 @@ var palabras =[
  },
  {
   "Total": 247,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Foreclosure ",
   "spaEquiv": ["Ejecución hipotecaria", "Juicio hipotecario", "Ejecución de la hipoteca"],
   "definition": "Foreclosure occurs when a lender repossesses a house because the homeowner has defaulted on their mortgage loan or home equity line of credit.",
@@ -2226,7 +2226,7 @@ var palabras =[
  },
  {
   "Total": 248,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Forge / Falsify (verb)",
   "spaEquiv": "Falsificar",
   "definition": "To make or produce a fraudulent imitation of (a signature, banknote, etc) or to commit forgery. To alter in order to commit fraud.",
@@ -2235,7 +2235,7 @@ var palabras =[
  },
  {
   "Total": 249,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Forms ",
   "spaEquiv": ["Formularios", "Planillas"],
   "definition": "Refers to formatted documents with spaces in which to writeenter or select data.",
@@ -2244,7 +2244,7 @@ var palabras =[
  },
  {
   "Total": 250,
-  "Auto Insurance": "Health Insurance",
+  "industry": "Health Insurance",
   "engTerm": "Formulary medication",
   "spaEquiv": ["Medicamentos de la lista de medicamentos aprobados", "Medicamento de la lista de medicinas aprobadas por el seguro de salud"],
   "definition": "Formularies are lists that have the insurance carriers preferred drugs. You can normally find both generic and brand name drugs in the formularies.",
@@ -2253,7 +2253,7 @@ var palabras =[
  },
  {
   "Total": 251,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Four wheel drive",
   "spaEquiv": ["4x4", "Doble tracción", "Tracción en las cuatro llantas"],
   "definition": "A transmission system that provides power directly to all four wheels of a vehicle.",
@@ -2262,7 +2262,7 @@ var palabras =[
  },
  {
   "Total": 252,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Fraud",
   "spaEquiv": ["Fraude", "Fraudulento"],
   "definition": "Deliberate deception, trickery, or cheating intended to gain an advantage.",
@@ -2271,7 +2271,7 @@ var palabras =[
  },
  {
   "Total": 253,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Freeway",
   "spaEquiv": "Autopista",
   "definition": "An express highway, especially one with controlled access.",
@@ -2280,7 +2280,7 @@ var palabras =[
  },
  {
   "Total": 254,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Full Coverage",
   "spaEquiv": "Cobertura Completa",
   "definition": "This term denotes a combination of coverage bundled into one policy. The Full Coverage designation typically means that the policy includes Liability coverage, Comprehensive coverage and Collision; thus, the insured party is protected against the three major sources of loss.",
@@ -2289,7 +2289,7 @@ var palabras =[
  },
  {
   "Total": 255,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Furnace",
   "spaEquiv": ["Calentador principal","Caldera"],
   "definition": "Refers to an enclosed structure used to provide heat or high-temperature heating.",
@@ -2298,7 +2298,7 @@ var palabras =[
  },
  {
   "Total": 256,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Gas leak",
   "spaEquiv": ["Fuga de gas", "Escape de gas"],
   "definition": "The escape of natural gas or other gaseous product from a pipeline or other containment into a living area or any other area where the gas should not be present.",
@@ -2307,7 +2307,7 @@ var palabras =[
  },
  {
   "Total": 257,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Gear shift",
   "spaEquiv": "Palanca de cambio de velocidades",
   "definition": "A device used to engage or disengage gears in a transmission or similar mechanism.",
@@ -2316,7 +2316,7 @@ var palabras =[
  },
  {
   "Total": 258,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Generic",
   "spaEquiv": ["Genérica","Genérico"],
   "definition": "Relating to or being a product that is sold or distributed without any brand name, especially as a discount alternative to a brand-name product.",
@@ -2325,7 +2325,7 @@ var palabras =[
  },
  {
   "Total": 259,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "German measles (rubella)",
   "spaEquiv": ["Sarampin Alemán", "rubeola"],
   "definition": "Rubella is an infection caused by a virus. It is usually mild with fever and a rash. About half of the people who get rubella do not have symptoms. There is no treatment for measles, but the measles-mumps-rubella (MMR) vaccine can prevent it.",
@@ -2334,7 +2334,7 @@ var palabras =[
  },
  {
   "Total": 260,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Glucometer",
   "spaEquiv": "Glucómetro",
   "definition": "A glucometer is used to measure the amount of glucose in your blood. It's a portable medical device that tests your blood through a fingerstick sample.",
@@ -2343,7 +2343,7 @@ var palabras =[
  },
  {
   "Total": 261,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Goosebumps ",
   "spaEquiv": "Piel de gallina",
   "definition": "A roughness of the skin produced by erection of its papillae especially from cold, fear, or a sudden feeling of excitement. Called also goose pimples.",
@@ -2352,7 +2352,7 @@ var palabras =[
  },
  {
   "Total": 262,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Grace period",
   "spaEquiv": "Período de gracia",
   "definition": "The allotted time during which a payment can be made without penalty and without entry upon credit records as delinquent or in default.",
@@ -2361,7 +2361,7 @@ var palabras =[
  },
  {
   "Total": 263,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Groin",
   "spaEquiv": "Ingle",
   "definition": "The area between the abdomen and the thigh on either side of the body.",
@@ -2370,7 +2370,7 @@ var palabras =[
  },
  {
   "Total": 264,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Gross monthly income",
   "spaEquiv": "Ingreso mensual bruto",
   "definition": "Monthly income before deductions like taxes, insurance, retirement, social security are made.",
@@ -2379,7 +2379,7 @@ var palabras =[
  },
  {
   "Total": 265,
-  "Auto Insurance": "Travel and Hospitality",
+  "industry": "Travel and Hospitality",
   "engTerm": "Guest ",
   "spaEquiv": "Huésped ",
   "definition": "An individual who pays for meals or accommodations at a restaurant, hotel, or other establishment; a patron.",
@@ -2388,7 +2388,7 @@ var palabras =[
  },
  {
   "Total": 266,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Gynecology",
   "spaEquiv": "Ginecología",
   "definition": "The branch of medicine that deals with the female reproductive system, its diseases, and their treatment.",
@@ -2397,7 +2397,7 @@ var palabras =[
  },
  {
   "Total": 267,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Hacking cough ",
   "spaEquiv": "Tos seca y frecuente",
   "definition": "A short, dry, frequent cough.",
@@ -2406,7 +2406,7 @@ var palabras =[
  },
  {
   "Total": 268,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Hail",
   "spaEquiv": "Granizo",
   "definition": "Small, hard balls of ice that fall from the sky like rain.",
@@ -2415,7 +2415,7 @@ var palabras =[
  },
  {
   "Total": 269,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Headlights",
   "spaEquiv": "Faros ",
   "definition": "A light on the front of a vehicle (such as a car or motorcycle).",
@@ -2424,7 +2424,7 @@ var palabras =[
  },
  {
   "Total": 270,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Heal (verb)",
   "spaEquiv": ["Sanar","Cicatrizar"],
   "definition": "To make or become well again, especially after a cut or other injury.",
@@ -2433,7 +2433,7 @@ var palabras =[
  },
  {
   "Total": 271,
-  "Auto Insurance": "Health Insurance",
+  "industry": "Health Insurance",
   "engTerm": "Health plan / Insurance plan",
   "spaEquiv": ["Plan de salud", "Plan de seguro"],
   "definition": "An insurance plan that covers expenses.",
@@ -2442,7 +2442,7 @@ var palabras =[
  },
  {
   "Total": 272,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Heart",
   "spaEquiv": "Corazón",
   "definition": "The chambered muscular organ in vertebrates that pumps blood received from the veins into the arteries, thereby maintaining the flow of blood through the entire circulatory system.",
@@ -2451,7 +2451,7 @@ var palabras =[
  },
  {
   "Total": 273,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Heart attack",
   "spaEquiv": ["Ataque al corazón", "Ataque cardíaco", "Infarto"],
   "definition": "Most heart attacks happen when a clot in the coronary artery blocks the supply of blood and oxygen to the heart. Often this leads to an irregular heartbeat (called an arrhythmia) that causes a severe decrease in the pumping function of the heart. A blockage that is not treated within a few hours causes the affected heart muscle to die.",
@@ -2460,7 +2460,7 @@ var palabras =[
  },
  {
   "Total": 274,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Heart murmur ",
   "spaEquiv": "Soplo cardiaco",
   "definition": "Heart murmur is a sound during the heartbeat cycle — such as whooshing or swishing — made by turbulent blood in or near the heart",
@@ -2469,7 +2469,7 @@ var palabras =[
  },
  {
   "Total": 275,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Heartburn",
   "spaEquiv": "Acidez estomacal",
   "definition": "Heartburn is discomfort or actual pain caused by digestive acid moving into the tube that carries swallowed food to your stomach (esophagus).",
@@ -2478,7 +2478,7 @@ var palabras =[
  },
  {
   "Total": 276,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "High blood pressure",
   "spaEquiv": ["Presión arterial alta", "Presión sanguínea alta"],
   "definition": "A long term medical condition in which the blood pressure in the arteries is persistently elevated.",
@@ -2487,7 +2487,7 @@ var palabras =[
  },
  {
   "Total": 277,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Highway patrol",
   "spaEquiv": ["Patrulla de caminos", "Policía vial"],
   "definition": "Is either a police unit that oversees and enforces traffic safety compliance on roads and highways.",
@@ -2496,7 +2496,7 @@ var palabras =[
  },
  {
   "Total": 278,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Hinged side door (in a van)",
   "spaEquiv": "Puerta lateral pivotante",
   "definition": "A movable door typically consisting of a panel that swings on hinges or that slides or rotates.",
@@ -2505,7 +2505,7 @@ var palabras =[
  },
  {
   "Total": 279,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Hit and run",
   "spaEquiv": ["Chocar y huir",  "Chocar y darse a la fuga"],
   "definition": "When a driver who is invloved in an accident leaves the scene of the accident without providing information to the other drivers or the police.",
@@ -2514,7 +2514,7 @@ var palabras =[
  },
  {
   "Total": 280,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Hives",
   "spaEquiv": ["Ronchas", "Urticaria"],
   "definition": "Refers to an allergic skin reaction causing localized redness, swelling, and itching.",
@@ -2523,7 +2523,7 @@ var palabras =[
  },
  {
   "Total": 281,
-  "Auto Insurance": "Health Insurance",
+  "industry": "Health Insurance",
   "engTerm": "HMO (Health Maintenance Organization)",
   "spaEquiv": ["HMO", "Organización para el mantenimiento de la salud"],
   "definition": "A health maintenance organization (HMO) is an organization that provides health coverage with providers under contract. An HMO differs from traditional health by the contracts it has with its providers. HMO usually only pay for care within the network. You choose a primary care doctor who coordinates most of your care.",
@@ -2532,7 +2532,7 @@ var palabras =[
  },
  {
   "Total": 282,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Hoarseness",
   "spaEquiv": ["Ronquera","Carraspera","Voz ronca"],
   "definition": "Hoarseness refers to a difficulty making sounds when trying to speak. Vocal sounds may be weak, breathy, scratchy, or husky, and the pitch or quality of the voice may change.",
@@ -2541,7 +2541,7 @@ var palabras =[
  },
  {
   "Total": 283,
-  "Auto Insurance": "Health Insurance",
+  "industry": "Health Insurance",
   "engTerm": "Home care provider",
   "spaEquiv": ["Proveedora de atención domiciliaria", "Proveedor de atención domiciliaria"],
   "definition": "Worker, who assists elderly or disabled adults with daily living activities at the person's home, such as preparing meals, housekeeping, transportation.",
@@ -2550,7 +2550,7 @@ var palabras =[
  },
  {
   "Total": 284,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Home Equity Line ",
   "spaEquiv": "Línea de crédito sobre el patrimonio de la propiedad",
   "definition": "A home equity line of credit works like a credit card. The homeowner is allowed to borrow up to a certain amount for the life of the loan. During that time he can withdraw money as needed. As he pays off the principal, his credit revolves and he can use it again.",
@@ -2559,7 +2559,7 @@ var palabras =[
  },
  {
   "Total": 285,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Home Equity Loan",
   "spaEquiv": "Préstamo sobre el patrimonio de la propiedad",
   "definition": "A loan secured or guaranteed by the equity value in the borrower's home.",
@@ -2568,7 +2568,7 @@ var palabras =[
  },
  {
   "Total": 286,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Homeowner",
   "spaEquiv": ["Propietaria de una vivienda", "Propietario de una vivienda", "Dueña de casa", "Poseedora de casa propia", "Dueño de casa", "Poseedor de casa propia"],
   "definition": "Proprietor, owner of a home, an individual who owns a home.",
@@ -2577,7 +2577,7 @@ var palabras =[
  },
  {
   "Total": 287,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Homeowners insurance",
   "spaEquiv": ["Seguro para propietarias de vivienda","Seguro para propietarios de vivienda", "Seguro de viviendas"],
   "definition": "Policies designed to protect the property of homeowners, as well as the legal liability derived from owning said property.",
@@ -2586,7 +2586,7 @@ var palabras =[
  },
  {
   "Total": 288,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Horn / To honk",
   "spaEquiv": ["Bocina", "Claxon", "Corneta", "Tocar la bocina", "Tocar el claxon"],
   "definition": "A sound-making device that vehicles are equipped with, to use as a warning noise.",
@@ -2595,7 +2595,7 @@ var palabras =[
  },
  {
   "Total": 289,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Hospice care",
   "definition": "Care that focuses on the palliation of a chronically ill, terminally ill or seriously ill patient's pain and symptoms, and attending to their emotional and spiritual needs.",
   "spaEquiv": ["Cuidado de hospicio", "Cuidado de hospicio terminal", "Atención para deshauciadas","Atención para deshauciados"],
@@ -2604,7 +2604,7 @@ var palabras =[
  },
  {
   "Total": 290,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Hospital bed ",
   "spaEquiv": "Cama de hospital",
   "definition": "A bed having side rails that can be raised or lowered and a mattress base in three jointed sections so that the head, foot, or middle may be raised by a crank or motor, allowing a patient to lie in various positions, as a therapeutic aid or for comfort.",
@@ -2613,7 +2613,7 @@ var palabras =[
  },
  {
   "Total": 291,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Hubcap",
   "spaEquiv": ["Tapa de la llanta","Tapa de la rueda del carro"],
   "definition": "A metal or plastic cover for the hub of a motor vehicle's wheel.",
@@ -2622,7 +2622,7 @@ var palabras =[
  },
  {
   "Total": 292,
-  "Auto Insurance": "Jail system",
+  "industry": "Jail system",
   "engTerm": "I.K. Inmate Kitchen",
   "spaEquiv": ["Cocina para reclusas", "Cocina para reclusos", "Cocina para presos", "Cocina para presas"],
   "definition": "Kitchen facility area in which some inmates can work.",
@@ -2631,7 +2631,7 @@ var palabras =[
  },
  {
   "Total": 293,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "ICU (Intensive Care Unit)",
   "spaEquiv": ["Unidad de cuidados intensivos", "UCI"],
   "definition": "A hospital unit in which is concentrated special equipment and specially trained personnel for the care of seriously ill patients requiring immediate and continuous attention (intensive care).",
@@ -2640,7 +2640,7 @@ var palabras =[
  },
  {
   "Total": 294,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Identification (ID)",
   "spaEquiv": "identificación ",
   "definition": "A means of proving a person's identity, especially in the form of official papers: such as a birth certificate or driver's license, that identifies one.",
@@ -2649,7 +2649,7 @@ var palabras =[
  },
  {
   "Total": 295,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Illness",
   "spaEquiv": "Enfermedad",
   "definition": "Illness is a period of sickness affecting a human or a health condition or disease that is affecting the body or mind.",
@@ -2658,7 +2658,7 @@ var palabras =[
  },
  {
   "Total": 296,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Immunization record / Vaccination record ",
   "spaEquiv": ["Cartilla de vacunación", "Cuadro de vacunas", "Boleta de vacuación", "Tarjeta de vacunación", "Historial de vacunas", "Registro de vacunas"],
   "definition": "Immunization records provide a history of all the vaccines you or your child received. This record may be required for certain jobs, travel abroad, or school registration.",
@@ -2667,7 +2667,7 @@ var palabras =[
  },
  {
   "Total": 297,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Impounded",
   "spaEquiv": ["Confiscado", "Incautado"],
   "definition": "Seize and take legal custody of a vehicle (or something, especially goods, or documents) because of an infringement of a law or regulation.",
@@ -2676,7 +2676,7 @@ var palabras =[
  },
  {
   "Total": 298,
-  "Auto Insurance": "Health Insurance",
+  "industry": "Health Insurance",
   "engTerm": "In-network",
   "spaEquiv": "Dentro de la red de proveedores",
   "definition": "Refers to providers or health care facilities that are part of a health plan's network of providers with which it has negotiated a discount.",
@@ -2685,7 +2685,7 @@ var palabras =[
  },
  {
   "Total": 299,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Income",
   "spaEquiv": "Ingresos",
   "definition": "Money received, especially on a regular basis, for labor or services, sales of goods, or profit from investments. The amount of monetary or other returns, either earned or unearned, accruing over a given period of time.",
@@ -2694,7 +2694,7 @@ var palabras =[
  },
  {
   "Total": 300,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Infection",
   "spaEquiv": "Infección",
   "definition": "The invasion of bodily tissue by pathogenic microorganisms that proliferate, resulting in tissue injury that can progress to disease.",
@@ -2703,7 +2703,7 @@ var palabras =[
  },
  {
   "Total": 301,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Injured",
   "spaEquiv": ["Lesionado", "Herido"],
   "definition": "Harmed, damaged, or impaired physically.",
@@ -2712,7 +2712,7 @@ var palabras =[
  },
  {
   "Total": 302,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Injuries",
   "spaEquiv": ["Lesiones", "Lastimaduras", "Heridas"],
   "definition": "Harm or damage. An act or event that causes someone or something to no longer be fully healthy or in good condition. Physical damage or harm done to or suffered by a person.",
@@ -2721,7 +2721,7 @@ var palabras =[
  },
  {
   "Total": 303,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Inpatient",
   "spaEquiv": ["Paciente hospitalizada", "Paciente hospitalizado", "Paciente internada","Paciente internado"],
   "definition": "A patient who stays in a hospital while undertreatment.",
@@ -2730,7 +2730,7 @@ var palabras =[
  },
  {
   "Total": 304,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Inspect (verb)",
   "spaEquiv": "Inspeccionar",
   "definition": "To look at something closely, typically to assess their condition.",
@@ -2739,7 +2739,7 @@ var palabras =[
  },
  {
   "Total": 305,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Installments",
   "spaEquiv": ["Pagos", "Abonos", "Cuotas"],
   "definition": "Payments, as in a series of payments. A sum of money due as one of several equal payments for something, spread over an agreed period of time, commonly due on a specific date.",
@@ -2748,7 +2748,7 @@ var palabras =[
  },
  {
   "Total": 306,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Insufficient funds, non-sufficient funds",
   "spaEquiv": "Fondos insuficientes",
   "definition": "Insufficient funds occur when someone tries to purchase an item using a check or debit card without having enough money in his or her bank account. A situation in which one does not have enough deposited in a bank account to cover all checks andor electronic withdrawals.",
@@ -2757,7 +2757,7 @@ var palabras =[
  },
  {
   "Total": 307,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Insurance",
   "spaEquiv": "Seguro",
   "definition": "An agreement in which a person makes regular payments to a company and the company promises to pay money if the person is injured or dies, or to pay money equal to the value of something (such as a house or car) if it is damaged, lost, or stolen. Coverage by contract in which one party agrees to cover another for loss that occurs under the terms of the contract.",
@@ -2766,7 +2766,7 @@ var palabras =[
  },
  {
   "Total": 308,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Insurance broker",
   "spaEquiv": ["Corredor de seguros", "Corredora de seguros"],
   "definition": "A qualified sales person, who searches for insurance coverage at the lowest cost and providing the highest benefit to the buyer.",
@@ -2775,7 +2775,7 @@ var palabras =[
  },
  {
   "Total": 309,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Insured",
   "spaEquiv": ["Asegurada", "Asegurado"],
   "definition": "A person whose life or property is insured. One who has or is covered by an insurance policy.",
@@ -2784,7 +2784,7 @@ var palabras =[
  },
  {
   "Total": 310,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Interest",
   "spaEquiv": "Intereses",
   "definition": "Interest is the monetary charge for borrowing money—generally expressed as a percentage, such as an annual percentage rate (APR).",
@@ -2793,7 +2793,7 @@ var palabras =[
  },
  {
   "Total": 311,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Interest rate",
   "spaEquiv": "Tasa de interés",
   "definition": "The proportion of a loan that is charged as interest to the borrower, typically expressed as an annual percentage of the loan outstanding.",
@@ -2802,7 +2802,7 @@ var palabras =[
  },
  {
   "Total": 312,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Intersection ",
   "spaEquiv": "Intersección",
   "definition": "An intersection is a junction or an area of the roadway where two or more roads cross or meet.  An intersection can be four-way (or crossroads), three way (T-junction or Y-junction, sometimes refer to as a fork), or five or more ways. An intersection can also be any place where a public entrance or exit joins a road. A private driveway is not an intersection.",
@@ -2811,7 +2811,7 @@ var palabras =[
  },
  {
   "Total": 313,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Interview",
   "spaEquiv": "Entrevista",
   "definition": "A meeting at which information is obtained from a person.",
@@ -2820,7 +2820,7 @@ var palabras =[
  },
  {
   "Total": 314,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Invalid",
   "spaEquiv": "Inválido",
   "definition": "Not legally or factually valid, not in force, null, void.",
@@ -2829,7 +2829,7 @@ var palabras =[
  },
  {
   "Total": 315,
-  "Auto Insurance": "Workers' Compensation",
+  "industry": "Workers' Compensation",
   "engTerm": "IRA (Individual retirement account)",
   "spaEquiv": "Cuenta individual de jubilación",
   "definition": "Retirement savings account with tax advantages that individuals can open to save and invest in the long term.",
@@ -2838,7 +2838,7 @@ var palabras =[
  },
  {
   "Total": 316,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Issue (verb)",
   "spaEquiv": ["Emitir", "Expedir", "Extender"],
   "definition": "The act of issuing a or giving something like a document, or payment such as a check.",
@@ -2847,7 +2847,7 @@ var palabras =[
  },
  {
   "Total": 317,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Itching",
   "spaEquiv": ["Picazón","Picor", "Comezón"],
   "definition": "Skin tingling or irritation that makes you want to scratch the affected area.",
@@ -2856,7 +2856,7 @@ var palabras =[
  },
  {
   "Total": 318,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Laboratory",
   "spaEquiv": "Laboratorio",
   "definition": "A room or building with special equipment fordoing scientific experiments and tests.",
@@ -2865,7 +2865,7 @@ var palabras =[
  },
  {
   "Total": 319,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Landlady / Landlord",
   "spaEquiv": ["Arrendadora", "Arrendorado", "Propietaria", "Propietario", "Dueña de vivienda", "Dueño de vivienda"],
   "definition": "An individual that owns and rents land, buildings, or dwelling units.",
@@ -2874,7 +2874,7 @@ var palabras =[
  },
  {
   "Total": 320,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Lane ",
   "spaEquiv": "Carril",
   "definition": "A division of a road marked off with painted lines and intended to separate single lines of traffic according to speed or direction.",
@@ -2883,7 +2883,7 @@ var palabras =[
  },
  {
   "Total": 321,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Lancets",
   "spaEquiv": "Lancetas",
   "definition": "A lancet is a small, sharp needle used to prick the skin and draw blood. It is an essential part of the diabetes management process.",
@@ -2892,7 +2892,7 @@ var palabras =[
  },
  {
   "Total": 322,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Late fee",
   "spaEquiv": ["Cargo por demora", "Cargo por pago atrasado"],
   "definition": "An extra charge assessed if a payment is made after the due date.",
@@ -2901,7 +2901,7 @@ var palabras =[
  },
  {
   "Total": 323,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Laxative",
   "spaEquiv": "Laxante",
   "definition": "A drug or medicine tending to stimulate or facilitate evacuation of the bowels.",
@@ -2910,7 +2910,7 @@ var palabras =[
  },
  {
   "Total": 324,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Lay-off",
   "spaEquiv": ["Cese laboral", "Cesar"],
   "definition": "The act of suspending or dismissing an employee, as for lack of work or because of corporate reorganization.",
@@ -2919,7 +2919,7 @@ var palabras =[
  },
  {
   "Total": 325,
-  "Auto Insurance": "Travel and Hospitality",
+  "industry": "Travel and Hospitality",
   "engTerm": "Layover ",
   "spaEquiv": "Escala",
   "definition": "A stop during a trip, for refuiling, changing planes, or picking updropping off passangers.",
@@ -2928,7 +2928,7 @@ var palabras =[
  },
  {
   "Total": 326,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Lend",
   "spaEquiv": "Prestar",
   "definition": "To give for temporary use on condition that the same or its equivalent will be returned.",
@@ -2937,7 +2937,7 @@ var palabras =[
  },
  {
   "Total": 327,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Legal guardian",
   "spaEquiv": ["Tutor legal", "Tutora legal"],
   "definition": "A legal guardian is a person who has the legal authority (and the corresponding duty) to care for the personal and property interests of another person, called a ward.",
@@ -2946,7 +2946,7 @@ var palabras =[
  },
  {
   "Total": 328,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Legal resident",
   "spaEquiv": "Residente legal",
   "definition": "The immigration status of a person authorized to live and work in the United States of America permanently.",
@@ -2955,7 +2955,7 @@ var palabras =[
  },
  {
   "Total": 329,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Liability insurance",
   "spaEquiv": "Seguro de responsabilidad civil",
   "definition": "Liability insurance only pays for bodily injuries or property damage suffered by others when you are at fault in an accident.",
@@ -2964,7 +2964,7 @@ var palabras =[
  },
  {
   "Total": 330,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "License Plate",
   "spaEquiv": ["Placa", "Matrícula"],
   "definition": "A metal plate affixed to a vehicle that shows a series of numbers and letters that are used to identify the vehicle, indicating that it has been registered with the state.",
@@ -2973,7 +2973,7 @@ var palabras =[
  },
  {
   "Total": 331,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "License plate number",
   "spaEquiv": ["Número de Placa", "Número de matrícula"],
   "definition": "A metal plate that bears a sequence of numbers, letters, or both and is issued by a government to identify an officially registered vehicle.",
@@ -2982,7 +2982,7 @@ var palabras =[
  },
  {
   "Total": 332,
-  "Auto Insurance": "Workers' Compensation",
+  "industry": "Workers' Compensation",
   "engTerm": "Light duty",
   "spaEquiv": ["Trabajo ligero", "Trabajo liviano"],
   "definition": "Light duty is the term that is used for work that a treating doctor says will fall within the physical restrictions of an injured worker while that worker continues to heal from a work-related injury or illness.",
@@ -2991,7 +2991,7 @@ var palabras =[
  },
  {
   "Total": 333,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Limb",
   "spaEquiv": "Extremidad",
   "definition": "An arm or leg of a person or four-legged animal, or a bird's wing.",
@@ -3000,7 +3000,7 @@ var palabras =[
  },
  {
   "Total": 334,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Listlessness",
   "spaEquiv": "Falta de energía",
   "definition": "Refers to an individual characterized by lack of interest, energy, or spirit. Inactivity resulting from lethargy or lack of vigor.",
@@ -3009,7 +3009,7 @@ var palabras =[
  },
  {
   "Total": 335,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Loan",
   "spaEquiv": "Préstamo",
   "definition": "Something lent or furnished on condition of being returned, especially a sum of money lent at interest for a period of time.",
@@ -3018,7 +3018,7 @@ var palabras =[
  },
  {
   "Total": 336,
-  "Auto Insurance": "Travel and Hospitality",
+  "industry": "Travel and Hospitality",
   "engTerm": "Lobby ",
   "spaEquiv": ["Vestíbulo","Recibidor"],
   "definition": "A hall, foyer, or waiting room at or near the entrance  to a building, such as a hotel or theater.",
@@ -3027,7 +3027,7 @@ var palabras =[
  },
  {
   "Total": 337,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Log in",
   "spaEquiv": "Ingresar",
   "definition": "The process of identifying oneself to a computer, usually by entering one's username and password.",
@@ -3036,7 +3036,7 @@ var palabras =[
  },
  {
   "Total": 338,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Long term",
   "spaEquiv": "Largo plazo",
   "definition": "Lasting, staying, or extending over a long time.",
@@ -3045,7 +3045,7 @@ var palabras =[
  },
  {
   "Total": 339,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Loss of appetite",
   "spaEquiv": ["Pérdida del apetito", "Falta de apetito"],
   "definition": "A reduced or lack of desire to eat.",
@@ -3054,7 +3054,7 @@ var palabras =[
  },
  {
   "Total": 340,
-  "Auto Insurance": "Workers' Compensation",
+  "industry": "Workers' Compensation",
   "engTerm": "Lost wages",
   "spaEquiv": ["Salario perdido", "Salario no devengado"],
   "definition": "Wages or employment compensation that was lost and unable to be earned as a result of an injury caused by the acts of another person or party.",
@@ -3063,7 +3063,7 @@ var palabras =[
  },
  {
   "Total": 341,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Lozenge / Cough drop",
   "spaEquiv": ["Caramelo para la tos", "Pastilla para la tos", "Trocisco"],
   "definition": "A small, typically medicated tablet intended to be dissolved slowly in the mouth to temporarily stop coughs, lubricate, and soothe irritated tissues of the throat ",
@@ -3072,7 +3072,7 @@ var palabras =[
  },
  {
   "Total": 342,
-  "Auto Insurance": "Workers' Compensation",
+  "industry": "Workers' Compensation",
   "engTerm": "Lump sum",
   "spaEquiv": ["Suma global", "Suma total"],
   "definition": "A lump sum amount is defined as a single complete sum of money.",
@@ -3081,7 +3081,7 @@ var palabras =[
  },
  {
   "Total": 343,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Mail / Correspondence",
   "spaEquiv": "Correspondencia",
   "definition": "Communication by the exchange of letters, emails, or other forms of written messages.",
@@ -3090,7 +3090,7 @@ var palabras =[
  },
  {
   "Total": 344,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Mailing address",
   "spaEquiv": ["Domicilio", "Dirección postal"],
   "definition": "The address at which a person or business receives letters or packages, which can be different from the place where they work or live.",
@@ -3099,7 +3099,7 @@ var palabras =[
  },
  {
   "Total": 345,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Make (context dependent)",
   "spaEquiv": "Marca",
   "definition": "It refers to the manufacturer or company that makes a product such as an appliance, car, or machine.",
@@ -3108,7 +3108,7 @@ var palabras =[
  },
  {
   "Total": 346,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Manager",
   "spaEquiv": "Gerente",
   "definition": "One who administers, controls or directs a business or other enterprise.",
@@ -3117,7 +3117,7 @@ var palabras =[
  },
  {
   "Total": 347,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Manufacturer's defect",
   "spaEquiv": "Defecto de fabricante",
   "definition": "A deviation from design specifications during production resulting in a product's defect, frailty or shortcoming.",
@@ -3126,7 +3126,7 @@ var palabras =[
  },
  {
   "Total": 348,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Marital Status ",
   "spaEquiv": "Estado Civil ",
   "definition": "A person's state of being single, married, separated, divorced, or widowed. ",
@@ -3135,7 +3135,7 @@ var palabras =[
  },
  {
   "Total": 349,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Market price / Market value",
   "spaEquiv": ["Precio", "valor del mercado"],
   "definition": "The price at which a product or service is selling in the open marketthe value of a business, property, etc., in terms of what can be sold for on the open market. The amount for which something can be sold on a given market. Often contrasted with book value.",
@@ -3144,7 +3144,7 @@ var palabras =[
  },
  {
   "Total": 350,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Measles",
   "spaEquiv": "Sarampión",
   "definition": "Measles is an infectious disease caused by a virus. It spreads easily from person to person. It causes a blotchy red rash. Sometimes measles can lead to serious problems. There is no treatment for measles, but the MMR vaccine can prevent it. \"German measles\", also known as rubella, is a completely different illness.",
@@ -3153,7 +3153,7 @@ var palabras =[
  },
  {
   "Total": 351,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Mechanic",
   "spaEquiv": ["Mecánica", "Mecánico"],
   "definition": "Someone whose occupation is repairing and maintaining automobiles.",
@@ -3162,7 +3162,7 @@ var palabras =[
  },
  {
   "Total": 352,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Median (strip) ",
   "spaEquiv": "Franja central",
   "definition": "The strip of land between the lanes of opposing traffic on a divided highway.",
@@ -3171,7 +3171,7 @@ var palabras =[
  },
  {
   "Total": 353,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Medicaid (proper name)",
   "spaEquiv": "Medicaid",
   "definition": "Medicaid in the United States is a federal and state program that helps with healthcare costs for some people with limited income and resources. Medicaid also offers benefits including nursing home care and personal care services.",
@@ -3180,7 +3180,7 @@ var palabras =[
  },
  {
   "Total": 354,
-  "Auto Insurance": "Health Insurance",
+  "industry": "Health Insurance",
   "engTerm": "Medical Record Number",
   "spaEquiv": ["Número de expediente médico", "Número de registro médico"],
   "definition": "A number that identifies a patient at a medical facility.  The number identifies the chronological written  account of a patient's medical examination and  treatment history, physician's physical findings,  medications and therapeutic procedures etc.",
@@ -3189,7 +3189,7 @@ var palabras =[
  },
  {
   "Total": 355,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Medicare (proper name)",
   "spaEquiv": "Medicare",
   "definition": "Medicare is a national program that subsidizes healthcare services for anyone age 65 or older, younger people with specific eligibility criteria, and people with certain diseases.Medicare is divided into four categories: Medicare Part A, Part B, Part C (also called Medicare Advantage), and Part D for prescription drugs.",
@@ -3198,7 +3198,7 @@ var palabras =[
  },
  {
   "Total": 356,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Medication",
   "spaEquiv": ["Medicina", "Medicamento"],
   "definition": "A substance used for  treatment, especially a medicine or drug.",
@@ -3207,7 +3207,7 @@ var palabras =[
  },
  {
   "Total": 357,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Member",
   "spaEquiv": "Miembro",
   "definition": "One that belongs to a group or organization, such as a bank, insurance company, church, music band.",
@@ -3216,7 +3216,7 @@ var palabras =[
  },
  {
   "Total": 358,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Member ID",
   "spaEquiv": "Número de identificacion de miembro",
   "definition": "Identification number of one that belongs to a group or organization.",
@@ -3225,7 +3225,7 @@ var palabras =[
  },
  {
   "Total": 359,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Membership (card)",
   "spaEquiv": "Membresía",
   "definition": "A card certifying membership and the identity of the bearer in an organization or insurance company.",
@@ -3234,7 +3234,7 @@ var palabras =[
  },
  {
   "Total": 360,
-  "Auto Insurance": "Jail system",
+  "industry": "Jail system",
   "engTerm": "Mess hall",
   "spaEquiv": "Comedor de reclusos",
   "definition": "A room or building where groups of people, especially inmates or soldiers, eat together.",
@@ -3243,7 +3243,7 @@ var palabras =[
  },
  {
   "Total": 361,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Meter reading ",
   "spaEquiv": "Lectura del medidor",
   "definition": "Refers to a person who visits a dwelling to read a gas or electricity meter for billing purposes.",
@@ -3252,7 +3252,7 @@ var palabras =[
  },
  {
   "Total": 362,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Migraines",
   "spaEquiv": ["Migrañas", "Jaqueca"],
   "definition": "A recurring acute headache characterized by severe throbbing pain, vertigo, nausea, vomiting, and photophobia, which may last for hours or days.",
@@ -3261,7 +3261,7 @@ var palabras =[
  },
  {
   "Total": 363,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Minimum balance",
   "spaEquiv": "Saldo mínimo",
   "definition": "A minimum monthly balance in a bank account to avoid monthly service fees.",
@@ -3270,7 +3270,7 @@ var palabras =[
  },
  {
   "Total": 364,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Misdemeanor",
   "spaEquiv": "Delito menor",
   "definition": "Refers to a criminal offense that is less serious than a felony and generally punishable by a fine, a jail term of up to a year, or both.",
@@ -3279,7 +3279,7 @@ var palabras =[
  },
  {
   "Total": 365,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "MMR vaccine (triple shot)",
   "spaEquiv": ["Vacuna contra sarampión, paperas y rubeola"],
   "definition": "The MMR vaccine is a vaccine against measles, mumps, and rubella.",
@@ -3288,7 +3288,7 @@ var palabras =[
  },
  {
   "Total": 366,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Model",
   "spaEquiv": "Modelo",
   "definition": "The model of an object is a physical representation that shows what it looks like or how it works. Refers to a particular brand of vehicle sold by a manufacturer, usually within a range of models, usually of different sizes or capabilities.",
@@ -3297,7 +3297,7 @@ var palabras =[
  },
  {
   "Total": 367,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Modification",
   "spaEquiv": ["Modificación", "Reestructuración"],
   "definition": "The act of altering or changing a contract, or a purchase contract, or altering the terms of such purchase.",
@@ -3306,7 +3306,7 @@ var palabras =[
  },
  {
   "Total": 368,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Money order",
   "spaEquiv": "Giro postal ",
   "definition": "A money order is a certificate, that allows the named individual to receive cash on-demand. A money order functions much like a check, in that the person who purchased the money order may stop payment.",
@@ -3315,7 +3315,7 @@ var palabras =[
  },
  {
   "Total": 369,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Monthly",
   "spaEquiv": "Mensualmente",
   "definition": "Once a month.",
@@ -3324,7 +3324,7 @@ var palabras =[
  },
  {
   "Total": 370,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Monthly payments ",
   "spaEquiv": "Mensualidades ",
   "definition": "A payment that has to be made every month by a specified date.",
@@ -3333,7 +3333,7 @@ var palabras =[
  },
  {
   "Total": 371,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Mortgage",
   "spaEquiv": ["Hipoteca","Préstamo hipotecario"],
   "definition": "An agreement (loan) under which a person borrows money to buy property, and the lender may take possession of the property if the borrower fails to repay the money.",
@@ -3342,7 +3342,7 @@ var palabras =[
  },
  {
   "Total": 372,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Mother's maiden name",
   "spaEquiv": "Apellido materno ",
   "definition": "It refers to the mother's unmarried name. Usually the surname or birth name she used before she married and took her husband's last name.",
@@ -3351,7 +3351,7 @@ var palabras =[
  },
  {
   "Total": 373,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Moving violation",
   "spaEquiv": ["Infracción con el vehículo en movimiento","Infracción de tránsito", "Citación de tránsito de vehículo en marcha"],
   "definition": "A moving violation is a breach of state traffic laws, rules, or statutes that occur while a vehicle's in motion.",
@@ -3360,7 +3360,7 @@ var palabras =[
  },
  {
   "Total": 374,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "MRI (Magnetic Resonance Imaging)",
   "spaEquiv": "Imágenes por resonancia magnética",
   "definition": "MRI uses a large magnet and radio waves to look at organs and structures inside your body.",
@@ -3369,7 +3369,7 @@ var palabras =[
  },
  {
   "Total": 375,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Mud flap",
   "spaEquiv": ["Lodera", "Polveadora"],
   "definition": "A flap that hangs behind the wheel of a vehicle and is designed to prevent water, mud, and stones thrown up from the road from hitting the bodywork of the vehicle or any following vehicles.",
@@ -3378,7 +3378,7 @@ var palabras =[
  },
  {
   "Total": 376,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Mudguard",
   "spaEquiv": ["Guardabarros", "Guardafangos", "Salpicadera"],
   "definition": "A curved strip or cover over a wheel of a vehicle, especially a bicycle or motorcycle, designed to protect the vehicle and rider from water and dirt thrown up from the road.",
@@ -3387,7 +3387,7 @@ var palabras =[
  },
  {
   "Total": 377,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Multi-car collision  crash",
   "spaEquiv": ["Colisión múltiple","Choque múltiple"],
   "definition": "Multi-car collision, multi-vehicle collision, pile-up, or chain-reaction crash) is a road traffic accident involving many vehicles.",
@@ -3396,7 +3396,7 @@ var palabras =[
  },
  {
   "Total": 378,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Mumps",
   "spaEquiv": ["Paperas","Parótidas","Parotiditis"],
   "definition": "An infectious disease characterized by swelling of the salivary glands, especially the parotid glands, and sometimes of the pancreas, testes, or ovaries. There is no treatment for mumps, but the measles-mumps-rubella (MMR) vaccine can prevent it.",
@@ -3405,7 +3405,7 @@ var palabras =[
  },
  {
   "Total": 379,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Nape (of the neck)",
   "spaEquiv": "Nuca",
   "definition": "Back of the neck.",
@@ -3414,7 +3414,7 @@ var palabras =[
  },
  {
   "Total": 380,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Nauseated ",
   "spaEquiv": ["Con náuseas", "Nauseabunda", "Nauseabundo"],
   "definition": "Make (someone) feel sick; affect with nausea.",
@@ -3423,7 +3423,7 @@ var palabras =[
  },
  {
   "Total": 381,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Navigation system",
   "spaEquiv": "Sistema de navegación",
   "definition": "Car navigation systems receive signals from satellites and identify the vehicle's position and direction, then direct the driver to a destination.",
@@ -3432,7 +3432,7 @@ var palabras =[
  },
  {
   "Total": 382,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Nebulizer ",
   "spaEquiv": "Nebulizador",
   "definition": "A nebulizer is a small machine that turns liquid medicine into a mist that can be easily inhaled. You sit with the machine and breathe in the medicine through a connected mouthpiece or facemask. This allows the medicine to enter the lungs directly.",
@@ -3441,7 +3441,7 @@ var palabras =[
  },
  {
   "Total": 383,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Net monthly income",
   "spaEquiv": "Ingreso mensual neto",
   "definition": "Monthy income after all deductions are made (what  employees take home)",
@@ -3450,7 +3450,7 @@ var palabras =[
  },
  {
   "Total": 384,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Neurologist",
   "spaEquiv": ["Neuróloga", "Neurólogo"],
   "definition": "A especialist in the anatomy, functions, and disorders of nerves and the nervous system.",
@@ -3459,7 +3459,7 @@ var palabras =[
  },
  {
   "Total": 385,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "NICU (Neonatal Intensive Care Unit)",
   "spaEquiv": "Unidad de Cuidados Intensivos Neonatales",
   "definition": "NICU is an intensive care unit specializing in the care of ill or premature newborn infants. Usually, this name is reserved for the type of nurseries where the highest level of care can be provided to newborn babies.",
@@ -3468,7 +3468,7 @@ var palabras =[
  },
  {
   "Total": 386,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Niece",
   "spaEquiv": "Sobrina",
   "definition": "A daughter of one's brother, brother-in-law, sister or sister-in-law.",
@@ -3477,7 +3477,7 @@ var palabras =[
  },
  {
   "Total": 387,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "No (leftright) turn sign",
   "spaEquiv": ["Señal de no virar","Señal de no voltear"],
   "definition": "This traffic sign indicates that righ or left turns are prohibited.",
@@ -3486,7 +3486,7 @@ var palabras =[
  },
  {
   "Total": 388,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "No fault laws",
   "spaEquiv": "Leyes independientes de culpabilidad",
   "definition": "Laws enacted by states forcing insured parties to file injury claims through their own insurance companies, regardless of fault.",
@@ -3495,7 +3495,7 @@ var palabras =[
  },
  {
   "Total": 389,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "No Outlet sign",
   "spaEquiv": "Rótulo de aviso de calle sin salida",
   "definition": "The no-outlet or dead end sign may be used at the entrance of a single road or street that terminates in a dead end or cul-de-sac, to indicate there is no other exit.",
@@ -3504,7 +3504,7 @@ var palabras =[
  },
  {
   "Total": 390,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Non-payment",
   "spaEquiv": ["Falta de pago", "Morosidad", "Incumplimiento del pago"],
   "definition": "Not paying for services rendered.",
@@ -3513,7 +3513,7 @@ var palabras =[
  },
  {
   "Total": 391,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Non-perishable",
   "spaEquiv": "Alimentos no perecederos",
   "definition": "Food that is not subject to spoilage or decay.",
@@ -3522,7 +3522,7 @@ var palabras =[
  },
  {
   "Total": 392,
-  "Auto Insurance": "Travel and Hospitality",
+  "industry": "Travel and Hospitality",
   "engTerm": "Non-stop (flight)",
   "spaEquiv": "Sin escala",
   "definition": "A flight that goes from the place of origin to the destination, without making any stops.",
@@ -3531,7 +3531,7 @@ var palabras =[
  },
  {
   "Total": 393,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Nosebleed",
   "spaEquiv": ["Hemorragia nasal", "Sangrado de la nariz", "Sangrado nasal", "Nariz sangrante"],
   "definition": "It is the common occurrence of bleeding from the nose. It is usually noticed when the blood drains out through the nostrils.",
@@ -3540,7 +3540,7 @@ var palabras =[
  },
  {
   "Total": 394,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Notice (noun)",
   "spaEquiv": "Notificación",
   "definition": "Advance notification of intention to end an arrangement, contract, etc.",
@@ -3549,7 +3549,7 @@ var palabras =[
  },
  {
   "Total": 395,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Numbness",
   "spaEquiv": ["Entumecimiento", "Adormecimiento"],
   "definition": "Numbness describes a loss of sensation or feeling in a part of your body. It's often accompanied by or combined with other changes in sensation, such as a pins-and-needles feeling, burning or tingling.",
@@ -3558,7 +3558,7 @@ var palabras =[
  },
  {
   "Total": 396,
-  "Auto Insurance": "Workers' Compensation",
+  "industry": "Workers' Compensation",
   "engTerm": "Nurse case manager",
   "spaEquiv": ["Enfermera encargada del caso", "Enfermero encargado del caso", "Enfermera administradora del caso","Enfermero administrador del caso", "Enfermera gerente del caso","Enfermero gerente del caso"],
   "definition": "A  nurse case manager is responsible for: Helping an injured worker to obtain the medical care that he or she needs; serving as a liaison between all parties involved in the workers’ compensation claim; providing information to an insurance adjuster regarding doctors’ visits and treatment authorization.",
@@ -3567,7 +3567,7 @@ var palabras =[
  },
  {
   "Total": 397,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Nurse practitioner",
   "spaEquiv": ["Enfermera facultativa","Enfermero facultativo","Enfermera especializada", "Enfermero especializado"],
   "definition": "A nurse who is qualified to treat certain conditions without the direct supervision of a doctor. A registered nurse who is qualified through advanced training to assume some of the duties and responsibilities formerly assumed only by a physician.",
@@ -3576,7 +3576,7 @@ var palabras =[
  },
  {
   "Total": 398,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Obstetrician",
   "spaEquiv": "Obstetra",
   "definition": "A physician who specializes in obstetrics. Specialist in pregnancy and related conditions (often also experienced in gynecology).",
@@ -3585,7 +3585,7 @@ var palabras =[
  },
  {
   "Total": 399,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Ocurrence",
   "spaEquiv": "Incidente",
   "definition": "Something that takes place or comes to pass. The action, fact, or instance of occurring. Something that happens; event; incident.",
@@ -3594,7 +3594,7 @@ var palabras =[
  },
  {
   "Total": 400,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Odometer",
   "spaEquiv": ["Indicador de millaje", "Odómetro"],
   "definition": "An instrument for measuring the distance traveled by a vehicle.",
@@ -3603,7 +3603,7 @@ var palabras =[
  },
  {
   "Total": 401,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Off ramp",
   "spaEquiv": ["Rampa de salida", "Carril de salida en pendiente"],
   "definition": "A highway ramp as in exit ramp  off-ramp which allows vehicles to exit a controlled-access highway, freeway or motorway.",
@@ -3612,7 +3612,7 @@ var palabras =[
  },
  {
   "Total": 402,
-  "Auto Insurance": "Health Insurance",
+  "industry": "Health Insurance",
   "engTerm": "Office visit",
   "spaEquiv": "Consulta",
   "definition": "Office visit where a patient seeks care or advice from a health care provider.",
@@ -3621,7 +3621,7 @@ var palabras =[
  },
  {
   "Total": 403,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "On demand",
   "spaEquiv": "A la carta",
   "definition": "Refers to systems which allow users to select and watchlisten video or audio content when they choose to, rather than having to watch at a specific broadcast time.",
@@ -3630,7 +3630,7 @@ var palabras =[
  },
  {
   "Total": 404,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "On ramp",
   "spaEquiv": ["Rampa de entrada","Carril de entrada en pendiente"],
   "definition": "A highway ramp as in entry ramp  on-ramp which allows vehicles to enter a controlled-access highway, freeway or motorway.",
@@ -3639,7 +3639,7 @@ var palabras =[
  },
  {
   "Total": 405,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "One way street",
   "spaEquiv": "Calle de una sola vía",
   "definition": "A street or road that only allows traffic movement in one direction only; a one-way traffic only.",
@@ -3648,7 +3648,7 @@ var palabras =[
  },
  {
   "Total": 406,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Online",
   "spaEquiv": "En línea",
   "definition": "Connected to a computer, a computer network, or the Internet.",
@@ -3657,7 +3657,7 @@ var palabras =[
  },
  {
   "Total": 407,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Orthodontist",
   "spaEquiv": "Ortodoncista",
   "definition": "A dentist who specializes in the treatment of irregularities in the teeth (especially of alignment and occlusion) and jaws, including the use of braces.",
@@ -3666,7 +3666,7 @@ var palabras =[
  },
  {
   "Total": 408,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "OTC (over the counter)",
   "spaEquiv": ["Medicamentos de venta libre","Medicinas sin receta"],
   "definition": "OTC medicines are drugs you can buy without a prescription.",
@@ -3675,7 +3675,7 @@ var palabras =[
  },
  {
   "Total": 409,
-  "Auto Insurance": "Health Insurance",
+  "industry": "Health Insurance",
   "engTerm": "Out of network ",
   "spaEquiv": "Fuera de la red de proveedores",
   "definition": "Usually refers to physicians, hospitals or other health care providers who are considered non participants in an plan (usually an HMO or PPO).",
@@ -3684,7 +3684,7 @@ var palabras =[
  },
  {
   "Total": 410,
-  "Auto Insurance": "Health Insurance",
+  "industry": "Health Insurance",
   "engTerm": "Out-of-pocket expense",
   "spaEquiv": ["Dinero de su bolsillo","De su propio dinero","Que corre por su cuenta"],
   "definition": "Refers to costs that individuals pay out of their own cash reserves.",
@@ -3693,7 +3693,7 @@ var palabras =[
  },
  {
   "Total": 411,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Overdraft",
   "spaEquiv": "Sobregiro",
   "definition": "A deficit in a bank account balance caused by drawing more money than the account holds.",
@@ -3702,7 +3702,7 @@ var palabras =[
  },
  {
   "Total": 412,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Overdraft fee",
   "spaEquiv": "Cargo por sobregiro",
   "definition": "A fee charged when a withdrawal from an individual's bank account exceeds the available balance.",
@@ -3711,7 +3711,7 @@ var palabras =[
  },
  {
   "Total": 413,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Overnight (delivery) / Next day (delivery)",
   "spaEquiv": "Entrega un día para otro",
   "definition": "Guaranteed delivery of package or letter on the day following the shipment date.",
@@ -3720,7 +3720,7 @@ var palabras =[
  },
  {
   "Total": 414,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Overpass / Flyover",
   "spaEquiv": ["Puente elevado", "Paso elevado"],
   "definition": "A passage, roadway, or bridge that crosses above another roadway.",
@@ -3729,7 +3729,7 @@ var palabras =[
  },
  {
   "Total": 415,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Overturned",
   "spaEquiv": "Se volcó",
   "definition": "Insurance: tip (something) over so that it is on its side or upside down. [Flipped over]",
@@ -3738,7 +3738,7 @@ var palabras =[
  },
  {
   "Total": 416,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Oxygen tank",
   "spaEquiv": "Tanque de oxígeno",
   "definition": "An oxygen tank is an oxygen storage vessel, which is either held under pressure in gas cylinders, or as liquid oxygen in a cryogenic storage tank.",
@@ -3747,7 +3747,7 @@ var palabras =[
  },
  {
   "Total": 417,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "P.O. Box ",
   "spaEquiv": ["Apartado postal", "Buzón postal", "Caja postal"],
   "definition": "A numbered box in a post office assigned to a person or organization, in which mail for them is kept until collected.",
@@ -3756,7 +3756,7 @@ var palabras =[
  },
  {
   "Total": 418,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Pain",
   "spaEquiv": "Dolor",
   "definition": "Medical: physical suffering or discomfort caused by illness or injury.",
@@ -3765,7 +3765,7 @@ var palabras =[
  },
  {
   "Total": 419,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Painkiller",
   "spaEquiv": "Analgésico",
   "definition": "A medicine, such as an analgesic drug, that relieves pain.",
@@ -3774,7 +3774,7 @@ var palabras =[
  },
  {
   "Total": 420,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Pale",
   "spaEquiv": ["Pálida","Pálido"],
   "definition": "Used to describe a person's face or skin if it has less color than usual, for example when the person is or ill or frightened, or if it has less color than people generally have.",
@@ -3783,7 +3783,7 @@ var palabras =[
  },
  {
   "Total": 421,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Palliative care",
   "spaEquiv": "Cuidados paliativos",
   "definition": "Palliative care is specialized medical care for people living with a serious illness. This type of care is focused on providing relief from the symptoms and stress of the illness. The goal is to improve quality of life for both the patient and the family.",
@@ -3792,7 +3792,7 @@ var palabras =[
  },
  {
   "Total": 422,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Pap smear ",
   "spaEquiv": "Papanicolaou",
   "definition": "The Papanicolaou test, Pap smear or Pap test, is a procedure to test for cervical cancer in people with a cervix.",
@@ -3801,7 +3801,7 @@ var palabras =[
  },
  {
   "Total": 423,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Paperwork",
   "spaEquiv": ["Documentación", "Papeleo"],
   "definition": "Written documents such as forms, records, or letters.",
@@ -3810,7 +3810,7 @@ var palabras =[
  },
  {
   "Total": 424,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Paramedics",
   "spaEquiv": ["Paramédicas","Paramédicos"],
   "definition": "Members of an ambulance crew trained in a number of life-saving skills, including infusion and cardiac care.",
@@ -3819,7 +3819,7 @@ var palabras =[
  },
  {
   "Total": 425,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Pass out",
   "spaEquiv": ["Desmayarse", "Desvanecerse"],
   "definition": "Temporary loss of consciousness, to faint; become unconscious.",
@@ -3828,7 +3828,7 @@ var palabras =[
  },
  {
   "Total": 426,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Passengers",
   "spaEquiv": "Pasajeros",
   "definition": "Insurance: a person(s) who is traveling from one place to another in a car, bus, train, ship, airplane, etc., and who is not driving or working on it.",
@@ -3837,7 +3837,7 @@ var palabras =[
  },
  {
   "Total": 427,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Password",
   "spaEquiv": "Contraseña",
   "definition": "A secret word or phrase that must be used to gain admission to something.",
@@ -3846,7 +3846,7 @@ var palabras =[
  },
  {
   "Total": 428,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Pay per view",
   "spaEquiv": "Pago por evento",
   "definition": "Refers to a type of paid television service by which a subscriber of a television service provider can purchase events to view via private telecast. The broadcaster shows the event at the same time to everyone ordering it.",
@@ -3855,7 +3855,7 @@ var palabras =[
  },
  {
   "Total": 429,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Paycheck",
   "spaEquiv": ["Cheque de pago", "Cheque de sueldo", "Cheque de salario", "Cheque de nómina"],
   "definition": "A check issued to an employee in payment of salary or wages.",
@@ -3864,7 +3864,7 @@ var palabras =[
  },
  {
   "Total": 430,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Payment arrangement",
   "spaEquiv": ["Arreglo de pago", "Acuerdo de pago"],
   "definition": "An agreement between an entity and the borrower, in which the borrower agrees to pay back a certain amount of money each month to repay the debt.",
@@ -3873,7 +3873,7 @@ var palabras =[
  },
  {
   "Total": 431,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Payoff / Pay off ",
   "spaEquiv": ["Liquidación", "Liquidar", "Saldar"],
   "definition": "The act of paying a debt or creditor in full.",
@@ -3882,7 +3882,7 @@ var palabras =[
  },
  {
   "Total": 432,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Payroll ",
   "spaEquiv": ["Nómina","Paga","Planilla"],
   "definition": "The total sum of money to be paid out to employees at a given time.",
@@ -3891,7 +3891,7 @@ var palabras =[
  },
  {
   "Total": 433,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Paystub / Check stub",
   "spaEquiv": ["Talón de pago", "Talonario de pago", "Talones de cheque", "Recibo de pago", "Colilla de pago", "Comprobantes de pago del trabajo"],
   "definition": "A part of a check that is kept for record keeping purposes. For example, the stub is the part of a payroll check that includes information about the current paycheck as well as payments to date.",
@@ -3900,7 +3900,7 @@ var palabras =[
  },
  {
   "Total": 434,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "PCP (Primary Care / Physician)",
   "spaEquiv": ["Médica de cabecera","Médico de cabecera", "Médica principal", "Médico principal", "Doctor de Cabecera", "Doctora de Cabecera"],
   "definition": "A physician who provides both the first contact for a person with an undiagnosed health concern as well as continuing care of varied  conditions, not limited by cause, organ system, or diagnosis.",
@@ -3909,7 +3909,7 @@ var palabras =[
  },
  {
   "Total": 435,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Pediatrician",
   "spaEquiv": "Pediatra",
   "definition": "A medical practitioner specializing in children and their diseases.",
@@ -3918,7 +3918,7 @@ var palabras =[
  },
  {
   "Total": 436,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Pending balance ",
   "spaEquiv": "Saldo pendiente",
   "definition": "Amount of money waiting to be paid, as in a debt.",
@@ -3927,7 +3927,7 @@ var palabras =[
  },
  {
   "Total": 437,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Pertussis",
   "spaEquiv": "Pertusis",
   "definition": "A contagious bacterial disease chiefly affecting children, characterized by convulsive coughs followed by a whoop, also known as whooping cough; however, it is a different register.",
@@ -3936,7 +3936,7 @@ var palabras =[
  },
  {
   "Total": 438,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Pharmacy",
   "spaEquiv": "Farmacia",
   "definition": "A store where medicinal drugs are dispensed and sold.",
@@ -3945,7 +3945,7 @@ var palabras =[
  },
  {
   "Total": 439,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Phlegm",
   "spaEquiv": "Flema",
   "definition": "The thick viscous substance secreted by the mucous membranes of the respiratory passages, especially when produced in excessive or abnormal quantities, e.g., when someone is suffering from a cold.",
@@ -3954,7 +3954,7 @@ var palabras =[
  },
  {
   "Total": 440,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Physical (exam)",
   "spaEquiv": "Examen Físico",
   "definition": "A  examination, usually by a physician to determine the state of a person's health, identify risk factors for disease, or verify fitness.",
@@ -3963,7 +3963,7 @@ var palabras =[
  },
  {
   "Total": 441,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Physical therapy / Physiotherapy",
   "spaEquiv": ["Terapia física", "Fisioterapia"],
   "definition": "Therapy that uses physical agents: exercise and massage and other modalities. The main difference between physical therapy and physiotherapy is how they focus on healing. ",
@@ -3972,7 +3972,7 @@ var palabras =[
  },
  {
   "Total": 442,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Pickup truck",
   "spaEquiv": "Camioneta",
   "definition": "A small truck with an enclosed cab and open back.",
@@ -3981,7 +3981,7 @@ var palabras =[
  },
  {
   "Total": 443,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "PIN",
   "spaEquiv": "Número de identificación personal",
   "definition": "A numeric password used to authenticate a user to a system.(AKA: \"Personal Identification Number\")",
@@ -3990,7 +3990,7 @@ var palabras =[
  },
  {
   "Total": 444,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Pins and needles ",
   "spaEquiv": "Hormigueo",
   "definition": "A sensation of uncomfortable tingling or prickling, usually felt in the hands or feet. A common cause is leaning awkwardly on a limb, which presses against the nerves.",
@@ -3999,7 +3999,7 @@ var palabras =[
  },
  {
   "Total": 445,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "PIP (Personal Injury / Protection)",
   "spaEquiv": ["Protección contra daños personales", "Cobertura contra daños personales"],
   "definition": "This coverage provides personal injuries benefits in states with no-fault laws. Coverage usually applies to the insured, all members of the insured�s household, any passengers and any pedestrian struck by an insured�s vehicle.",
@@ -4008,7 +4008,7 @@ var palabras =[
  },
  {
   "Total": 446,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Point of impact",
   "spaEquiv": "Punto de impacto ",
   "definition": "Part of an object where an impact has taken place.",
@@ -4017,7 +4017,7 @@ var palabras =[
  },
  {
   "Total": 447,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Policy",
   "spaEquiv": "Póliza",
   "definition": "A document detailing the terms and conditions of a contract of insurance.",
@@ -4026,7 +4026,7 @@ var palabras =[
  },
  {
   "Total": 448,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Policyholder",
   "spaEquiv": ["Titular de la póliza", "Pólizahabiente"],
   "definition": "A person or group in whose name an insurance policy is held.",
@@ -4035,7 +4035,7 @@ var palabras =[
  },
  {
   "Total": 449,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Power brakes",
   "spaEquiv": "Frenos de potencia",
   "definition": "Refers to a system of hydraulics used to slow down or stop most motor vehicles",
@@ -4044,7 +4044,7 @@ var palabras =[
  },
  {
   "Total": 450,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Power trunk",
   "spaEquiv": "Maletero automático",
   "definition": "Refers to a vehicle's power operated trunk.",
@@ -4053,7 +4053,7 @@ var palabras =[
  },
  {
   "Total": 451,
-  "Auto Insurance": "Health Insurance",
+  "industry": "Health Insurance",
   "engTerm": "PPO (Preferred Provider Organization)",
   "spaEquiv": ["Organización de Proveedores Preferenciales", "Organización de proveedores Preferentes"],
   "definition": "A preferred provider organization (PPO) is a managed care organization of health providers who contract with an insurer or third-party administrator (TPA) to provide health  coverage to policy holders represented by the insurer or TPA.",
@@ -4062,7 +4062,7 @@ var palabras =[
  },
  {
   "Total": 452,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Pre-approved",
   "spaEquiv": ["Pre-aprobado", "Previamente aprobado"],
   "definition": "To approve an applicant for a loan, for example) in advance, sometimes even before an application is submitted.",
@@ -4071,7 +4071,7 @@ var palabras =[
  },
  {
   "Total": 453,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Precinct",
   "spaEquiv": "Comisaría",
   "definition": "The police station situated in and having jurisdiction over a subdivision or district of a city or town.",
@@ -4080,7 +4080,7 @@ var palabras =[
  },
  {
   "Total": 454,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Preferred language",
   "spaEquiv": "Idioma de preferencia",
   "definition": "The self-identified language, which the client prefers to use in a service or any other encounter.",
@@ -4089,7 +4089,7 @@ var palabras =[
  },
  {
   "Total": 455,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Preferred shop",
   "spaEquiv": ["Taller preferido", "Taller de preferencia"],
   "definition": "Shop used by auto insurance companies to refer their clients, usually set up formally or informally, andor have established a history of exellent service.",
@@ -4098,7 +4098,7 @@ var palabras =[
  },
  {
   "Total": 456,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Premium (context dependent) ",
   "spaEquiv": ["Prima", "Prima del seguro", "Cuota del seguro"],
   "definition": "The cost of an insurance policy; the consideration paid by the insured to the insurer for protection.",
@@ -4107,7 +4107,7 @@ var palabras =[
  },
  {
   "Total": 457,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Prescribed ",
   "spaEquiv": "Recetado",
   "definition": "When a practitioner advises and authorizes the use of a medicine or treatment for someone, especially in writing.",
@@ -4116,7 +4116,7 @@ var palabras =[
  },
  {
   "Total": 458,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Process",
   "spaEquiv": ["Proceso", "Trámite"],
   "definition": "A series of actions that produce something or that lead to a particular result.",
@@ -4125,7 +4125,7 @@ var palabras =[
  },
  {
   "Total": 459,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Processing fee",
   "spaEquiv": ["Cuota de procesamiento", "Cargo de procesamiento", "Costo de procesamiento",  "Cuota por tramitaci�n", "Cargo por tramitaci�n", "Costo por tramitaci�n"],
   "definition": "Charges for paperwork services or miscellaneous services, incurred in the course of business transactions.",
@@ -4134,7 +4134,7 @@ var palabras =[
  },
  {
   "Total": 460,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Proof",
   "spaEquiv": ["Comprobante", "Prueba"],
   "definition": "Evidence that establishes or helps to establish the truth, validity, quality of something.",
@@ -4143,7 +4143,7 @@ var palabras =[
  },
  {
   "Total": 461,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Proof of income",
   "spaEquiv": ["Comprobante de ingresos", "Prueba de ingresos"],
   "definition": "Document that proves how much a person earns.",
@@ -4152,7 +4152,7 @@ var palabras =[
  },
  {
   "Total": 462,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Prorated",
   "spaEquiv": ["Prorrateado", "Cobro proporcional"],
   "definition": "Payment divided in a proportional way based on time of usage. If you use something for less time than you're scheduled to use it for, it's fair to expect that you'll only be charged for the time you used.",
@@ -4161,7 +4161,7 @@ var palabras =[
  },
  {
   "Total": 463,
-  "Auto Insurance": "Health Insurance",
+  "industry": "Health Insurance",
   "engTerm": "Provider",
   "spaEquiv": ["Proveedor", "Proveedora"],
   "definition": "Someone that provides a service, such as a health care provider.",
@@ -4170,7 +4170,7 @@ var palabras =[
  },
  {
   "Total": 464,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Purchase",
   "spaEquiv": "Compra",
   "definition": "To get (something) by paying money for it",
@@ -4179,7 +4179,7 @@ var palabras =[
  },
  {
   "Total": 465,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Qualify (verb)",
   "spaEquiv": "Calificar",
   "definition": "To meet the necessary requirements to receive a service, loan, or position.",
@@ -4188,7 +4188,7 @@ var palabras =[
  },
  {
   "Total": 466,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Quarter",
   "spaEquiv": "Trimestre",
   "definition": "Taking place four times a year. A period of time consisting of three months.",
@@ -4197,7 +4197,7 @@ var palabras =[
  },
  {
   "Total": 467,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Quarter panel (rearfrontrightleft)",
   "spaEquiv": ["Panel", "Panel posterior o delantero, e izquierdo o derecho", "Cuarta sección trasera o frontal e izquierda o derecha", "Aleta"],
   "definition": "A quarter panel refers to any body panel (exterior surface) of an automobile.",
@@ -4206,7 +4206,7 @@ var palabras =[
  },
  {
   "Total": 468,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Quote",
   "spaEquiv": "Cotización",
   "definition": "Information about the cost of an insurance policy given to the prospective insured by the insurance company.",
@@ -4215,7 +4215,7 @@ var palabras =[
  },
  {
   "Total": 469,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Rash ",
   "spaEquiv": ["Erupción", "Urticaria", "Sarpullido"],
   "definition": "Refers to breaking out (eruption) of the skin. A rash can be caused by an underlying  condition, hormonal cycles, allergies, or contact with irritating substances.",
@@ -4224,7 +4224,7 @@ var palabras =[
  },
  {
   "Total": 470,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Re-qualify",
   "spaEquiv": ["Calificar de nuevo" ,"Volver a calificar"],
   "definition": "To show or meet the necessary requirements to continue to receive a service, loan, or position.",
@@ -4233,7 +4233,7 @@ var palabras =[
  },
  {
   "Total": 471,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Rear view mirror ",
   "spaEquiv": "Espejo retrovisor",
   "definition": "A small angled mirror fixed inside the windshield of a motor vehicle, enabling the driver to see the vehicle or road behind.",
@@ -4242,7 +4242,7 @@ var palabras =[
  },
  {
   "Total": 472,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Rear-end",
   "spaEquiv": ["Choque por detrás", "Golpe por detrás", "Choque trasero"],
   "definition": "A traffic accident where a vehicle crashes into the vehicle in front of it.",
@@ -4251,7 +4251,7 @@ var palabras =[
  },
  {
   "Total": 473,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Receipt",
   "spaEquiv": "Recibo",
   "definition": "A receipt is a written acknowledgment that a specified article or payment has been received.",
@@ -4260,7 +4260,7 @@ var palabras =[
  },
  {
   "Total": 474,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Recorded",
   "spaEquiv": "Grabado",
   "definition": "The act or process of storing sounds or images on tape or a disk.",
@@ -4269,7 +4269,7 @@ var palabras =[
  },
  {
   "Total": 475,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Recorded statement",
   "spaEquiv": "Declaración grabada",
   "definition": "A formal oral declaration, usually taken within hours or days after a loss or accident, especially with regard to facts or claims. The statements are audio recorded by an adjuster.",
@@ -4278,7 +4278,7 @@ var palabras =[
  },
  {
   "Total": 476,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Records",
   "spaEquiv": "Expedientes, registros",
   "definition": "Official document that givescontains information. A  document or set of documents that memorializes and  provides objective evidence of activities performed, events  occurred, results achieved, or statements made. ",
@@ -4287,7 +4287,7 @@ var palabras =[
  },
  {
   "Total": 477,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Reduce / Bring down",
   "spaEquiv": "Reducir",
   "definition": "To make (something) smaller in size, amount, number, etc.",
@@ -4296,7 +4296,7 @@ var palabras =[
  },
  {
   "Total": 478,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Refer",
   "spaEquiv": ["Referir", "Remitir"],
   "definition": "To send (someone or something) to a particular person or  place for treatment, help, advice, etc.Refers to the process of directing or redirecting a patient to an appropriate specialist or agency for definitive treatment, aid. Information or decision",
@@ -4305,7 +4305,7 @@ var palabras =[
  },
  {
   "Total": 479,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Reference",
   "spaEquiv": "Referencia",
   "definition": "A unique identifier such as a number, assigned to any transaction to locate and obtain specific information.",
@@ -4314,7 +4314,7 @@ var palabras =[
  },
  {
   "Total": 480,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Referral",
   "spaEquiv": ["Referido", "Remisión", "Derivación"],
   "definition": "Instructions given to a patient directing or redirecting their case to an appropriate specialist or agency for definitive treatment. ",
@@ -4323,7 +4323,7 @@ var palabras =[
  },
  {
   "Total": 481,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Refill ",
   "spaEquiv": ["Resurtir", "Volver a surtir"],
   "definition": "To fill a prescription again. Something provided again; a second or later filling of a medical prescription.",
@@ -4332,7 +4332,7 @@ var palabras =[
  },
  {
   "Total": 482,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Registered",
   "spaEquiv": ["Registrada", "Registrado", "Matriculada", "Matriculado", "Certificada", "Certificado", "Inscribió", "Registr+o", "Certificó"],
   "definition": "Recorded, as in a register, list or book, enrolled.",
@@ -4341,7 +4341,7 @@ var palabras =[
  },
  {
   "Total": 483,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Relationship",
   "spaEquiv": "Relación",
   "definition": "The way in which two or more people or things are connected.",
@@ -4350,7 +4350,7 @@ var palabras =[
  },
  {
   "Total": 484,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Renewal",
   "spaEquiv": "Renovación",
   "definition": "The act of extending the period of time when something is effective or valid: the act of renewing something.",
@@ -4359,7 +4359,7 @@ var palabras =[
  },
  {
   "Total": 485,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Rent",
   "spaEquiv": "Alquilar",
   "definition": "To obtain occupancy or use of (another's property) in return for regular payments.",
@@ -4368,7 +4368,7 @@ var palabras =[
  },
  {
   "Total": 486,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Repairs ",
   "spaEquiv": ["Reparaciones", "Arreglos"],
   "definition": "To restore to sound condition after damage.",
@@ -4377,7 +4377,7 @@ var palabras =[
  },
  {
   "Total": 487,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Replace (verb)",
   "spaEquiv": "Reemplazar",
   "definition": "To provide a substitute for something broken or unsatisfactory.",
@@ -4386,7 +4386,7 @@ var palabras =[
  },
  {
   "Total": 488,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Report",
   "spaEquiv": ["Reporte", "Informe"],
   "definition": "An account given of a particular matter, especially in the form of an official document, after thorough investigation or consideration by an appointed person or body.",
@@ -4395,7 +4395,7 @@ var palabras =[
  },
  {
   "Total": 489,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Request",
   "spaEquiv": ["Solicitar", "Pedir"],
   "definition": "To make a request to or of.",
@@ -4404,7 +4404,7 @@ var palabras =[
  },
  {
   "Total": 490,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Requirements ",
   "spaEquiv": "Requisitos ",
   "definition": "A prerequisite, something that is required or needed to cualify for something, or to complete a task.",
@@ -4413,7 +4413,7 @@ var palabras =[
  },
  {
   "Total": 491,
-  "Auto Insurance": "Travel and Hospitality",
+  "industry": "Travel and Hospitality",
   "engTerm": "Reservation ",
   "spaEquiv": "Reservación",
   "definition": "An arrangement by which accommodations are secured in advance, as in a hotel or restaurant or on an airplane.",
@@ -4422,7 +4422,7 @@ var palabras =[
  },
  {
   "Total": 492,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Reside (verb)",
   "spaEquiv": ["Residir", "Vivir"],
   "definition": "Have one's permanent home in a particular place, be situated.",
@@ -4431,7 +4431,7 @@ var palabras =[
  },
  {
   "Total": 493,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Resources",
   "spaEquiv": "Recursos",
   "definition": "An amount of money that is used for a special purpose",
@@ -4440,7 +4440,7 @@ var palabras =[
  },
  {
   "Total": 494,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Restraining order",
   "spaEquiv": "Orden de alejamiento",
   "definition": "A legally binding order of the court, enforceable by law enforcement officials as well as the court. Such protective orders are issued, not only to protect victims from violence, but from other forms of abuse, nuisance, and stalking.",
@@ -4449,7 +4449,7 @@ var palabras =[
  },
  {
   "Total": 495,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Reverse ",
   "spaEquiv": ["Ir retrocediendo", "Ir en reversa", "Retroceder"],
   "definition": "To move backwards.",
@@ -4458,7 +4458,7 @@ var palabras =[
  },
  {
   "Total": 496,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Right of way",
   "spaEquiv": ["Derecho de paso", "Derecho de vía","Derecho al paso"],
   "definition": "A way of determining which vehicle, among two or more, will be allowed to continue on its path before the others.",
@@ -4467,7 +4467,7 @@ var palabras =[
  },
  {
   "Total": 497,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Road conditions",
   "spaEquiv": "Condiciones de la carretera",
   "definition": "Different factors that describe and determine the ease with which a road can be driven; such as the condition of the pavement, slippery road surface, puddles of water, mud or ice in each lane.",
@@ -4476,7 +4476,7 @@ var palabras =[
  },
  {
   "Total": 498,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Roadside assistance",
   "spaEquiv": ["Cobertura de asistencia en la carretera", "Asistencia vial"],
   "definition": "An optional automobile insurance coverage that may be purchased for an additional premium; this coverage provides for gasoline, and some minor repairs.",
@@ -4485,7 +4485,7 @@ var palabras =[
  },
  {
   "Total": 499,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Robbery",
   "spaEquiv": ["Robo con violencia", "Delito de robo violento"],
   "definition": "Robbery is the crime of taking or attempting to take something of value by force or threat of force or by putting the victim in fear.",
@@ -4494,7 +4494,7 @@ var palabras =[
  },
  {
   "Total": 500,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Rollator / Walker with a seat",
   "spaEquiv": "Andador con asiento ",
   "definition": "A rollator consists of a frame with three or four large wheels, handlebars, and a built-in seat. It is mainly used for patients who need a walker only for balance but not for weight-bearing.",
@@ -4503,7 +4503,7 @@ var palabras =[
  },
  {
   "Total": 501,
-  "Auto Insurance": "Travel and Hospitality",
+  "industry": "Travel and Hospitality",
   "engTerm": "Round-trip ",
   "spaEquiv": "Viaje de ida y vuelta",
   "definition": "A trip from one place to another and back.",
@@ -4512,7 +4512,7 @@ var palabras =[
  },
  {
   "Total": 502,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Routing number",
   "spaEquiv": ["Número de ruta bancaria", "Número de identificación bancaria"],
   "definition": "The routing number is a nine digit bank code which appears on the bottom of checks identifying the financial institution on which it was drawn.",
@@ -4521,7 +4521,7 @@ var palabras =[
  },
  {
   "Total": 503,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Rubella (German measles)",
   "spaEquiv": "Rubéola",
   "definition": "A usually mild contagious viral disease characterized by fever, mild upper respiratory congestion, and a fine red rash lasting a few days.",
@@ -4530,7 +4530,7 @@ var palabras =[
  },
  {
   "Total": 504,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Running boards",
   "spaEquiv": ["Estribos", "Escalones"],
   "definition": "A footboard extending along the side of a vehicle, typically found on trucks, SUVs, and some early models of automobiles.",
@@ -4539,7 +4539,7 @@ var palabras =[
  },
  {
   "Total": 505,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Salvage value  / Scrap value ",
   "spaEquiv": ["Valor residual", "Valor de rescate"],
   "definition": "The value assigned by an insurer to property deemed beyond repair, or whose value is less than the actual cost of repair.",
@@ -4548,7 +4548,7 @@ var palabras =[
  },
  {
   "Total": 506,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Savings account",
   "spaEquiv": "Cuenta de ahorros",
   "definition": "A bank account that lets you store your money securely while typically earning interest. This means the bank pays you to keep your funds deposited.",
@@ -4557,7 +4557,7 @@ var palabras =[
  },
  {
   "Total": 507,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Schedule ",
   "spaEquiv": ["Progammar", "Agendar"],
   "definition": "To arrange or plan (an event) to take place at a particular time.",
@@ -4566,7 +4566,7 @@ var palabras =[
  },
  {
   "Total": 508,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Scratch ",
   "spaEquiv": ["Raspón", "Raya", "Raspadura"],
   "definition": "Score or mark the surface of (something) with a sharp or pointed object.",
@@ -4575,7 +4575,7 @@ var palabras =[
  },
  {
   "Total": 509,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Screech",
   "spaEquiv": "Chillido",
   "definition": "A loud shrill, harsh, or high-pitched sound.",
@@ -4584,7 +4584,7 @@ var palabras =[
  },
  {
   "Total": 510,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Screening",
   "spaEquiv": ["Prueba de despistaje", "Prueba evaluatoria", "Cribado"],
   "definition": "A test designed to identify and eliminate those who are not affected by a disease.",
@@ -4593,7 +4593,7 @@ var palabras =[
  },
  {
   "Total": 511,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Search box",
   "spaEquiv": "Casilla de búsqueda",
   "definition": "A rectangular field on screen that accepts typed-in text in order to look up something or launch a search for related information. Also called a \"search bar\".",
@@ -4602,7 +4602,7 @@ var palabras =[
  },
  {
   "Total": 512,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Seatbelt",
   "spaEquiv": "Cinturón de seguridad",
   "definition": "A belt or strap securing a person to prevent injury, especially in a vehicle or aircraft.",
@@ -4611,7 +4611,7 @@ var palabras =[
  },
  {
   "Total": 513,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Security deposit",
   "spaEquiv": "Depósito de seguridad",
   "definition": "A sum of money held in trust either as an initial part-payment in a purchasing process.",
@@ -4620,7 +4620,7 @@ var palabras =[
  },
  {
   "Total": 514,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Seizure",
   "spaEquiv": ["Ataque convulsivo", "Episodio de convulsión"],
   "definition": "A sudden attack with physical manifestations (as convulsions, sensory disturbances, or loss of consciousness) resulting from abnormal electrical discharges in the brain (as in epilepsy).",
@@ -4629,7 +4629,7 @@ var palabras =[
  },
  {
   "Total": 515,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Self-employment",
   "spaEquiv": ["Trabajo por cuenta propia", "Trabajo aut�nomo"],
   "definition": "Earning one's livelihood directly from one's own trade or business rather than as an employee of another.",
@@ -4638,7 +4638,7 @@ var palabras =[
  },
  {
   "Total": 516,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Service fee",
   "spaEquiv": ["Cargo por servicio", "Cuota por servicio"],
   "definition": "An amount of money charged to provide a service.",
@@ -4647,7 +4647,7 @@ var palabras =[
  },
  {
   "Total": 517,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Service request",
   "spaEquiv": ["Petición de servicio", "Pedido de servicio"],
   "definition": "An act of asking for support or fulfillment of a service.",
@@ -4656,7 +4656,7 @@ var palabras =[
  },
  {
   "Total": 518,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Settlement",
   "spaEquiv": "Acuerdo",
   "definition": "A settlement, in the context of insurance, refers to a policy benefit or claims payment. The amount depends on the particular claim, the guidelines stipulated in the insurance policy, and the mutual agreement of the parties involved.",
@@ -4665,7 +4665,7 @@ var palabras =[
  },
  {
   "Total": 519,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Sewage ",
   "spaEquiv": ["Aguas residuales", "Aguas negras", "Aguas servidas"],
   "definition": "Waste matter from domestic or industrial establishments that is carried away in sewers or drains for dumping or conversion into a form that is not toxic.",
@@ -4674,7 +4674,7 @@ var palabras =[
  },
  {
   "Total": 520,
-  "Auto Insurance": "Jail system",
+  "industry": "Jail system",
   "engTerm": "Shackles",
   "spaEquiv": "Grilletes",
   "definition": "Something that confines a person preventing free action as if by fetters �usually used in plural. Usually U-shaped fastening device secured by a bolt or pin through holes in the end of the two arms.",
@@ -4683,7 +4683,7 @@ var palabras =[
  },
  {
   "Total": 521,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": ["Shake", "Tremble"],
   "spaEquiv": "Temblar",
   "definition": "To shake involuntarily with quick, short movements, as from fear, excitement, weakness, or cold; quake; quiver.",
@@ -4692,7 +4692,7 @@ var palabras =[
  },
  {
   "Total": 522,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Sharp pain",
   "spaEquiv": ["Dolor agudo", "Dolor intenso"],
   "definition": "A sharp pain is sudden and severe.",
@@ -4701,7 +4701,7 @@ var palabras =[
  },
  {
   "Total": 523,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Shingles",
   "spaEquiv": "Culebrilla",
   "definition": "Shingles, also known as zoster or herpes zoster, is a viral disease characterized by a painful skin rash with blisters in a localized area.",
@@ -4710,7 +4710,7 @@ var palabras =[
  },
  {
   "Total": 524,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Shortage",
   "spaEquiv": "Escasez",
   "definition": "A state in which there is not enough of something that is needed.",
@@ -4719,7 +4719,7 @@ var palabras =[
  },
  {
   "Total": 525,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Shortness of breath",
   "spaEquiv": ["Falta de aliento", "Falta de respiraci�n", "Falta de aire"],
   "definition": "A feeling of difficult or labored breathing that is out of proportion to the patient's level of physical activity.",
@@ -4728,7 +4728,7 @@ var palabras =[
  },
  {
   "Total": 526,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Shoulder (road)",
   "spaEquiv": ["Borde del camino", "Orilla",  "Franja lateral", "Hombrillo"],
   "definition": "A shoulder on a road is used as an emergency stopping lane, it is kind of a reserved lane by the verge of a road or motorway. A paved strip alongside a road for stopping on in an emergency.",
@@ -4737,7 +4737,7 @@ var palabras =[
  },
  {
   "Total": 527,
-  "Auto Insurance": "Jail system",
+  "industry": "Jail system",
   "engTerm": "Sick bay",
   "spaEquiv": "Enfermería",
   "definition": "A room or building set aside for the treatment or accommodation of the sick, especially within a jail, military base or on board a ship.",
@@ -4746,7 +4746,7 @@ var palabras =[
  },
  {
   "Total": 528,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Side effects",
   "spaEquiv": ["Efectos secundarios", "Efectos colaterales"],
   "definition": "A secondary, typically undesirable effect of a drug or treatment.",
@@ -4755,7 +4755,7 @@ var palabras =[
  },
  {
   "Total": 529,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Side mirrors / Side-view mirrors / Wing mirrors",
   "spaEquiv": "Espejos laterales retrovisores ",
   "definition": "Refers to mirrors found on either side of the exterior of motor vehicles for the purposes of helping the driver see areas behind and to the sides of the vehicle, outside of the driver's peripheral vision (in the 'blind spot').",
@@ -4764,7 +4764,7 @@ var palabras =[
  },
  {
   "Total": 530,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Sidewalk",
   "spaEquiv": ["Acera", "Banqueta"],
   "definition": "A walkway or a paved path for pedestrians at the side of a road.",
@@ -4773,7 +4773,7 @@ var palabras =[
  },
  {
   "Total": 531,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Signal",
   "spaEquiv": "Señal ",
   "definition": "A gesture, action, or sound that is used to convey information or instructions.",
@@ -4782,7 +4782,7 @@ var palabras =[
  },
  {
   "Total": 532,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Skid",
   "spaEquiv": ["Patinar", "Derrapar"],
   "definition": "Refers to a vehicle that slides typically sideways or obliquely, on slippery ground, usually as a result of stopping or turning too quickly.",
@@ -4791,7 +4791,7 @@ var palabras =[
  },
  {
   "Total": 533,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Skid marks",
   "spaEquiv": ["Huellas de frenazo", "Marcas de llanta"],
   "definition": "A long black mark left on a road surface by the tires of a skidding vehicle.",
@@ -4800,7 +4800,7 @@ var palabras =[
  },
  {
   "Total": 534,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Slam",
   "spaEquiv": "Embestir",
   "definition": "A heavy blow or impact; a noisy violent closing; a banging noise.",
@@ -4809,7 +4809,7 @@ var palabras =[
  },
  {
   "Total": 535,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Sling",
   "spaEquiv": "Cabestrillo",
   "definition": "A supporting bandage or suspensory device; especially a loop suspended from the neck and supporting the flexed forearm.",
@@ -4818,7 +4818,7 @@ var palabras =[
  },
  {
   "Total": 536,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Slippery",
   "spaEquiv": "Resbaloso",
   "definition": "Refers to a surface or object that is difficult to hold firmly or stand on because it is smooth, wet, or slimy.",
@@ -4827,7 +4827,7 @@ var palabras =[
  },
  {
   "Total": 537,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Social Security",
   "spaEquiv": ["Seguro Social", "Seguridad Social"],
   "definition": "A federal insurance program that provides benefits for old age, survivors and disability.",
@@ -4836,7 +4836,7 @@ var palabras =[
  },
  {
   "Total": 538,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": ["Social Security", "Number"],
   "spaEquiv": "Número de seguro social",
   "definition": "A number assigned by the government for taxation, employment, social security benefits, and identification purposes.",
@@ -4845,7 +4845,7 @@ var palabras =[
  },
  {
   "Total": 539,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Social worker ",
   "spaEquiv": ["Trabajadora social","Trabajador social"],
   "definition": "A professional whose job is to facilitate the welfare of communities, individuals and societies.",
@@ -4854,7 +4854,7 @@ var palabras =[
  },
  {
   "Total": 540,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Sole (of the foot)",
   "spaEquiv": "Planta del pie",
   "definition": "The sole is the bottom of the foot.",
@@ -4863,7 +4863,7 @@ var palabras =[
  },
  {
   "Total": 541,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Spell",
   "spaEquiv": "Episodio",
   "definition": "A period of bodily or mental distress or disorder.",
@@ -4872,7 +4872,7 @@ var palabras =[
  },
  {
   "Total": 542,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Spinal column / Spine / Backbone",
   "spaEquiv": ["Columna vertebral","Espina dorsal"],
   "definition": "The series of articulated vertebrae, separated by intervertebral disks and held together by muscles and tendons, that extends from the cranium to the coccyx or the end of the tail, encasing the spinal cord and forming the central support of the body.",
@@ -4881,7 +4881,7 @@ var palabras =[
  },
  {
   "Total": 543,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Spleen",
   "spaEquiv": "Bazo",
   "definition": "The spleen is the largest lymphatic organ in the body. The spleen also filters blood, serves as a major reservoir for blood, and destroys blood cells that are aged or abnormal.",
@@ -4890,7 +4890,7 @@ var palabras =[
  },
  {
   "Total": 544,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Sprain",
   "spaEquiv": ["Torcedura, Esguince"],
   "definition": "To injure (a joint) by a sudden twisting or wrenching of its ligaments.",
@@ -4899,7 +4899,7 @@ var palabras =[
  },
  {
   "Total": 545,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "SSI (Supplemental Security Income)",
   "spaEquiv": "Ingreso suplementario del seguro social",
   "definition": "A Federal income supplement program funded by general tax revenues. It is designed to help aged, blind, and disabled people, who have little or no income. It provides cash to meet basic needs for food, clothing, and shelter.",
@@ -4908,7 +4908,7 @@ var palabras =[
  },
  {
   "Total": 546,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Statement / Account statement / Bank statement",
   "spaEquiv": ["Estado de cuenta","Extracto bancario"],
   "definition": "A document which shows amounts of money that you have received, spent, etc. A brief record of a financial account.",
@@ -4917,7 +4917,7 @@ var palabras =[
  },
  {
   "Total": 547,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Status",
   "spaEquiv": "Estado",
   "definition": "State or condition of matters of personal or business nature.",
@@ -4926,7 +4926,7 @@ var palabras =[
  },
  {
   "Total": 548,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": ["STD (Sexually Transmitted Disease)", "STI (Sexually Transmitted Infection)"],
   "spaEquiv": ["Enfermedad de transmisión sexual" ,"Infección de transmisión sexual"],
   "definition": "Diseases that are passed on from one person to another through sexual contact, and sometimes by genital contact.",
@@ -4935,7 +4935,7 @@ var palabras =[
  },
  {
   "Total": 549,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Steering wheel ",
   "spaEquiv": "Volante",
   "definition": "A wheel that a driver rotates in order to steer a vehicle.",
@@ -4944,7 +4944,7 @@ var palabras =[
  },
  {
   "Total": 550,
-  "Auto Insurance": "Workers' Compensation",
+  "industry": "Workers' Compensation",
   "engTerm": "Stipend",
   "spaEquiv": "Estipendio",
   "definition": "Injured workers will generally receive 23% of their average weekly wage for lost wages due to a disability. This payment is generally called a stipend. A stipend is also a type of compensation for students, interns, apprentices, fellows, and clergy that don't receive a salary. It is normally provided on a daily, weekly, or monthly basis.",
@@ -4953,7 +4953,7 @@ var palabras =[
  },
  {
   "Total": 551,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Stolen",
   "spaEquiv": "Robado",
   "definition": "To take and use (ideas, credit, property, etc.) without right or acknowledgment.",
@@ -4962,7 +4962,7 @@ var palabras =[
  },
  {
   "Total": 552,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Stop sign",
   "spaEquiv": ["Señal de alto", "Señal de pare"],
   "definition": "Refers to a traffic sign to notify drivers that they must stop before proceeding.",
@@ -4971,7 +4971,7 @@ var palabras =[
  },
  {
   "Total": 553,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Strain (context dependent)",
   "spaEquiv": ["Distensión muscular", "Cepa", "Sufrir una distensión muscular", "pujar"],
   "definition": "Strain is a stretching or tearing of muscle or tendon. A tendon is a fibrous cord of tissue that connects muscles to bones.Strain (Viral) is a genetic variant or subtype of microorganism (that could be a virus, but it also applies to bacteria and fungi).",
@@ -4980,7 +4980,7 @@ var palabras =[
  },
  {
   "Total": 554,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Stranded",
   "spaEquiv": ["Varada", "Varado"],
   "definition": "Left helpless, without transportation. For example, when a car breaks down.",
@@ -4989,7 +4989,7 @@ var palabras =[
  },
  {
   "Total": 555,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Strength (of a medication)",
   "spaEquiv": "Concentración",
   "definition": "The proportion of active drug substance to excipient, measured in units of volume or concentration. The strength of a drug product, which indicates the amount of active ingredient in each dose.",
@@ -4998,7 +4998,7 @@ var palabras =[
  },
  {
   "Total": 556,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Strep throat",
   "spaEquiv": ["Infección de la garganta por estreptococos",  "Estreptococos en la garganta", "Faringitis estreptocócica"],
   "definition": "Throat infection caused by streptococcus bacteria. Symptoms include fever, redness of the throat, and inflammation of the tonsils.",
@@ -5007,7 +5007,7 @@ var palabras =[
  },
  {
   "Total": 557,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": ["Stretcher, Gurney"],
   "spaEquiv": ["Camilla", "Camilla portátil para ambulancia"],
   "definition": "An apparatus used for moving patients who require care. A basic type of cot that must be carried by two or more people.",
@@ -5016,7 +5016,7 @@ var palabras =[
  },
  {
   "Total": 558,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Stroke",
   "spaEquiv": ["Derrame cerebral", "Apoplejía"],
   "definition": "Occurs when blood supply to part of the brain is disrupted, causing brain cells to die. When blood flow to the brain is impaired, oxygen and glucose cannot be delivered to the brain.",
@@ -5025,7 +5025,7 @@ var palabras =[
  },
  {
   "Total": 559,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Stuffed up",
   "spaEquiv": ["Tapada", "Tapado", "Congestionada", "Congestionado", "Constipada", "Constipado"],
   "definition": "The presence of increased secretions and mucus in the nasal passages, most commonly arising as a result of a common cold, allergic reaction, or inflammation or infection of the paranasal sinuses (sinus infection).",
@@ -5034,7 +5034,7 @@ var palabras =[
  },
  {
   "Total": 560,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Subscriber",
   "spaEquiv": ["Suscriptor", "Suscriptora"],
   "definition": "A person who receives a service or coverage regularly by paying in advance.",
@@ -5043,7 +5043,7 @@ var palabras =[
  },
  {
   "Total": 561,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": ["Sufficient", "Enough"],
   "spaEquiv": "Suficiente",
   "definition": "Being as much as is needed; adequate; enough.",
@@ -5052,7 +5052,7 @@ var palabras =[
  },
  {
   "Total": 562,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Surcharges",
   "spaEquiv": "Recargos",
   "definition": "To charge an additional sum, to the usual payment, tax, etc.",
@@ -5061,7 +5061,7 @@ var palabras =[
  },
  {
   "Total": 563,
-  "Auto Insurance": "Insurance (general)",
+  "industry": "Insurance (general)",
   "engTerm": "Surrender",
   "spaEquiv": ["Ceder, Entregar"],
   "definition": "To return, turn in, give up, or give back an asset.",
@@ -5070,7 +5070,7 @@ var palabras =[
  },
  {
   "Total": 564,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Suspend (verb)",
   "spaEquiv": "Suspender",
   "definition": "1. Temporarily prevent from continuing or being in force or effect. 2. To bar for a period from a privilege, office, or position, usually as a punishment.",
@@ -5079,7 +5079,7 @@ var palabras =[
  },
  {
   "Total": 565,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Swerve (verb)",
   "spaEquiv": ["Desviarse bruscamente", "Virarse para evitar el golpe"],
   "definition": "To zig zag or veer or change or cause to change direction abruptly.",
@@ -5088,7 +5088,7 @@ var palabras =[
  },
  {
   "Total": 566,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Swollen",
   "spaEquiv": ["Hinchada","Hinchado"], 
   "definition": "Refers to the buildup of fluid in the soft tissue surrounding a body part like a joint for example.",
@@ -5097,16 +5097,16 @@ var palabras =[
  },
  {
   "Total": 567,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Symptoms",
-  "spaEquiv": "S�ntomas",
+  "spaEquiv": "Síntomas",
   "definition": "An indication or sign of a disorder or disease, especially a subjective one such as pain, sensation or change in bodily function experienced by a patient that is associated with a particular disease.",
   "sampleSentenceEng": "Symptoms may differ from patient to patient. ",
   "sampleSentenceSpa": "Los síntomas pueden diferir entre paciente y paciente. "
  },
  {
   "Total": 568,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Tailgate (verb)",
   "spaEquiv": "Pegarse o seguir de cerca a otro vehículo",
   "definition": "Driving too closely behind another vehicle.",
@@ -5115,7 +5115,7 @@ var palabras =[
  },
  {
   "Total": 569,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Taillight",
   "spaEquiv": ["Luz trasera", "Calavera"],
   "definition": "Tail Lights are mounted to the rear of the car above the bumper. They are red in color and have accompanying white lights beside them to indicate when the vehicle is in reverse. Tail lights make other car�s aware of your presence so that you can travel safely in the dark. Also, the red color of the tail lights shines more brightly whenever you are braking so that other cars know to slow down as well.",
@@ -5124,7 +5124,7 @@ var palabras =[
  },
  {
   "Total": 570,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Tax return",
   "spaEquiv": "Declaración de impuestos",
   "definition": "A tax return is the completion of documentation that calculates an entity's or individual's income earned and the amount of taxes to be paid to the government.",
@@ -5133,7 +5133,7 @@ var palabras =[
  },
  {
   "Total": 571,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Taxes",
   "spaEquiv": "Impuestos",
   "definition": "An amount of money that a government requires people to pay according to their income, the value of their property, etc.",
@@ -5142,7 +5142,7 @@ var palabras =[
  },
  {
   "Total": 572,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "TB (Tuberculosis)",
   "spaEquiv": "Tuberculosis",
   "definition": "TB is a disease caused by bacteria called Mycobacterium tuberculosis. The bacteria usually attack the lungs, but they can also damage other parts of the body.",
@@ -5151,7 +5151,7 @@ var palabras =[
  },
  {
   "Total": 573,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Technician",
   "spaEquiv": ["Técnica","Técnico"],
   "definition": "A person who has acquired special skills to do practical work in a particular field.",
@@ -5160,7 +5160,7 @@ var palabras =[
  },
  {
   "Total": 574,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Temporary block",
   "spaEquiv": "Bloqueo temporal",
   "definition": "To help protect from fraud or abuse, an account may be suspended for a limited period of time.",
@@ -5169,7 +5169,7 @@ var palabras =[
  },
  {
   "Total": 575,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Temporary repairs",
   "spaEquiv": ["Reparaciones temporales" ,"Reparaciones provisionales"],
   "definition": "Repairs made to a damaged property to prevent further damages, until permanent repairs are done.",
@@ -5178,7 +5178,7 @@ var palabras =[
  },
  {
   "Total": 576,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Tenant ",
   "spaEquiv": ["Inquilina","Inquilino", "Arrendataria","Arrendatario"],
   "definition": "A person who occupies land or property rented from a landlord.",
@@ -5187,7 +5187,7 @@ var palabras =[
  },
  {
   "Total": 577,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Terminally ill",
   "spaEquiv": ["Desahuciada", "Desahuciado", "Enferma terminal", "Enfermo terminal"],
   "definition": "Terminally ill refers to the condition of a person who is expected to be deceased within a few months, or no more than a year, because of a serious disease or illness.",
@@ -5196,7 +5196,7 @@ var palabras =[
  },
  {
   "Total": 578,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Test",
   "spaEquiv": ["Prueba","Análisis", "Examen"],
   "definition": "A procedure intended to establish the quality, performance, or reliability of an individual's health.",
@@ -5205,7 +5205,7 @@ var palabras =[
  },
  {
   "Total": 579,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Test strips",
   "spaEquiv": "Tiritas reactivas ",
   "definition": "A test strip is a strip of material containing chemicals that react to certain substances.Test strips are part of many tests for home use that allow people to test for or monitor some diseases or health conditions, including diabetes.",
@@ -5214,7 +5214,7 @@ var palabras =[
  },
  {
   "Total": 580,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Tetanus",
   "spaEquiv": "Tétanos",
   "definition": "Tetanus is a serious illness caused by Clostridium bacteria. The infection causes painful tightening of the muscles, usually all over the body. It can lead to locking of the jaw. This makes it impossible to open your mouth or swallow. A dangerous disease that is caused by bacteria that usually enters the body through a cut or wound; Tetanus causes muscles and especially muscles in the jaw to become stiff. A vaccine can prevent tetanus.",
@@ -5223,7 +5223,7 @@ var palabras =[
  },
  {
   "Total": 581,
-  "Auto Insurance": "Jail system",
+  "industry": "Jail system",
   "engTerm": ["The Monster", "The Ninja"],
   "spaEquiv": "Recluso con SIDA",
   "definition": "Inmate talk: Refers to an inmate having HIV.",
@@ -5232,7 +5232,7 @@ var palabras =[
  },
  {
   "Total": 582,
-  "Auto Insurance": "911 - Law enforcement",
+  "industry": "911 - Law enforcement",
   "engTerm": "Theft",
   "spaEquiv": ["Hurto", "Robo", "Delito de hurto"],
   "definition": "Theft referst to taking of another person's property without that person's permission or consent with the intent to deprive the rightful owner of it.",
@@ -5241,7 +5241,7 @@ var palabras =[
  },
  {
   "Total": 583,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Thermometer",
   "spaEquiv": "Termómetro",
   "definition": "An instrument for measuring and indicating temperature.",
@@ -5250,7 +5250,7 @@ var palabras =[
  },
  {
   "Total": 584,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": ["Throbbing pain", "Pulsing pain"],
   "spaEquiv": ["Dolor palpitante", "Dolor que late", "Dolor pulsante"],
   "definition": "Throbbing pain consists of recurring achy pains. You may also experience pounding, beating, or pulsing pain.",
@@ -5259,7 +5259,7 @@ var palabras =[
  },
  {
   "Total": 585,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Tingling",
   "spaEquiv": "Hormigueo",
   "definition": "To feel or cause to feel a prickling, itching, or stinging sensation of the flesh, as from a cold plunge or electric shock.",
@@ -5268,7 +5268,7 @@ var palabras =[
  },
  {
   "Total": 586,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Title",
   "spaEquiv": "Título",
   "definition": "A legal form, establishing a person or business as the legal owner of a vehicle. Also known as pink slip.",
@@ -5277,7 +5277,7 @@ var palabras =[
  },
  {
   "Total": 587,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "To fill (A prescription or medication)",
   "spaEquiv": "Surtir una receta",
   "definition": "To go to a pharmacy to buy a dose or set of doses of a medicine as prescribed by a doctor.",
@@ -5286,7 +5286,7 @@ var palabras =[
  },
  {
   "Total": 588,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "To renew",
   "spaEquiv": ["Renovar", "Reanudar"],
   "definition": "To make effective for an additional period.",
@@ -5295,7 +5295,7 @@ var palabras =[
  },
  {
   "Total": 589,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Tonsillitis",
   "spaEquiv": "Amigdalitis",
   "definition": "An infection and swelling of the tonsils, which are oval-shaped masses of lymph gland tissue located on both sides of the back of the throat.",
@@ -5304,7 +5304,7 @@ var palabras =[
  },
  {
   "Total": 590,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Tonsils",
   "spaEquiv": ["Amígdalas", "Anginas"],
   "definition": "Either of two small masses of lymphoid tissue in the throat, one on each side of the root of the tongue.",
@@ -5313,7 +5313,7 @@ var palabras =[
  },
  {
   "Total": 591,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Total loss",
   "spaEquiv": "Pérdida total",
   "definition": "In insurance, a total loss is a judgment, by the insurer, that the lost value or repair cost of a damaged property exceeds the value of its policy.",
@@ -5322,7 +5322,7 @@ var palabras =[
  },
  {
   "Total": 592,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Tow truck",
   "spaEquiv": ["Grúa", "Camión de remolque"],
   "definition": "A truck with special equipment for pulling a vehicle that is not working to a place where it can be repaired",
@@ -5331,7 +5331,7 @@ var palabras =[
  },
  {
   "Total": 593,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Tow yard",
   "spaEquiv": ["Lote de vehiculos remolcados", "Corralón"],
   "definition": "A storage facility used to park disabled vehicles on a temporary basis.",
@@ -5340,7 +5340,7 @@ var palabras =[
  },
  {
   "Total": 594,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Towed",
   "spaEquiv": "Remolcado",
   "definition": "Refers to a motor vehicle or boat pulling another vehicle or boat by means of chains, tow bars, or tow platform.",
@@ -5349,7 +5349,7 @@ var palabras =[
  },
  {
   "Total": 595,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Traffic Control",
   "spaEquiv": ["Control del tráfico", "Control del tránsito"],
   "definition": "Traffic control involves directing vehicular and pedestrian traffic around a construction zone, accident or other road disruption, thus ensuring the safety of emergency response teams, construction workers and the general public.",
@@ -5358,7 +5358,7 @@ var palabras =[
  },
  {
   "Total": 596,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Traffic light",
   "spaEquiv": "Semáforo ",
   "definition": "A set of automatically operated colored lights, typically red, amber, and green, for controlling traffic at road junctions and crosswalks.",
@@ -5367,7 +5367,7 @@ var palabras =[
  },
  {
   "Total": 597,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Traffic sign",
   "spaEquiv": "Señal de tránsito",
   "definition": "A sign conveying information, an instruction, or a warning to drivers.",
@@ -5376,7 +5376,7 @@ var palabras =[
  },
  {
   "Total": 598,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Trailer",
   "spaEquiv": "Remolque",
   "definition": "An unpowered vehicle towed by another, in particular.",
@@ -5385,7 +5385,7 @@ var palabras =[
  },
  {
   "Total": 599,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Trailer hitch",
   "spaEquiv": "Enganche de remolque",
   "definition": "A device attached to the chassis of a vehicle for towing.",
@@ -5394,7 +5394,7 @@ var palabras =[
  },
  {
   "Total": 600,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Training",
   "spaEquiv": ["Adiestramiento", "Entrenamiento"],
   "definition": "The education, instruction, or discipline of a person learning a new skill or task.",
@@ -5403,7 +5403,7 @@ var palabras =[
  },
  {
   "Total": 601,
-  "Auto Insurance": "Travel and Hospitality",
+  "industry": "Travel and Hospitality",
   "engTerm": "Tram",
   "spaEquiv": "Tranvía",
   "definition": "An electric vehicle that transports people, usually in cities, and goes along metal tracks in the road.",
@@ -5412,7 +5412,7 @@ var palabras =[
  },
  {
   "Total": 602,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Transaction",
   "spaEquiv": "Transacción",
   "definition": "An exchange or transfer of goods, services, or funds.",
@@ -5421,7 +5421,7 @@ var palabras =[
  },
  {
   "Total": 603,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Transfer",
   "spaEquiv": "Transferir",
   "definition": "To take over the possession of (property, a right, or a responsibility) to someone else.",
@@ -5430,7 +5430,7 @@ var palabras =[
  },
  {
   "Total": 604,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Transportation",
   "spaEquiv": "Transporte",
   "definition": "The action of transporting someone or something or the process of being transported.",
@@ -5439,7 +5439,7 @@ var palabras =[
  },
  {
   "Total": 605,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Treatment",
   "spaEquiv": "Tratamiento",
   "definition": "Medicines, surgery, psychotherapy, etc. given to a patient to treat a disease or symptom in an attempt to cure it.",
@@ -5448,7 +5448,7 @@ var palabras =[
  },
  {
   "Total": 606,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Triage nurse",
   "spaEquiv": ["Enfermero de clasificación de emergencias", "Enfermera de clasificación de emergencias"],
   "definition": "A registered nurse (typically in the emergency room) who assesses patients and determines their need for medical attention in order of urgency to determine the order in which they will receive medical care.",
@@ -5457,7 +5457,7 @@ var palabras =[
  },
  {
   "Total": 607,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Troubleshooting ",
   "spaEquiv": ["Ubicación de problemas", "Localización de fallas", "Localización de problemas", "Diagnóstico de problemas"],
   "definition": "Refers to a form of technical problem solving, often applied to repair failed products or processes. It is a systematic search for the source of a problem in order to solve it, and make the product operational again.",
@@ -5466,7 +5466,7 @@ var palabras =[
  },
  {
   "Total": 608,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Trunk ",
   "spaEquiv": ["Baúl", "Maletero", "Cajuela", "Maleta"],
   "definition": "Refers to a vehicle's main storage compartment.",
@@ -5475,7 +5475,7 @@ var palabras =[
  },
  {
   "Total": 609,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Turn arrow",
   "spaEquiv": ["Flecha de cruce", "Flecha para voltear"],
   "definition": "Turn arrow means that drivers must come to a stop at the marked stop line before moving into the crosswalk or intersection, and shall turn to the indicated direction when there is indication to proceed.",
@@ -5484,7 +5484,7 @@ var palabras =[
  },
  {
   "Total": 610,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Turn signal",
   "spaEquiv": ["Luz direccional", "Luces para doblar", "Luz de cruce",  "Señalero"],
   "definition": "A flashing light on a vehicle to show that it is about to change lanes or turn.",
@@ -5493,7 +5493,7 @@ var palabras =[
  },
  {
   "Total": 611,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Turning lane",
   "spaEquiv": "Carril para dar vuelta",
   "definition": "An auxiliary lane between lanes where vehicles can safely wait for oncoming traffic to abate in order to make a left turn.",
@@ -5502,7 +5502,7 @@ var palabras =[
  },
  {
   "Total": 612,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Twins",
   "spaEquiv": ["Gemelos","Mellizos"],
   "definition": "Two offspring produced by the same pregnancy. Identical twins result from the fertilization of a single egg by a single sperm, with the fertilized egg then splitting into two. Fraternal twins result from the fertilization of two separate eggs with two different sperm during the same pregnancy.",
@@ -5511,7 +5511,7 @@ var palabras =[
  },
  {
   "Total": 613,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Unauthorized",
   "spaEquiv": ["Sin autorizar", "No autorizada", "No autorizado"],
   "definition": "Not having been given permission or authority to do something.",
@@ -5520,7 +5520,7 @@ var palabras =[
  },
  {
   "Total": 614,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Underinsured Motorist Coverage",
   "spaEquiv": ["Cobertura contra conductor con seguro insuficiente","Cobertura contra conductora con seguro insuficiente"],
   "definition": "Underinsured motorist coverage provides protection in case of an accident in which the at-fault driver doesn't have enough insurance to cover all damages.",
@@ -5529,7 +5529,7 @@ var palabras =[
  },
  {
   "Total": 615,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Underwriter",
   "spaEquiv": ["Agente aprobador","Agrente aprobadora"],
   "definition": "Underwriters identify and calculate the risk of loss from policyholders, establish appropriate premium rates, and write policies that cover this risk.",
@@ -5538,7 +5538,7 @@ var palabras =[
  },
  {
   "Total": 616,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Underwriting",
   "spaEquiv": "Evaluación de riesgos",
   "definition": "Refers to the process or practice that screens, evaluates, researches and quantifies a financial risk.",
@@ -5547,7 +5547,7 @@ var palabras =[
  },
  {
   "Total": 617,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Unemployment benefits",
   "spaEquiv": "Beneficios de desempleo ",
   "definition": "A payment made by a government or a labor union to an unemployed person, while they look for work.",
@@ -5556,7 +5556,7 @@ var palabras =[
  },
  {
   "Total": 618,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Uninsured Motorist Coverage",
   "spaEquiv": ["Cobertura contra conductora no asegurada", "Cobertura contra conductor no asegurado"],
   "definition": "Uninsured motorist coverage (UM) is an add-on coverage for auto policies that will pay for injuries and damages caused by an uninsured driver. Hit-and-run drivers are also considered uninsured motorists.",
@@ -5565,7 +5565,7 @@ var palabras =[
  },
  {
   "Total": 619,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Update",
   "spaEquiv": "Actualizar",
   "definition": "To bring up to date. To inform (someone) with the latest information.",
@@ -5574,7 +5574,7 @@ var palabras =[
  },
  {
   "Total": 620,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Service upgrade",
   "spaEquiv": "Mejora de servicios",
   "definition": "Refers to bump up or improve services by one or more levels upward.",
@@ -5583,7 +5583,7 @@ var palabras =[
  },
  {
   "Total": 621,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Urgent Care",
   "spaEquiv": ["Cuidados de urgencias", "Atención de urgencias", "Cuidados urgentes"],
   "definition": "Urgent care centers primarily treat injuries or illnesses requiring immediate care, but not serious enough to require an emergency department visit.",
@@ -5592,7 +5592,7 @@ var palabras =[
  },
  {
   "Total": 622,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Urinalysis",
   "spaEquiv": "Análisis de orina",
   "definition": "A test that evaluates a sample of urine to detect and assess a wide range of disorders, such as urinary tract infection, kidney disease and diabetes.",
@@ -5601,7 +5601,7 @@ var palabras =[
  },
  {
   "Total": 623,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Urinary incontinence",
   "spaEquiv": "Incontinencia urinaria",
   "definition": "The involuntary leakage of urine. The inability to hold urine in the bladder because voluntary control over the urinary sphincter is either lost or weakened.",
@@ -5610,7 +5610,7 @@ var palabras =[
  },
  {
   "Total": 624,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Username",
   "spaEquiv": "Nombre de usuario",
   "definition": "Also known as user ID. A sequence of characters, different from a password, that is used as identification and is required when logging on to a computer or website.",
@@ -5619,7 +5619,7 @@ var palabras =[
  },
  {
   "Total": 625,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Utility bill",
   "spaEquiv": ["Factura de servicios públicos", "Factura de servicios básicos"],
   "definition": "A bill containing the amount due for the consumption of a services such as electricity, gas, and water.",
@@ -5628,7 +5628,7 @@ var palabras =[
  },
  {
   "Total": 626,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": ["Vaccines", "Vaccination", "Immunizations"],
   "spaEquiv": "Vacunas",
   "definition": "Biological preparations that provide active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe",
@@ -5637,7 +5637,7 @@ var palabras =[
  },
  {
   "Total": 627,
-  "Auto Insurance": "Medical ",
+  "industry": "Medical ",
   "engTerm": "Vaginal discharge",
   "spaEquiv": ["Secreción vaginal" ,"Flujo vaginal"],
   "definition": "Refers to secretions from the vagina; the discharge may be: Thick, pasty, or thin, clear, cloudy, odorless or have a bad odor.",
@@ -5646,7 +5646,7 @@ var palabras =[
  },
  {
   "Total": 628,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Vaginal yeast infection",
   "spaEquiv": ["Candidiasis vaginal", "Infecci�n vaginal por hongos"],
   "definition": "A usually localized infection, as of the vagina or mucous membranes of the mouth, caused by fungi of the genus Candida.",
@@ -5655,7 +5655,7 @@ var palabras =[
  },
  {
   "Total": 629,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Vehicle",
   "spaEquiv": "Vehículo ",
   "definition": "A mechanical machine used for transporting people or goods, especially on land, such as a car, truck, etc.",
@@ -5664,7 +5664,7 @@ var palabras =[
  },
  {
   "Total": 630,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Verify",
   "spaEquiv": "Verificar",
   "definition": "To check or test the accuracy of.",
@@ -5673,7 +5673,7 @@ var palabras =[
  },
  {
   "Total": 631,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "VIN (Vehicle Identification Number)",
   "spaEquiv": "Número de identificación vehicular",
   "definition": "A form of identification used by all modern motor vehicles. It contains data about the vehicle's manufacture and country of origin including some model-specific details and the vehicle's unique production serial number.",
@@ -5682,7 +5682,7 @@ var palabras =[
  },
  {
   "Total": 632,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Visibility",
   "spaEquiv": "Visibilidad ",
   "definition": "The distance one can see as determined by light and weather conditions.   How clearly objects can be seen, or how far you can see clearly, usually because of the weather conditions.",
@@ -5691,7 +5691,7 @@ var palabras =[
  },
  {
   "Total": 633,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Vital Signs",
   "spaEquiv": "Signos vitales",
   "definition": "Clinical measurements, specifically pulse rate, temperature, respiration rate, and blood pressure.",
@@ -5700,7 +5700,7 @@ var palabras =[
  },
  {
   "Total": 634,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Void",
   "spaEquiv": ["Nulo", "Anular"],
   "definition": "Having no legal force or effect; not legally binding or enforceable.",
@@ -5709,7 +5709,7 @@ var palabras =[
  },
  {
   "Total": 635,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Void",
   "spaEquiv": "Vaciar la vejiga",
   "definition": "To discharge or emit -void urine.",
@@ -5718,7 +5718,7 @@ var palabras =[
  },
  {
   "Total": 636,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Voided check",
   "spaEquiv": ["Cheque nulo", "Cheque anulado"],
   "definition": "A voided check is a check that has been cancelled. A voided check will have all of your bank information printed on it, so it can provide others everything they need to set up a direct deposit payment from your account.",
@@ -5727,7 +5727,7 @@ var palabras =[
  },
  {
   "Total": 637,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Vomiting",
   "spaEquiv": ["Vómito", "Con vómitos"],
   "definition": "Refers to the involuntary, forceful expulsion of the contents of one's stomach through the mouth and sometimes the nose.",
@@ -5736,7 +5736,7 @@ var palabras =[
  },
  {
   "Total": 638,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Wages",
   "spaEquiv": "Salario",
   "definition": "An amount of money paid each hour or day to compensate an employee for the amount of time heshe spends working.",
@@ -5745,7 +5745,7 @@ var palabras =[
  },
  {
   "Total": 639,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Waive (verb)",
   "spaEquiv": ["Eximir", "Exonerar", "Condonar"],
   "definition": "To refrain from applying or enforcing (a rule, restriction, or fee).",
@@ -5754,7 +5754,7 @@ var palabras =[
  },
  {
   "Total": 640,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Walk-in clinic",
   "spaEquiv": ["Clínica ambulatoria", "Clínica donde se atiende sin cita y por orden de llegada"],
   "definition": "Refers to a very broad category of facilities only loosely defined as those that accept patients on a walk- in basis and with no appointment required.",
@@ -5763,7 +5763,7 @@ var palabras =[
  },
  {
   "Total": 641,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Walker",
   "spaEquiv": ["Andadera", "Andador"],
   "definition": "A frame that is designed to support someone such as a baby or an injured or elderly person who needs help walking.",
@@ -5772,7 +5772,7 @@ var palabras =[
  },
  {
   "Total": 642,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Warranty",
   "spaEquiv": "Garantía",
   "definition": "A written guarantee, issued to the purchaser of an article by its manufacturer, promising to repair or replace it if necessary within a specified period of time.",
@@ -5781,7 +5781,7 @@ var palabras =[
  },
  {
   "Total": 643,
-  "Auto Insurance": "Customer Service",
+  "industry": "Customer Service",
   "engTerm": "Water heater",
   "spaEquiv": "Calentador de agua",
   "definition": "Refers to a thermodynamic device that uses an energy source (gas or power) to heat water above its initial temperature.",
@@ -5790,7 +5790,7 @@ var palabras =[
  },
  {
   "Total": 644,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Watery stool",
   "spaEquiv": "Defecación aguada",
   "definition": "Diarrhea is multiple bouts of very loose, watery stools with little to no form.",
@@ -5799,7 +5799,7 @@ var palabras =[
  },
  {
   "Total": 645,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Weakness",
   "spaEquiv": "Debilidad",
   "definition": "The state or condition of lacking strength.",
@@ -5808,7 +5808,7 @@ var palabras =[
  },
  {
   "Total": 646,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Weather conditions",
   "spaEquiv": ["Condiciones climáticas", "Estado del tiempo"],
   "definition": "The conditions of the atmosphere in terms of temperature, atmospheric pressure, wind, and moisture.",
@@ -5817,7 +5817,7 @@ var palabras =[
  },
  {
   "Total": 647,
-  "Auto Insurance": "Social Services",
+  "industry": "Social Services",
   "engTerm": "Welfare",
   "spaEquiv": "Bienestar Social",
   "definition": "Welfare refers to government-sponsored assistance programs for individuals and families in need. Welfare programs are typically funded through taxation.",
@@ -5826,7 +5826,7 @@ var palabras =[
  },
  {
   "Total": 648,
-  "Auto Insurance": "General",
+  "industry": "General",
   "engTerm": "Wheelchair",
   "spaEquiv": "Silla de ruedas ",
   "definition": "A wheelchair is a chair with wheels, used when walking is difficult or impossible due to illness, injury, problems related to old age, or disability.",
@@ -5835,7 +5835,7 @@ var palabras =[
  },
  {
   "Total": 649,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Wheezing",
   "spaEquiv": ["Sibilancia, Resuello"],
   "definition": "Refers to a person that breathes with a whistling or rattling sound in the chest, as a result of obstruction in the air passages.",
@@ -5844,7 +5844,7 @@ var palabras =[
  },
  {
   "Total": 650,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Whiplash",
   "spaEquiv": ["Latigazo, Latigazo cervical"],
   "definition": "A neck injury caused by a sudden jerking backward, forward, or both, of the head.",
@@ -5853,7 +5853,7 @@ var palabras =[
  },
  {
   "Total": 651,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Whooping cough",
   "spaEquiv": ["Tos ferina", "Tos convulsiva"],
   "definition": "Whooping cough (pertussis) is a bacterial infection of the lungs and breathing tubes. It spreads very easily and can sometimes cause serious problems. It's important for babies and children to get vaccinated against it.",
@@ -5862,7 +5862,7 @@ var palabras =[
  },
  {
   "Total": 652,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": ["Windpipe", "trachea"],
   "spaEquiv": "Tráquea",
   "definition": "The trachea, colloquially called the windpipe, is a cartilaginous tube that connects the pharynx and larynx to the lungs, allowing the passage of air, and so is present in almost all  air-breathing animals with lungs.",
@@ -5871,7 +5871,7 @@ var palabras =[
  },
  {
   "Total": 653,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Windshield",
   "spaEquiv": "Parabrisas",
   "definition": "A window at the front of the passenger compartment of a motor vehicle.",
@@ -5880,7 +5880,7 @@ var palabras =[
  },
  {
   "Total": 654,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Wipers",
   "spaEquiv": ["Limpiaparabrisas", "Escobillas"],
   "definition": "A motor-driven device for keeping a windshield clear of rain, typically one with a rubber blade on an arm that moves in an arc.",
@@ -5889,7 +5889,7 @@ var palabras =[
  },
  {
   "Total": 655,
-  "Auto Insurance": "Finance",
+  "industry": "Finance",
   "engTerm": "Withdrawal",
   "spaEquiv": "Retiro",
   "definition": "A removal of something that has been deposited, as in an account.",
@@ -5898,7 +5898,7 @@ var palabras =[
  },
  {
   "Total": 656,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Womb",
   "spaEquiv": ["Vientre", "Útero", "Matriz"],
   "definition": "The uterus. The organ in the body of a woman or other female mammal in which a baby develops before birth.",
@@ -5907,7 +5907,7 @@ var palabras =[
  },
  {
   "Total": 657,
-  "Auto Insurance": "Workers' Compensation",
+  "industry": "Workers' Compensation",
   "engTerm": "Workers' compensation",
   "spaEquiv": "Indemnización laboral",
   "definition": "A form of insurance required from employers that provides money as compensation for workers who are injured at work or contract an occupational disease.",
@@ -5916,7 +5916,7 @@ var palabras =[
  },
  {
   "Total": 658,
-  "Auto Insurance": "Medical",
+  "industry": "Medical",
   "engTerm": "Wound",
   "spaEquiv": "Herida",
   "definition": "An injury to living tissue caused by a cut, blow, or other impact, typically one in which the skin is cut or broken.",
@@ -5925,7 +5925,7 @@ var palabras =[
  },
  {
   "Total": 659,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Year make model",
   "spaEquiv": "Año marca modelo",
   "definition": "These three terms are used to describe motor vehicles. They refer to the year a car was built for sale; make refers to the manufacturer's brand, and model refers to the different sizes or capabilities of that type of vehicle.",
@@ -5934,7 +5934,7 @@ var palabras =[
  },
  {
   "Total": 660,
-  "Auto Insurance": "Auto Insurance",
+  "industry": "Auto Insurance",
   "engTerm": "Yield sign",
   "spaEquiv": ["Señal de ceder el paso","Señal de ceder la vía"],
   "definition": "A yield sign calls on the driver to slow down, defer to oncoming or intersecting traffic, stop when necessary, proceed when safe, and remain aware of oncoming vehicles.",

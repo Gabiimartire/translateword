@@ -55,17 +55,18 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                                 divSpa.innerHTML = `<p class="d-flex justify-content-center align-items-center gap-2 text-white fw-bold">Respuestas Posibles: <span class="text-success">${data[ind].spaEquiv}</span> </p>`
                                 divSpa.className = "d-flex justify-content-center align-items-center text-light fs-2"
                                 wordInfo.className = "d-flex justify-content-center align-items-center flex-column"
-                                wordInfo.innerHTML = `<p class="text-light fs-3">
+                                wordInfo.innerHTML = `<div class="d-flex justify-content-center align-items-center"><p id="industria" class="text-white fs-4 fw-bold">Industry: <span class="text-danger fs-4 fw-bold">${data[ind].industry}</span></p></div>
+                                <p class="text-light fs-4">
                                 <span id="word_Eng">${data[ind].engTerm}</span>
                                 Definition: <span id="definition">
                                 ${data[ind].definition}</span></p>
                                 <div class="box d-flex justify-content-center align-items-center gap-5 my-3">
                                 <div class="sampleSentence">
-                                <h2 class="text-center fw-bold">Sample Sentence English</h2>
+                                <h3 class="text-center fw-bold pt-1">Sample Sentence English</h3>
                                             <p class="textsentence">${data[ind].sampleSentenceEng}</p>
                                         </div>
                                         <div class="sampleSentenceSpa">
-                                            <h2 class="text-center fw-bold">Sample Sentence Spanish</h2>
+                                            <h3 class="text-center fw-bold pt-1">Sample Sentence Spanish</h3>
                                             <p class="textsentence">${data[ind].sampleSentenceSpa}</p>
                                             </div>
                                             </div>`
@@ -76,31 +77,32 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                             if (event.target.value.toUpperCase().normalize('NFD') == data[ind].spaEquiv.toString().toUpperCase().normalize('NFD')) {
                                 input.style.color = 'var(--good)';
                                 encontrada = true
-                                                let word_Spa = document.getElementById("palabras_espanol")
-                                                word_Spa.innerHTML = ""
-                                                let todo_el_menu = document.getElementById("boxes_")
-                                                todo_el_menu.innerHTML = ""
-                                                let wordInfo = document.createElement('div')
-                                                let divSpa = document.createElement('div')
-                                                divSpa.innerHTML = `<p class="d-flex justify-content-center align-items-center gap-2 text-white fw-bold">Respuestas Posibles: <span class="text-success">${data[ind].spaEquiv}</span> </p>`
-                                                divSpa.className = "d-flex justify-content-center align-items-center text-light fs-2"
-                                                wordInfo.className = "d-flex justify-content-center align-items-center flex-column"
-                                                wordInfo.innerHTML = `<p class="text-light fs-3">
-                                                <span id="word_Eng">${data[ind].engTerm}</span>
-                                                Definition: <span id="definition">
-                                                ${data[ind].definition}</span></p>
-                                                <div class="box d-flex justify-content-center align-items-center gap-5 my-3">
-                                                <div class="sampleSentence">
-                                                <h2 class="text-center fw-bold">Sample Sentence English</h2>
-                                                            <p class="textsentence">${data[ind].sampleSentenceEng}</p>
-                                                        </div>
-                                                        <div class="sampleSentenceSpa">
-                                                            <h2 class="text-center fw-bold">Sample Sentence Spanish</h2>
-                                                            <p class="textsentence">${data[ind].sampleSentenceSpa}</p>
-                                                            </div>
-                                                            </div>`
-                                                            todo_el_menu.appendChild(wordInfo)
-                                                word_Spa.appendChild(divSpa)
+                                let word_Spa = document.getElementById("palabras_espanol")
+                                word_Spa.innerHTML = ""
+                                let todo_el_menu = document.getElementById("boxes_")
+                                todo_el_menu.innerHTML = ""
+                                let wordInfo = document.createElement('div')
+                                let divSpa = document.createElement('div')
+                                divSpa.innerHTML = `<p class="d-flex justify-content-center align-items-center gap-2 text-white fw-bold">Respuestas Posibles: <span class="text-success">${data[ind].spaEquiv}</span> </p>`
+                                divSpa.className = "d-flex justify-content-center align-items-center text-light fs-2"
+                                wordInfo.className = "d-flex justify-content-center align-items-center flex-column"
+                                wordInfo.innerHTML = `<div class="d-flex justify-content-center align-items-center"><p id="industria" class="text-white fs-4 fw-bold">Industry: <span class="text-danger fs-4 fw-bold">${data[ind].industry}</span></p></div>
+                                <p class="text-light fs-4">
+                                <span id="word_Eng">${data[ind].engTerm}</span>
+                                Definition: <span id="definition">
+                                ${data[ind].definition}</span></p>
+                                <div class="box d-flex justify-content-center align-items-center gap-5 my-3">
+                                <div class="sampleSentence">
+                                <h3 class="text-center fw-bold pt-1">Sample Sentence English</h3>
+                                            <p class="textsentence">${data[ind].sampleSentenceEng}</p>
+                                        </div>
+                                        <div class="sampleSentenceSpa">
+                                            <h3 class="text-center fw-bold pt-1">Sample Sentence Spanish</h3>
+                                            <p class="textsentence">${data[ind].sampleSentenceSpa}</p>
+                                            </div>
+                                            </div>`
+                                            todo_el_menu.appendChild(wordInfo)
+                                word_Spa.appendChild(divSpa)
                                                 return
                             }
                         })
@@ -118,17 +120,18 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                                 divSpa.innerHTML = `<p class="d-flex justify-content-center align-items-center gap-2 text-white fw-bold">Respuestas Posibles: <span class="text-success">${data[ind].spaEquiv}</span> </p>`
                                 divSpa.className = "d-flex justify-content-center align-items-center text-light fs-2"
                                 wordInfo.className = "d-flex justify-content-center align-items-center flex-column"
-                                wordInfo.innerHTML = `<p class="text-light fs-3">
+                                wordInfo.innerHTML = `<div class="d-flex justify-content-center align-items-center"><p id="industria" class="text-white fs-4 fw-bold">Industry: <span class="text-danger fs-4 fw-bold">${data[ind].industry}</span></p></div>
+                                <p class="text-light fs-4">
                                 <span id="word_Eng">${data[ind].engTerm}</span>
                                 Definition: <span id="definition">
                                 ${data[ind].definition}</span></p>
                                 <div class="box d-flex justify-content-center align-items-center gap-5 my-3">
                                 <div class="sampleSentence">
-                                <h2 class="text-center fw-bold">Sample Sentence English</h2>
+                                <h3 class="text-center fw-bold pt-1">Sample Sentence English</h3>
                                             <p class="textsentence">${data[ind].sampleSentenceEng}</p>
                                         </div>
                                         <div class="sampleSentenceSpa">
-                                            <h2 class="text-center fw-bold">Sample Sentence Spanish</h2>
+                                            <h3 class="text-center fw-bold pt-1">Sample Sentence Spanish</h3>
                                             <p class="textsentence">${data[ind].sampleSentenceSpa}</p>
                                             </div>
                                             </div>`
