@@ -14,7 +14,7 @@ filtrarPalabras(palabras, allWords)
 
 function reset_y_numeroRandom(allWords, callback){
     function handleClick(){
-        if(event.key === 'ArrowUp'){
+        if(event.key === 'ArrowUp' || event.key === "F2"){
             let indiceAleatorio = Math.floor(Math.random() * allWords.length);
             let desaparecer = document.getElementById('desaparecer')
             let word_Spa = document.getElementById("palabras_espanol")
@@ -140,8 +140,8 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                                 <span id="word_Eng">${data[ind].engTerm}</span>
                                 Definition: <span id="definition">
                                 ${data[ind].definition}</span></p>
-                                <div class="box d-flex justify-content-center align-items-center gap-5 my-3">
-                                <div class="sampleSentence">
+                                <div class="box d-flex justify-content-center align-items-center gap-5 my-3 mx-5">
+                                <div class="sampleSentence ">
                                 <h3 class="text-center fw-bold pt-1">Sample Sentence English</h3>
                                             <p class="textsentence">${data[ind].sampleSentenceEng}</p>
                                         </div>

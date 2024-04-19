@@ -21,11 +21,11 @@ body{
     background-color: var(--background);
 }
 main{
-    width: 100%;
+    width: 80%;
     height: 85vh;
 }
 header{
-    width: 100%;
+    width: 80%;
     height: 15vh;
 }
 .input_text_box, .box_word_appears{
