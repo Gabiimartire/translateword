@@ -37,6 +37,8 @@ function reset_y_numeroRandom(allWords, callback){
 reset_y_numeroRandom(allWords, function(valorRandom, palabra){
     let ind = valorRandom[1]
     input.addEventListener('keypress', function(event){
+        //
+        //
         if(event.keyCode === 13){
             setTimeout(function(){
                 input.classList.remove("vibrar_mal")
@@ -58,13 +60,13 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                                 todo_el_menu.innerHTML = ""
                                 let wordInfo = document.createElement('div')
                                 let divSpa = document.createElement('div')
-                                divSpa.innerHTML = `<p class="d-flex justify-content-center align-items-center gap-2 text-white fw-bold">Respuestas Posibles: <span class="text-success">${data[ind].spaEquiv}</span> </p>`
-                                divSpa.className = "d-flex justify-content-center align-items-center text-light fs-2"
+                                divSpa.innerHTML = `<p class="d-flex justify-content-center align-items-center gap-2 text-white fw-thin">Respuestas Posibles: <span class="text-success fw-light">${data[ind].spaEquiv}</span> </p>`
+                                divSpa.className = "d-flex justify-content-center align-items-center text-light fs-5"
                                 wordInfo.className = "d-flex justify-content-center align-items-center flex-column"
                                 wordInfo.innerHTML = `<div class="d-flex justify-content-center align-items-center"><p id="industria" class="text-white fs-4 fw-bold">Industry: <span class="text-danger fs-4 fw-bold">${data[ind].industry}</span></p></div>
                                 <p class="text-light fs-4">
                                 <span id="word_Eng">${data[ind].engTerm}</span>
-                                Definition: <span id="definition">
+                                definition: <span id="definition">
                                 ${data[ind].definition}</span></p>
                                 <div class="box d-flex justify-content-center align-items-center gap-5 my-3">
                                 <div class="sampleSentence">
@@ -132,10 +134,10 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                                 todo_el_menu.innerHTML = ""
                                 let wordInfo = document.createElement('div')
                                 let divSpa = document.createElement('div')
-                                divSpa.innerHTML = `<p class="d-flex justify-content-center align-items-center gap-2 text-white fw-bold">Respuestas Posibles: <span class="text-success">${data[ind].spaEquiv}</span> </p>`
-                                divSpa.className = "d-flex justify-content-center align-items-center text-light fs-2"
+                                divSpa.innerHTML = `<p class="d-flex justify-content-center align-items-center gap-2 text-white">Respuestas Posibles: <span class="text-success">${data[ind].spaEquiv}</span> </p>`
+                                divSpa.className = "d-flex justify-content-center align-items-center text-light fs-3 fw-medium"
                                 wordInfo.className = "d-flex justify-content-center align-items-center flex-column"
-                                wordInfo.innerHTML = `<div class="d-flex justify-content-center align-items-center"><p id="industria" class="text-white fs-4 fw-bold">Industry: <span class="text-danger fs-4 fw-bold">${data[ind].industry}</span></p></div>
+                                wordInfo.innerHTML = `<div class="d-flex justify-content-center align-items-center"><p id="industria" class="text-white fs-4 fw-bold">Industry: <span class="text-danger fs-4 fw-light">${data[ind].industry}</span></p></div>
                                 <p class="text-light fs-4">
                                 <span id="word_Eng">${data[ind].engTerm}</span>
                                 Definition: <span id="definition">
