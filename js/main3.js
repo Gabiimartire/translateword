@@ -96,8 +96,8 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                                 todo_el_menu.innerHTML = ""
                                 let wordInfo = document.createElement('div')
                                 let divSpa = document.createElement('div')
-                                divSpa.innerHTML = `<p class="d-flex justify-content-center align-items-center gap-2 text-white fw-bold">Respuestas Posibles: <span class="text-success">${data[ind].spaEquiv}</span> </p>`
-                                divSpa.className = "d-flex justify-content-center align-items-center text-light fs-2"
+                                divSpa.innerHTML = `<p class="d-flex justify-content-center align-items-center gap-2 text-white fw-thin">Respuestas Posibles: <span class="text-success fw-light">${data[ind].spaEquiv}</span> </p>`
+                                divSpa.className = "d-flex justify-content-center align-items-center text-light fs-5"
                                 wordInfo.className = "d-flex justify-content-center align-items-center flex-column"
                                 wordInfo.innerHTML = `<div class="d-flex justify-content-center align-items-center"><p id="industria" class="text-white fs-4 fw-bold">Industry: <span class="text-danger fs-4 fw-bold">${data[ind].industry}</span></p></div>
                                 <p class="text-light fs-4">
@@ -134,8 +134,8 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                                 todo_el_menu.innerHTML = ""
                                 let wordInfo = document.createElement('div')
                                 let divSpa = document.createElement('div')
-                                divSpa.innerHTML = `<p class="d-flex justify-content-center align-items-center gap-2 text-white">Respuestas Posibles: <span class="text-success">${data[ind].spaEquiv}</span> </p>`
-                                divSpa.className = "d-flex justify-content-center align-items-center text-light fs-3 fw-medium"
+                                divSpa.innerHTML = `<p class="d-flex justify-content-center align-items-center gap-2 text-white fw-thin">Respuestas Posibles: <span class="text-success fw-light">${data[ind].spaEquiv}</span> </p>`
+                                divSpa.className = "d-flex justify-content-center align-items-center text-light fs-5"
                                 wordInfo.className = "d-flex justify-content-center align-items-center flex-column"
                                 wordInfo.innerHTML = `<div class="d-flex justify-content-center align-items-center"><p id="industria" class="text-white fs-4 fw-bold">Industry: <span class="text-danger fs-4 fw-light">${data[ind].industry}</span></p></div>
                                 <p class="text-light fs-4">
