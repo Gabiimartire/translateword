@@ -82,7 +82,7 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                                 word_Spa.appendChild(divSpa)
                                 setTimeout(function(){
                                     todo_el_menu.classList.add("appears")
-                                }, 200)
+                                }, 300)
                                 return
                             }
                             if (event.target.value.toUpperCase().normalize('NFD') === data[ind].spaEquiv.toString().toUpperCase().normalize('NFD')) {
@@ -118,7 +118,7 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                                 word_Spa.appendChild(divSpa)
                                 setTimeout(function(){
                                     todo_el_menu.classList.add("appears")
-                                }, 200)
+                                }, 300)
                                                 return
                             }
                         })
@@ -156,7 +156,7 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                                 word_Spa.appendChild(divSpa)
                                 setTimeout(function(){
                                     todo_el_menu.classList.add("appears")
-                                }, 200)
+                                }, 300)
             }
             
         }
