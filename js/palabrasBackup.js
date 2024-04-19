@@ -445,7 +445,7 @@ var palabras =[
   "Total": 50,
   "industry": "General",
   "engTerm": "Beneficiary",
-  "spaEquiv": "Beneficiaria(o)",
+  "spaEquiv": ["Beneficiaria", "Beneficiario"],
   "definition": "Person(s) who may become eligible to receive or is receiving benefits under an insurance policy.",
   "sampleSentenceEng": "My beneficiaries are my two nephews. I never got married.",
   "sampleSentenceSpa": "Mis beneficiarios son mis dos sobrinos. Yo nunca me casé. "
@@ -1633,8 +1633,8 @@ var palabras =[
  {
   "Total": 182,
   "industry": "Medical",
-  "engTerm": ["Dizzy", "Light headed"],
-  "spaEquiv": "Mareada(o)  Aturdida(o)",
+  "engTerm": "Dizzy / Light headed",
+  "spaEquiv": ["Mareada", "Mareado", "Aturdida", "Aturdido"],
   "definition": "Having a feeling of being whirled about and in danger of falling down. Feeling unsteady or confused.",
   "sampleSentenceEng": "Please send an ambulance soon, my mother feels dizzy, light headed.",
   "sampleSentenceSpa": "Por favor envíen una ambulancia pronto, mi madre se siente mareada."
@@ -1651,8 +1651,8 @@ var palabras =[
  {
   "Total": 184,
   "industry": "Jail system",
-  "engTerm": ["Doing the Dutch", "The Dutch Act"],
-  "spaEquiv": "Reclusa(o) que planea suicidarse",
+  "engTerm": "Doing the Dutch / The Dutch Act",
+  "spaEquiv": ["Reclusa que planea suicidarse","Recluso que planea suicidarse"],
   "definition": "Inmate talk: To commit suicide",
   "sampleSentenceEng": "We are worried he only talks about the Dutch Act.",
   "sampleSentenceSpa": "Estamos preocupados, él solo habla de suicidarse."
@@ -2327,7 +2327,7 @@ var palabras =[
   "Total": 259,
   "industry": "Medical",
   "engTerm": "German measles (rubella)",
-  "spaEquiv": ["Sarampin Alemán", "rubeola"],
+  "spaEquiv": ["Sarampión Alemán", "rubeola"],
   "definition": "Rubella is an infection caused by a virus. It is usually mild with fever and a rash. About half of the people who get rubella do not have symptoms. There is no treatment for measles, but the measles-mumps-rubella (MMR) vaccine can prevent it.",
   "sampleSentenceEng": "The signs and symptoms of German measles may begin with 1-2 days of mild fever and swollen, tender lymph nodes, usually in the back of the neck or behind the ears.",
   "sampleSentenceSpa": "Los signos y síntomas del sarampión Alemán pudieran empezar con 1 - 2 días de fiebre leve, inflamación y sensibilidad en los nódulos linfáticos usualmente detrás del cuello o atrás de las orejas."
@@ -3922,7 +3922,7 @@ var palabras =[
   "engTerm": "Pending balance ",
   "spaEquiv": "Saldo pendiente",
   "definition": "Amount of money waiting to be paid, as in a debt.",
-  "sampleSentenceEng": "A pending balance often occurs when you use your debit card � your bank is aware of the transaction, but the retailer may not submit the charge for payment until the end of the business day, leaving it in a pending status.",
+  "sampleSentenceEng": "A pending balance often occurs when you use your debit card; your bank is aware of the transaction, but the retailer may not submit the charge for payment until the end of the business day, leaving it in a pending status.",
   "sampleSentenceSpa": "El saldo pendiente se produce a menudo cuando se usa la tarjeta de débito: el banco está al tanto de la transacción, pero es posible que el comerciante no envíe el cargo para su pago hasta el final del día laborable, dejándolo en estado pendiente."
  },
  {
@@ -3995,7 +3995,7 @@ var palabras =[
   "spaEquiv": "Hormigueo",
   "definition": "A sensation of uncomfortable tingling or prickling, usually felt in the hands or feet. A common cause is leaning awkwardly on a limb, which presses against the nerves.",
   "sampleSentenceEng": "The test shows that the pins and needles you are experiencing are caused by a pinched nerve.",
-  "sampleSentenceSpa": "La prueba muestra que los hormigueos que est� experimentando son causados por un nervio pellizcado."
+  "sampleSentenceSpa": "La prueba muestra que los hormigueos que está experimentando son causados por un nervio pellizcado."
  },
  {
   "Total": 445,
@@ -4013,7 +4013,7 @@ var palabras =[
   "spaEquiv": "Punto de impacto ",
   "definition": "Part of an object where an impact has taken place.",
   "sampleSentenceEng": "I need to know the exact point of impact of the two vehicles involved in the accident.",
-  "sampleSentenceSpa": "Necesito saber el punto de impacto exacto de los dos veh�culos involucrados en el accidente. "
+  "sampleSentenceSpa": "Necesito saber el punto de impacto exacto de los dos vehículos involucrados en el accidente. "
  },
  {
   "Total": 447,
@@ -4022,7 +4022,7 @@ var palabras =[
   "spaEquiv": "Póliza",
   "definition": "A document detailing the terms and conditions of a contract of insurance.",
   "sampleSentenceEng": "I am calling about my life insurance policy. It is a term policy and I believe I can surrender it in July. Is that right? I am going to need some money and that would be great if I can cash it in.",
-  "sampleSentenceSpa": "Estoy llamando sobre mi p�liza de seguro de vida. Es una p�liza temporal y creo que puedo cancelarla en julio. �Es eso correcto? Voy a necesitar dinero y ser�a genial si pudiera cobralo. "
+  "sampleSentenceSpa": "Estoy llamando sobre mi póliza de seguro de vida. Es una póliza temporal y creo que puedo cancelarla en julio. ¿Es eso correcto? Voy a necesitar dinero y sería genial si pudiera cobralo. "
  },
  {
   "Total": 448,
@@ -4031,7 +4031,7 @@ var palabras =[
   "spaEquiv": ["Titular de la póliza", "Pólizahabiente"],
   "definition": "A person or group in whose name an insurance policy is held.",
   "sampleSentenceEng": "Who is the policyholder, you or your husband?",
-  "sampleSentenceSpa": "¿Quién es el titularpolizahabiente? �Usted o su esposo?"
+  "sampleSentenceSpa": "¿Quién es el titularpolizahabiente? ¿Usted o su esposo?"
  },
  {
   "Total": 449,
@@ -4040,7 +4040,7 @@ var palabras =[
   "spaEquiv": "Frenos de potencia",
   "definition": "Refers to a system of hydraulics used to slow down or stop most motor vehicles",
   "sampleSentenceEng": "If the car has power brakes, run the engine while performing this procedure. ",
-  "sampleSentenceSpa": "Si el veh�culo tiene frenos de potencia, encienda el motor durante este procedimiento."
+  "sampleSentenceSpa": "Si el vehículo tiene frenos de potencia, encienda el motor durante este procedimiento."
  },
  {
   "Total": 450,
@@ -4058,7 +4058,7 @@ var palabras =[
   "spaEquiv": ["Organización de Proveedores Preferenciales", "Organización de proveedores Preferentes"],
   "definition": "A preferred provider organization (PPO) is a managed care organization of health providers who contract with an insurer or third-party administrator (TPA) to provide health  coverage to policy holders represented by the insurer or TPA.",
   "sampleSentenceEng": "Because you have a PPO plan, you do not need a referral to see a specialist.",
-  "sampleSentenceSpa": "Debido a que tiene un plan de Organizaci�n de Proveedores Preferenciales usted no necesita una remisi�n para ver a un especialista."
+  "sampleSentenceSpa": "Debido a que tiene un plan de Organización de Proveedores Preferenciales usted no necesita una remisión para ver a un especialista."
  },
  {
   "Total": 452,
@@ -4076,7 +4076,7 @@ var palabras =[
   "spaEquiv": "Comisaría",
   "definition": "The police station situated in and having jurisdiction over a subdivision or district of a city or town.",
   "sampleSentenceEng": "The suspect was taken to the local precinct.",
-  "sampleSentenceSpa": "El sospechoso fue llevado a la comisar�a local. "
+  "sampleSentenceSpa": "El sospechoso fue llevado a la comisaría local. "
  },
  {
   "Total": 454,
@@ -4085,7 +4085,7 @@ var palabras =[
   "spaEquiv": "Idioma de preferencia",
   "definition": "The self-identified language, which the client prefers to use in a service or any other encounter.",
   "sampleSentenceEng": "Their preferred language is French. ",
-  "sampleSentenceSpa": "Su idioma de preferencia es el franc�s."
+  "sampleSentenceSpa": "Su idioma de preferencia es el francés."
  },
  {
   "Total": 455,
@@ -4094,7 +4094,7 @@ var palabras =[
   "spaEquiv": ["Taller preferido", "Taller de preferencia"],
   "definition": "Shop used by auto insurance companies to refer their clients, usually set up formally or informally, andor have established a history of exellent service.",
   "sampleSentenceEng": "The car was taken to the preferred shop, which  is an auto repair shop pre-approved by your insurance company that participates in a direct repair program.",
-  "sampleSentenceSpa": "El coche fue llevado al taller preferido, que es un taller de reparaci�n de autom�viles preaprobado por su compa��a de seguros que participa en un programa de reparaci�n directa."
+  "sampleSentenceSpa": "El coche fue llevado al taller preferido, que es un taller de reparación de automóviles preaprobado por su compañía de seguros que participa en un programa de reparación directa."
  },
  {
   "Total": 456,
@@ -4127,7 +4127,7 @@ var palabras =[
   "Total": 459,
   "industry": "Finance",
   "engTerm": "Processing fee",
-  "spaEquiv": ["Cuota de procesamiento", "Cargo de procesamiento", "Costo de procesamiento",  "Cuota por tramitaci�n", "Cargo por tramitaci�n", "Costo por tramitaci�n"],
+  "spaEquiv": ["Cuota de procesamiento", "Cargo de procesamiento", "Costo de procesamiento",  "Cuota por tramitación", "Cargo por tramitación", "Costo por tramitación"],
   "definition": "Charges for paperwork services or miscellaneous services, incurred in the course of business transactions.",
   "sampleSentenceEng": "You agree to pay the Operator  the processing fee and any other fee that may apply.",
   "sampleSentenceSpa": "Usted se compromete a pagar al Operador el costo de procesamiento y cualquier otro cargo que pueda aplicarse."
@@ -4175,7 +4175,7 @@ var palabras =[
   "spaEquiv": "Compra",
   "definition": "To get (something) by paying money for it",
   "sampleSentenceEng": "The interest on purchases is 19.99%.",
-  "sampleSentenceSpa": "El inter�s sobre las compras es 19.99%."
+  "sampleSentenceSpa": "El interés sobre las compras es 19.99%."
  },
  {
   "Total": 465,
@@ -4193,7 +4193,7 @@ var palabras =[
   "spaEquiv": "Trimestre",
   "definition": "Taking place four times a year. A period of time consisting of three months.",
   "sampleSentenceEng": "The economy entered a low-growth phase in the first quarter of the year.",
-  "sampleSentenceSpa": "La econom�a entr� en una fase de bajo crecimiento en el primer trimestre del a�o."
+  "sampleSentenceSpa": "La economía entró en una fase de bajo crecimiento en el primer trimestre del año."
  },
  {
   "Total": 467,
@@ -4202,7 +4202,7 @@ var palabras =[
   "spaEquiv": ["Panel", "Panel posterior o delantero, e izquierdo o derecho", "Cuarta sección trasera o frontal e izquierda o derecha", "Aleta"],
   "definition": "A quarter panel refers to any body panel (exterior surface) of an automobile.",
   "sampleSentenceEng": "The rear quarter panel sustained extensive damage. He hit the left rear panel on my car with his truck.",
-  "sampleSentenceSpa": "El panel trasero, sufri� extensos da�os.  �l golpe� el panel trasero izquierdo de mi carro con su camioneta. "
+  "sampleSentenceSpa": "El panel trasero, sufrió extensos daños.  Él golpeó el panel trasero izquierdo de mi carro con su camioneta. "
  },
  {
   "Total": 468,
@@ -4238,7 +4238,7 @@ var palabras =[
   "spaEquiv": "Espejo retrovisor",
   "definition": "A small angled mirror fixed inside the windshield of a motor vehicle, enabling the driver to see the vehicle or road behind.",
   "sampleSentenceEng": "I tried to adjust the rearview mirror and it fell off.",
-  "sampleSentenceSpa": "Trat� de ajustar el espejo retrovisor y se cay�."
+  "sampleSentenceSpa": "Traté de ajustar el espejo retrovisor y se cayó."
  },
  {
   "Total": 472,
@@ -4256,7 +4256,7 @@ var palabras =[
   "spaEquiv": "Recibo",
   "definition": "A receipt is a written acknowledgment that a specified article or payment has been received.",
   "sampleSentenceEng": "Would you like a copy of your receipt? ",
-  "sampleSentenceSpa": "�Le gustar�a una copia de su recibo?"
+  "sampleSentenceSpa": "¿Le gustaría una copia de su recibo?"
  },
  {
   "Total": 474,
@@ -4265,7 +4265,7 @@ var palabras =[
   "spaEquiv": "Grabado",
   "definition": "The act or process of storing sounds or images on tape or a disk.",
   "sampleSentenceEng": "This call may be recorded for quality assurance purposes.",
-  "sampleSentenceSpa": "Esta llamada pudiera ser grabada para prop�sitos de control de calidad."
+  "sampleSentenceSpa": "Esta llamada pudiera ser grabada para propósitos de control de calidad."
  },
  {
   "Total": 475,
@@ -4274,7 +4274,7 @@ var palabras =[
   "spaEquiv": "Declaración grabada",
   "definition": "A formal oral declaration, usually taken within hours or days after a loss or accident, especially with regard to facts or claims. The statements are audio recorded by an adjuster.",
   "sampleSentenceEng": "We will need to take a recorded statement from both drivers involved in the accident.",
-  "sampleSentenceSpa": "Necesitaremos tomar una declaraci�n grabada de ambos conductores involucrados en el accidente. "
+  "sampleSentenceSpa": "Necesitaremos tomar una declaración grabada de ambos conductores involucrados en el accidente. "
  },
  {
   "Total": 476,
@@ -4283,7 +4283,7 @@ var palabras =[
   "spaEquiv": "Expedientes, registros",
   "definition": "Official document that givescontains information. A  document or set of documents that memorializes and  provides objective evidence of activities performed, events  occurred, results achieved, or statements made. ",
   "sampleSentenceEng": "According to our records, you have not made a payment since last July and you need to bring the account current.",
-  "sampleSentenceSpa": "De acuerdo a nuestros registros, usted no ha hecho un pago desde julio y necesita poner la cuenta al d�a. "
+  "sampleSentenceSpa": "De acuerdo a nuestros registros, usted no ha hecho un pago desde julio y necesita poner la cuenta al día. "
  },
  {
   "Total": 477,
@@ -4292,7 +4292,7 @@ var palabras =[
   "spaEquiv": "Reducir",
   "definition": "To make (something) smaller in size, amount, number, etc.",
   "sampleSentenceEng": "A modification may reduce your monthly loan payment.",
-  "sampleSentenceSpa": "Una modificaci�n puede reducir su pago mensual del pr�stamo."
+  "sampleSentenceSpa": "Una modificación puede reducir su pago mensual del préstamo."
  },
  {
   "Total": 478,
@@ -4301,7 +4301,7 @@ var palabras =[
   "spaEquiv": ["Referir", "Remitir"],
   "definition": "To send (someone or something) to a particular person or  place for treatment, help, advice, etc.Refers to the process of directing or redirecting a patient to an appropriate specialist or agency for definitive treatment, aid. Information or decision",
   "sampleSentenceEng": "To help you lose weight, I can refer you to a nutritionist who can help you plan your meals; I also suggest you join a gym and start working out at least 5 days a week.",
-  "sampleSentenceSpa": "Para ayudarle a perder peso, le puedo referir a un nutricionista que le puede ayudar a planear sus comidas; tambi�n le sugiero que se inscriba en un gimnasio y empiece a hacer ejercicio por lo menos 5 d�as a la semana"
+  "sampleSentenceSpa": "Para ayudarle a perder peso, le puedo referir a un nutricionista que le puede ayudar a planear sus comidas; también le sugiero que se inscriba en un gimnasio y empiece a hacer ejercicio por lo menos 5 días a la semana"
  },
  {
   "Total": 479,
@@ -4310,7 +4310,7 @@ var palabras =[
   "spaEquiv": "Referencia",
   "definition": "A unique identifier such as a number, assigned to any transaction to locate and obtain specific information.",
   "sampleSentenceEng": "A reference number is a unique identifier assigned to any financial transaction including those made using a credit or debit card.",
-  "sampleSentenceSpa": "Un n�mero de referencia es una identificaci�n �nica, asignada a toda transacci�n, incluyendo aquellas realizadas usando una tarjeta de d�bito o cr�dito. "
+  "sampleSentenceSpa": "Un número de referencia es una identificación única, asignada a toda transacción, incluyendo aquellas realizadas usando una tarjeta de débito o crédito. "
  },
  {
   "Total": 480,
@@ -4319,7 +4319,7 @@ var palabras =[
   "spaEquiv": ["Referido", "Remisión", "Derivación"],
   "definition": "Instructions given to a patient directing or redirecting their case to an appropriate specialist or agency for definitive treatment. ",
   "sampleSentenceEng": "I will give you a referral to a cardiologist.",
-  "sampleSentenceSpa": "Le dar� una remisi�n a un cardi�logo."
+  "sampleSentenceSpa": "Le daré una remisión a un cardiólogo."
  },
  {
   "Total": 481,
@@ -4328,7 +4328,7 @@ var palabras =[
   "spaEquiv": ["Resurtir", "Volver a surtir"],
   "definition": "To fill a prescription again. Something provided again; a second or later filling of a medical prescription.",
   "sampleSentenceEng": "How many times can I refill the medication you prescribed or do I need a new prescription every month?",
-  "sampleSentenceSpa": "�Cu�ntas veces puedo volver a surtir el medicamento que me recet� o necesito una nueva receta cada mes?"
+  "sampleSentenceSpa": "¿Cuántas veces puedo volver a surtir el medicamento que me recetó o necesito una nueva receta cada mes?"
  },
  {
   "Total": 482,
@@ -4337,7 +4337,7 @@ var palabras =[
   "spaEquiv": ["Registrada", "Registrado", "Matriculada", "Matriculado", "Certificada", "Certificado", "Inscribió", "Registr+o", "Certificó"],
   "definition": "Recorded, as in a register, list or book, enrolled.",
   "sampleSentenceEng": "Please provide the email address you used when you first registered your account.",
-  "sampleSentenceSpa": "Por favor suministre el correo electr�nico que us� cuando inscribi� la cuenta por primera vez."
+  "sampleSentenceSpa": "Por favor suministre el correo electrónico que usó cuando inscribió la cuenta por primera vez."
  },
  {
   "Total": 483,
@@ -4346,7 +4346,7 @@ var palabras =[
   "spaEquiv": "Relación",
   "definition": "The way in which two or more people or things are connected.",
   "sampleSentenceEng": "What is your relationship to the patient and the medical record number?",
-  "sampleSentenceSpa": "�Cual es su relaci�n con el paciente y el n�mero de registro m�dico?"
+  "sampleSentenceSpa": "¿Cual es su relación con el paciente y el número de registro médico?"
  },
  {
   "Total": 484,
@@ -4364,7 +4364,7 @@ var palabras =[
   "spaEquiv": "Alquilar",
   "definition": "To obtain occupancy or use of (another's property) in return for regular payments.",
   "sampleSentenceEng": "Do you rent or own your home? If you rent, I need the name and other contact information of the owner of the property.",
-  "sampleSentenceSpa": "�Alquila o es due�o de su casa? Si alquila, necesito el nombre y otra informaci�n de contacto del due�o de la propiedad. "
+  "sampleSentenceSpa": "¿Alquila o es dueño de su casa? Si alquila, necesito el nombre y otra información de contacto del dueño de la propiedad. "
  },
  {
   "Total": 486,
@@ -4463,7 +4463,7 @@ var palabras =[
   "spaEquiv": ["Derecho de paso", "Derecho de vía","Derecho al paso"],
   "definition": "A way of determining which vehicle, among two or more, will be allowed to continue on its path before the others.",
   "sampleSentenceEng": "I had the right of way. The other driver did not stop at the stop sign.",
-  "sampleSentenceSpa": "Yo ten�a derecho de v�a. El otro conductor no par� en la se�al de alto."
+  "sampleSentenceSpa": "Yo tenía derecho de vía. El otro conductor no paró en la señal de alto."
  },
  {
   "Total": 497,
@@ -4472,7 +4472,7 @@ var palabras =[
   "spaEquiv": "Condiciones de la carretera",
   "definition": "Different factors that describe and determine the ease with which a road can be driven; such as the condition of the pavement, slippery road surface, puddles of water, mud or ice in each lane.",
   "sampleSentenceEng": "What were the road conditions at the time of the accident? ",
-  "sampleSentenceSpa": "�Cu�les eran las condiciones de la carretera en el momento del accidente?"
+  "sampleSentenceSpa": "¿Cuáles eran las condiciones de la carretera en el momento del accidente?"
  },
  {
   "Total": 498,
@@ -4481,7 +4481,7 @@ var palabras =[
   "spaEquiv": ["Cobertura de asistencia en la carretera", "Asistencia vial"],
   "definition": "An optional automobile insurance coverage that may be purchased for an additional premium; this coverage provides for gasoline, and some minor repairs.",
   "sampleSentenceEng": "An optional coverage like Roadside Assistance can be added to your policy. This will help if your car breaks down or you have a flat tire, etc.",
-  "sampleSentenceSpa": "Una cobertura opcional como asistencia en carretera puede ser agregada a su p�liza. Esto ayudar� si su carro se descompone o si tiene una llanta desinflada, etc."
+  "sampleSentenceSpa": "Una cobertura opcional como asistencia en carretera puede ser agregada a su póliza. Esto ayudará si su carro se descompone o si tiene una llanta desinflada, etc."
  },
  {
   "Total": 499,
@@ -4499,7 +4499,7 @@ var palabras =[
   "spaEquiv": "Andador con asiento ",
   "definition": "A rollator consists of a frame with three or four large wheels, handlebars, and a built-in seat. It is mainly used for patients who need a walker only for balance but not for weight-bearing.",
   "sampleSentenceEng": "If your condition requires you to stop and rest often, a rollator could be a better choice for you.",
-  "sampleSentenceSpa": "Si su condici�n requiere que usted se detenga y descanse con frecuencia, un andador con asiento podr�a ser una mejor elecci�n para usted. "
+  "sampleSentenceSpa": "Si su condición requiere que usted se detenga y descanse con frecuencia, un andador con asiento podría ser una mejor elección para usted. "
  },
  {
   "Total": 501,
@@ -4508,7 +4508,7 @@ var palabras =[
   "spaEquiv": "Viaje de ida y vuelta",
   "definition": "A trip from one place to another and back.",
   "sampleSentenceEng": "I would like to purchase a round trip ticket from Los Angeles to Las Vegas near the end of December.",
-  "sampleSentenceSpa": "Quisiera comprar un boleto de ida y vuelta de Los �ngeles a Las Vegas a finales de diciembre. "
+  "sampleSentenceSpa": "Quisiera comprar un boleto de ida y vuelta de Los ángeles a Las Vegas a finales de diciembre. "
  },
  {
   "Total": 502,
@@ -4517,7 +4517,7 @@ var palabras =[
   "spaEquiv": ["Número de ruta bancaria", "Número de identificación bancaria"],
   "definition": "The routing number is a nine digit bank code which appears on the bottom of checks identifying the financial institution on which it was drawn.",
   "sampleSentenceEng": "The routing number is the bank identification number and appears on the bottom left hand side of your check.",
-  "sampleSentenceSpa": "El n�mero de ruta es el n�mero de identificación del banco y aparece en la esquina inferior izquierda de su cheque. "
+  "sampleSentenceSpa": "El número de ruta es el número de identificación del banco y aparece en la esquina inferior izquierda de su cheque. "
  },
  {
   "Total": 503,
@@ -4526,7 +4526,7 @@ var palabras =[
   "spaEquiv": "Rubéola",
   "definition": "A usually mild contagious viral disease characterized by fever, mild upper respiratory congestion, and a fine red rash lasting a few days.",
   "sampleSentenceEng": "Nowadays, less than 10 people in the United States have rubella each year.",
-  "sampleSentenceSpa": "Actualmente, menos de 10 personas en los Estados Unidos tienen rubeola cada a�o. "
+  "sampleSentenceSpa": "Actualmente, menos de 10 personas en los Estados Unidos tienen rubeola cada año. "
  },
  {
   "Total": 504,
@@ -4535,7 +4535,7 @@ var palabras =[
   "spaEquiv": ["Estribos", "Escalones"],
   "definition": "A footboard extending along the side of a vehicle, typically found on trucks, SUVs, and some early models of automobiles.",
   "sampleSentenceEng": "Our auto policy does not cover running boards or steps.",
-  "sampleSentenceSpa": " Nuestra p�liza de autom�viles no cubre estribos ni escalones."
+  "sampleSentenceSpa": " Nuestra póliza de automóviles no cubre estribos ni escalones."
  },
  {
   "Total": 505,
@@ -4544,7 +4544,7 @@ var palabras =[
   "spaEquiv": ["Valor residual", "Valor de rescate"],
   "definition": "The value assigned by an insurer to property deemed beyond repair, or whose value is less than the actual cost of repair.",
   "sampleSentenceEng": "We can calculate the cost of labor and parts to fix or replace each affected item and estimate the salvage value of the total loss vehicle.",
-  "sampleSentenceSpa": "Podemos hacer un cálculo del costo de la mano de obra y las partes para arreglar o remplazar cada artículo dañado y calcular el valor residual del veh�culo de p�rdida total."
+  "sampleSentenceSpa": "Podemos hacer un cálculo del costo de la mano de obra y las partes para arreglar o remplazar cada artículo dañado y calcular el valor residual del vehículo de pérdida total."
  },
  {
   "Total": 506,
@@ -4571,7 +4571,7 @@ var palabras =[
   "spaEquiv": ["Raspón", "Raya", "Raspadura"],
   "definition": "Score or mark the surface of (something) with a sharp or pointed object.",
   "sampleSentenceEng": "As I told the police, my girlfriend became jealous and scratched my car.",
-  "sampleSentenceSpa": " Como le dije a la polic�a, mi novia se puso celosa y ray� mi coche."
+  "sampleSentenceSpa": " Como le dije a la policía, mi novia se puso celosa y rayó mi coche."
  },
  {
   "Total": 509,
@@ -4580,7 +4580,7 @@ var palabras =[
   "spaEquiv": "Chillido",
   "definition": "A loud shrill, harsh, or high-pitched sound.",
   "sampleSentenceEng": "He was driving so fast that we could all hear the screech of brakes when he got to the traffic light.",
-  "sampleSentenceSpa": "�l manejaba tan r�pido que todos pudimos o�r el chillido de los frenos cuando lleg� al sem�foro."
+  "sampleSentenceSpa": "Él manejaba tan rápido que todos pudimos oír el chillido de los frenos cuando llegó al semáforo."
  },
  {
   "Total": 510,
@@ -4589,7 +4589,7 @@ var palabras =[
   "spaEquiv": ["Prueba de despistaje", "Prueba evaluatoria", "Cribado"],
   "definition": "A test designed to identify and eliminate those who are not affected by a disease.",
   "sampleSentenceEng": "They perform regular screenings to rule out cervical cancer.",
-  "sampleSentenceSpa": "Ellos realizan pruebas de despistaje de manera regular para descartar c�ncer de cuello uterino."
+  "sampleSentenceSpa": "Ellos realizan pruebas de despistaje de manera regular para descartar cáncer de cuello uterino."
  },
  {
   "Total": 511,
@@ -4598,7 +4598,7 @@ var palabras =[
   "spaEquiv": "Casilla de búsqueda",
   "definition": "A rectangular field on screen that accepts typed-in text in order to look up something or launch a search for related information. Also called a \"search bar\".",
   "sampleSentenceEng": "There was a typing mistake in the seach box, hence the faulty result.",
-  "sampleSentenceSpa": "Hab�a un error de digitaci�n en la casilla de b�squeda, de all� el resultado defectuoso. "
+  "sampleSentenceSpa": "Había un error de digitación en la casilla de búsqueda, de allí el resultado defectuoso. "
  },
  {
   "Total": 512,
@@ -4607,7 +4607,7 @@ var palabras =[
   "spaEquiv": "Cinturón de seguridad",
   "definition": "A belt or strap securing a person to prevent injury, especially in a vehicle or aircraft.",
   "sampleSentenceEng": "Were all of the passengers wearing their seatbelts at the time of the accident?",
-  "sampleSentenceSpa": "�Todos sus pasajeros llevaban puesto el cintur�n de seguridad en el momento del accidente?"
+  "sampleSentenceSpa": "¿Todos sus pasajeros llevaban puesto el cinturón de seguridad en el momento del accidente?"
  },
  {
   "Total": 513,
@@ -4616,7 +4616,7 @@ var palabras =[
   "spaEquiv": "Depósito de seguridad",
   "definition": "A sum of money held in trust either as an initial part-payment in a purchasing process.",
   "sampleSentenceEng": "As you are a new customer, we require a security deposit of $250 to set up your gas and electrical service.",
-  "sampleSentenceSpa": "Ya que es un nuevo cliente, requerimos un dep�sito de garant�a de $250 para conectar el servicio de gas y electricidad. "
+  "sampleSentenceSpa": "Ya que es un nuevo cliente, requerimos un depósito de garantía de $250 para conectar el servicio de gas y electricidad. "
  },
  {
   "Total": 514,
@@ -4625,16 +4625,16 @@ var palabras =[
   "spaEquiv": ["Ataque convulsivo", "Episodio de convulsión"],
   "definition": "A sudden attack with physical manifestations (as convulsions, sensory disturbances, or loss of consciousness) resulting from abnormal electrical discharges in the brain (as in epilepsy).",
   "sampleSentenceEng": "Your medical record indicates you suffer from seizures.",
-  "sampleSentenceSpa": "Su expediente m�dico indica que usted padece de ataques convulsivos."
+  "sampleSentenceSpa": "Su expediente médico indica que usted padece de ataques convulsivos."
  },
  {
   "Total": 515,
   "industry": "Social Services",
   "engTerm": "Self-employment",
-  "spaEquiv": ["Trabajo por cuenta propia", "Trabajo aut�nomo"],
+  "spaEquiv": ["Trabajo por cuenta propia", "Trabajo autónomo"],
   "definition": "Earning one's livelihood directly from one's own trade or business rather than as an employee of another.",
   "sampleSentenceEng": "I prefer self-employment, I can set my own schedule. ",
-  "sampleSentenceSpa": "Prefiero el trabajo aut�nomo, puedo establecer mi propio horario. "
+  "sampleSentenceSpa": "Prefiero el trabajo autónomo, puedo establecer mi propio horario. "
  },
  {
   "Total": 516,
@@ -4643,7 +4643,7 @@ var palabras =[
   "spaEquiv": ["Cargo por servicio", "Cuota por servicio"],
   "definition": "An amount of money charged to provide a service.",
   "sampleSentenceEng": "The company charges operators a five to 10 per cent service fee.",
-  "sampleSentenceSpa": "La compa�ia cobra a los operadores cinco a diez por ciento por cargo por servicio. "
+  "sampleSentenceSpa": "La compañia cobra a los operadores cinco a diez por ciento por cargo por servicio. "
  },
  {
   "Total": 517,
@@ -4652,7 +4652,7 @@ var palabras =[
   "spaEquiv": ["Petición de servicio", "Pedido de servicio"],
   "definition": "An act of asking for support or fulfillment of a service.",
   "sampleSentenceEng": "Please file a service request in order to have that issue solved. ",
-  "sampleSentenceSpa": "Por favor presente una petici�n de servicio a fin de que este problema sea resuelto."
+  "sampleSentenceSpa": "Por favor presente una petición de servicio a fin de que este problema sea resuelto."
  },
  {
   "Total": 518,
@@ -4670,7 +4670,7 @@ var palabras =[
   "spaEquiv": ["Aguas residuales", "Aguas negras", "Aguas servidas"],
   "definition": "Waste matter from domestic or industrial establishments that is carried away in sewers or drains for dumping or conversion into a form that is not toxic.",
   "sampleSentenceEng": "The sewage is coming up through the kitchen sink so please send a plumber right away.",
-  "sampleSentenceSpa": "Las aguas residuales est�n subiendo por el lavadero de la cocina as� que por favor env�e a un plomero r�pidamente."
+  "sampleSentenceSpa": "Las aguas residuales están subiendo por el lavadero de la cocina así que por favor envíe a un plomero rápidamente."
  },
  {
   "Total": 520,
@@ -4688,7 +4688,7 @@ var palabras =[
   "spaEquiv": "Temblar",
   "definition": "To shake involuntarily with quick, short movements, as from fear, excitement, weakness, or cold; quake; quiver.",
   "sampleSentenceEng": "It was so cold I was shaking.",
-  "sampleSentenceSpa": "Hac�a tanto frio que estaba temblando."
+  "sampleSentenceSpa": "Hacía tanto frio que estaba temblando."
  },
  {
   "Total": 522,
@@ -4697,7 +4697,7 @@ var palabras =[
   "spaEquiv": ["Dolor agudo", "Dolor intenso"],
   "definition": "A sharp pain is sudden and severe.",
   "sampleSentenceEng": "I have a sharp pain in the middle of my stomach; it feels like someone is stabbing me with a knife.",
-  "sampleSentenceSpa": "Tengo un dolor agudo en medio del est�mago, se siente como si alguien me estuviera apu�alando con un cuchillo. "
+  "sampleSentenceSpa": "Tengo un dolor agudo en medio del estómago, se siente como si alguien me estuviera apuñalando con un cuchillo. "
  },
  {
   "Total": 523,
@@ -4706,7 +4706,7 @@ var palabras =[
   "spaEquiv": "Culebrilla",
   "definition": "Shingles, also known as zoster or herpes zoster, is a viral disease characterized by a painful skin rash with blisters in a localized area.",
   "sampleSentenceEng": "If you are over 50, you should receive the shingles vaccine.",
-  "sampleSentenceSpa": "Si usted tiene m�s de 50, deber�a recibir la vacuna contra la culebrilla."
+  "sampleSentenceSpa": "Si usted tiene más de 50, debería recibir la vacuna contra la culebrilla."
  },
  {
   "Total": 524,
@@ -4715,16 +4715,16 @@ var palabras =[
   "spaEquiv": "Escasez",
   "definition": "A state in which there is not enough of something that is needed.",
   "sampleSentenceEng": "The payment went up because there was a shortage in your escrow account.",
-  "sampleSentenceSpa": "El pago subi� porque hab�a una escasez en su cuenta de dep�sito en garant�a."
+  "sampleSentenceSpa": "El pago subió porque había una escasez en su cuenta de depósito en garantía."
  },
  {
   "Total": 525,
   "industry": "Medical",
   "engTerm": "Shortness of breath",
-  "spaEquiv": ["Falta de aliento", "Falta de respiraci�n", "Falta de aire"],
+  "spaEquiv": ["Falta de aliento", "Falta de respiración", "Falta de aire"],
   "definition": "A feeling of difficult or labored breathing that is out of proportion to the patient's level of physical activity.",
   "sampleSentenceEng": "Do you experience shortness of breath when going up or down the stairs?",
-  "sampleSentenceSpa": "�Siente falta de aire al subir o bajar las escaleras?"
+  "sampleSentenceSpa": "¿Siente falta de aire al subir o bajar las escaleras?"
  },
  {
   "Total": 526,
@@ -4733,7 +4733,7 @@ var palabras =[
   "spaEquiv": ["Borde del camino", "Orilla",  "Franja lateral", "Hombrillo"],
   "definition": "A shoulder on a road is used as an emergency stopping lane, it is kind of a reserved lane by the verge of a road or motorway. A paved strip alongside a road for stopping on in an emergency.",
   "sampleSentenceEng": "We parked on the shoulder and waited for the police.",
-  "sampleSentenceSpa": "Nos estacionamos al borde del caminoen la orilla en el hombrillo y esperamos a la polic�a."
+  "sampleSentenceSpa": "Nos estacionamos al borde del caminoen la orilla en el hombrillo y esperamos a la policía."
  },
  {
   "Total": 527,
@@ -4742,7 +4742,7 @@ var palabras =[
   "spaEquiv": "Enfermería",
   "definition": "A room or building set aside for the treatment or accommodation of the sick, especially within a jail, military base or on board a ship.",
   "sampleSentenceEng": "Inmates who need to go to the sick bay must make a sick call.",
-  "sampleSentenceSpa": "Los encarcelados que necesiten ir a la enfermer�a deben solicitar una visita m�dica."
+  "sampleSentenceSpa": "Los encarcelados que necesiten ir a la enfermería deben solicitar una visita médica."
  },
  {
   "Total": 528,
@@ -4751,7 +4751,7 @@ var palabras =[
   "spaEquiv": ["Efectos secundarios", "Efectos colaterales"],
   "definition": "A secondary, typically undesirable effect of a drug or treatment.",
   "sampleSentenceEng": "Let the doctor know if you experience any side effects when you start this new medicine. ",
-  "sampleSentenceSpa": "Av�sele al doctor de cualquier efecto secundario que sienta cuando comience esta nueva medicina."
+  "sampleSentenceSpa": "Avísele al doctor de cualquier efecto secundario que sienta cuando comience esta nueva medicina."
  },
  {
   "Total": 529,
@@ -4760,7 +4760,7 @@ var palabras =[
   "spaEquiv": "Espejos laterales retrovisores ",
   "definition": "Refers to mirrors found on either side of the exterior of motor vehicles for the purposes of helping the driver see areas behind and to the sides of the vehicle, outside of the driver's peripheral vision (in the 'blind spot').",
   "sampleSentenceEng": "He got too close to my car and broke the side mirror.",
-  "sampleSentenceSpa": "Él se acerc� demasiado a mi carro y rompi� el espejo lateral retrovisor."
+  "sampleSentenceSpa": "Él se acercó demasiado a mi carro y rompió el espejo lateral retrovisor."
  },
  {
   "Total": 530,
@@ -4769,7 +4769,7 @@ var palabras =[
   "spaEquiv": ["Acera", "Banqueta"],
   "definition": "A walkway or a paved path for pedestrians at the side of a road.",
   "sampleSentenceEng": "The old man stepped on the accelerator and ended up on the sidewalk.",
-  "sampleSentenceSpa": "El viejo pis� el acelerador y termin� en la acera."
+  "sampleSentenceSpa": "El viejo pisó el acelerador y terminó en la acera."
  },
  {
   "Total": 531,
@@ -4778,7 +4778,7 @@ var palabras =[
   "spaEquiv": "Señal ",
   "definition": "A gesture, action, or sound that is used to convey information or instructions.",
   "sampleSentenceEng": "Did you see the traffic signal?",
-  "sampleSentenceSpa": "�Vio usted la se�al de tr�nsito?"
+  "sampleSentenceSpa": "¿Vio usted la señal de tránsito?"
  },
  {
   "Total": 532,
@@ -4787,7 +4787,7 @@ var palabras =[
   "spaEquiv": ["Patinar", "Derrapar"],
   "definition": "Refers to a vehicle that slides typically sideways or obliquely, on slippery ground, usually as a result of stopping or turning too quickly.",
   "sampleSentenceEng": "The car began to skid on the wet road.",
-  "sampleSentenceSpa": "El carro comenz� a patinar sobre la carretera mojada."
+  "sampleSentenceSpa": "El carro comenzó a patinar sobre la carretera mojada."
  },
  {
   "Total": 533,
@@ -4796,7 +4796,7 @@ var palabras =[
   "spaEquiv": ["Huellas de frenazo", "Marcas de llanta"],
   "definition": "A long black mark left on a road surface by the tires of a skidding vehicle.",
   "sampleSentenceEng": "Did you see any skid marks on the road?",
-  "sampleSentenceSpa": "�Vio algunas huellas de frenazo en la carretera? - Marcas de llanta(en la carretera)"
+  "sampleSentenceSpa": "¿Vio algunas huellas de frenazo en la carretera? - Marcas de llanta(en la carretera)"
  },
  {
   "Total": 534,
@@ -4805,7 +4805,7 @@ var palabras =[
   "spaEquiv": "Embestir",
   "definition": "A heavy blow or impact; a noisy violent closing; a banging noise.",
   "sampleSentenceEng": "The driver was really mad and slammed the door as he stepped out of his truck.",
-  "sampleSentenceSpa": "El conductor estaba muy enojado y embisti� la puerta cuando se baj� de la camioneta."
+  "sampleSentenceSpa": "El conductor estaba muy enojado y embistió la puerta cuando se bajó de la camioneta."
  },
  {
   "Total": 535,
@@ -4823,7 +4823,7 @@ var palabras =[
   "spaEquiv": "Resbaloso",
   "definition": "Refers to a surface or object that is difficult to hold firmly or stand on because it is smooth, wet, or slimy.",
   "sampleSentenceEng": "You mean the road was slippery, right?",
-  "sampleSentenceSpa": "�Quiere decir que la carretera estaba resbalosa, correcto?"
+  "sampleSentenceSpa": "¿Quiere decir que la carretera estaba resbalosa, correcto?"
  },
  {
   "Total": 537,
@@ -4832,7 +4832,7 @@ var palabras =[
   "spaEquiv": ["Seguro Social", "Seguridad Social"],
   "definition": "A federal insurance program that provides benefits for old age, survivors and disability.",
   "sampleSentenceEng": "Will my full social security benefits begin at the age of 65 or 67?",
-  "sampleSentenceSpa": "�Mis beneficios completos del seguro social empezar�an a la edad de 65 o 67?"
+  "sampleSentenceSpa": "¿Mis beneficios completos del seguro social empezaráan a la edad de 65 o 67?"
  },
  {
   "Total": 538,
@@ -4841,7 +4841,7 @@ var palabras =[
   "spaEquiv": "Número de seguro social",
   "definition": "A number assigned by the government for taxation, employment, social security benefits, and identification purposes.",
   "sampleSentenceEng": "Please verify the last four digits of your social security number.",
-  "sampleSentenceSpa": "Por favor verifique los �ltimos cuatro d�gitos de su n�mero de seguro social."
+  "sampleSentenceSpa": "Por favor verifique los últimos cuatro dígitos de su número de seguro social."
  },
  {
   "Total": 539,
@@ -4850,7 +4850,7 @@ var palabras =[
   "spaEquiv": ["Trabajadora social","Trabajador social"],
   "definition": "A professional whose job is to facilitate the welfare of communities, individuals and societies.",
   "sampleSentenceEng": "The social worker assigned to your case will call you to determine what services are available to you and your family members.",
-  "sampleSentenceSpa": "El trabajador social asignado a su caso le llamar� para determinar cu�les son los servicios disponibles para usted y los miembros de su familia. "
+  "sampleSentenceSpa": "El trabajador social asignado a su caso le llamará para determinar cuáles son los servicios disponibles para usted y los miembros de su familia. "
  },
  {
   "Total": 540,
@@ -4859,7 +4859,7 @@ var palabras =[
   "spaEquiv": "Planta del pie",
   "definition": "The sole is the bottom of the foot.",
   "sampleSentenceEng": "He is complaining of burning pain on the sole of the foot. ",
-  "sampleSentenceSpa": "�l se est� quejando de un ardor en la planta del pie."
+  "sampleSentenceSpa": "Él se está quejando de un ardor en la planta del pie."
  },
  {
   "Total": 541,
@@ -4877,7 +4877,7 @@ var palabras =[
   "spaEquiv": ["Columna vertebral","Espina dorsal"],
   "definition": "The series of articulated vertebrae, separated by intervertebral disks and held together by muscles and tendons, that extends from the cranium to the coccyx or the end of the tail, encasing the spinal cord and forming the central support of the body.",
   "sampleSentenceEng": "Spinal pain in this case is located in the lumbar region. The spine contains 33 vertebrae.",
-  "sampleSentenceSpa": "El dolor de la columna vertebral, en este caso, est� localizado en la regi�n lumbar. La espina dorsal contiene 33 v�rtebras."
+  "sampleSentenceSpa": "El dolor de la columna vertebral, en este caso, está localizado en la región lumbar. La espina dorsal contiene 33 vértebras."
  },
  {
   "Total": 543,
@@ -4895,7 +4895,7 @@ var palabras =[
   "spaEquiv": ["Torcedura, Esguince"],
   "definition": "To injure (a joint) by a sudden twisting or wrenching of its ligaments.",
   "sampleSentenceEng": "I sprained my ankle when I fell down the stairs.",
-  "sampleSentenceSpa": "Me torc� el tobillo cuando me ca� de las escaleras."
+  "sampleSentenceSpa": "Me torcí el tobillo cuando me caí de las escaleras."
  },
  {
   "Total": 545,
@@ -4913,7 +4913,7 @@ var palabras =[
   "spaEquiv": ["Estado de cuenta","Extracto bancario"],
   "definition": "A document which shows amounts of money that you have received, spent, etc. A brief record of a financial account.",
   "sampleSentenceEng": "I just received my statement and I see I'm being charged a late fee even though I paid before the due date. ",
-  "sampleSentenceSpa": "Acabo de recibir mi estado de cuenta y veo me est�n cobrando una cuota de retraso aunque pagu� antes de la fecha de vencimiento."
+  "sampleSentenceSpa": "Acabo de recibir mi estado de cuenta y veo me están cobrando una cuota de retraso aunque pagué antes de la fecha de vencimiento."
  },
  {
   "Total": 547,
@@ -4931,7 +4931,7 @@ var palabras =[
   "spaEquiv": ["Enfermedad de transmisión sexual" ,"Infección de transmisión sexual"],
   "definition": "Diseases that are passed on from one person to another through sexual contact, and sometimes by genital contact.",
   "sampleSentenceEng": "Have you ever had a STD, such as gonorrhea, chlamydia, genital warts or herpes?",
-  "sampleSentenceSpa": "�Alguna vez ha tenido enfermedades de transmisi�n sexual, como gonorrea, clamidia, verrugas genitales o herpes?"
+  "sampleSentenceSpa": "¿Alguna vez ha tenido enfermedades de transmisión sexual, como gonorrea, clamidia, verrugas genitales o herpes?"
  },
  {
   "Total": 549,
@@ -5021,7 +5021,7 @@ var palabras =[
   "spaEquiv": ["Derrame cerebral", "Apoplejía"],
   "definition": "Occurs when blood supply to part of the brain is disrupted, causing brain cells to die. When blood flow to the brain is impaired, oxygen and glucose cannot be delivered to the brain.",
   "sampleSentenceEng": "My father suffered a stroke last year and still has difficulty walking and speaking, but with continued therapy he should improve slowly.",
-  "sampleSentenceSpa": "Mi papá sufrió un derrame cerebral el año pasado y todavía tiene dificultad para caminar y hablar, pero con terapia cont�nua �l debe mejorar despacio. "
+  "sampleSentenceSpa": "Mi papá sufrió un derrame cerebral el año pasado y todavía tiene dificultad para caminar y hablar, pero con terapia contínua él debe mejorar despacio. "
  },
  {
   "Total": 559,
@@ -5039,7 +5039,7 @@ var palabras =[
   "spaEquiv": ["Suscriptor", "Suscriptora"],
   "definition": "A person who receives a service or coverage regularly by paying in advance.",
   "sampleSentenceEng": "Some large companies will not sell, lease or rent its email subscriber list to third parties.",
-  "sampleSentenceSpa": "Algunas compañías grandes no venden, arriendan o alquilan su lista de correo electr�nico de suscriptores a terceros."
+  "sampleSentenceSpa": "Algunas compañías grandes no venden, arriendan o alquilan su lista de correo electrónico de suscriptores a terceros."
  },
  {
   "Total": 561,
@@ -5057,7 +5057,7 @@ var palabras =[
   "spaEquiv": "Recargos",
   "definition": "To charge an additional sum, to the usual payment, tax, etc.",
   "sampleSentenceEng": "A surcharge may be made for deliveries outside normal hours.",
-  "sampleSentenceSpa": "Se podr�a realizar un recargo por env�os fuera de las horas normales. "
+  "sampleSentenceSpa": "Se podría realizar un recargo por envíos fuera de las horas normales. "
  },
  {
   "Total": 563,
@@ -5066,7 +5066,7 @@ var palabras =[
   "spaEquiv": ["Ceder, Entregar"],
   "definition": "To return, turn in, give up, or give back an asset.",
   "sampleSentenceEng": "You have 15 days to bring your account up to date or you will have to surrender your vehicle.",
-  "sampleSentenceSpa": "Usted tiene 15 días para poner su cuenta al día o tendrá que entregar su veh�culo."
+  "sampleSentenceSpa": "Usted tiene 15 días para poner su cuenta al día o tendrá que entregar su vehículo."
  },
  {
   "Total": 564,
@@ -5075,7 +5075,7 @@ var palabras =[
   "spaEquiv": "Suspender",
   "definition": "1. Temporarily prevent from continuing or being in force or effect. 2. To bar for a period from a privilege, office, or position, usually as a punishment.",
   "sampleSentenceEng": "Your driver's license is suspended for 90 days. ",
-  "sampleSentenceSpa": "Su licencia de conducir est�ásuspendida por 90 días."
+  "sampleSentenceSpa": "Su licencia de conducir está suspendida por 90 días."
  },
  {
   "Total": 565,
@@ -5129,7 +5129,7 @@ var palabras =[
   "spaEquiv": "Declaración de impuestos",
   "definition": "A tax return is the completion of documentation that calculates an entity's or individual's income earned and the amount of taxes to be paid to the government.",
   "sampleSentenceEng": "Tax Returns are generally due on April 15 for the prior year.",
-  "sampleSentenceSpa": "La declaraci�n de impuestos generalmente vence el 15 de abril del a�o anterior. "
+  "sampleSentenceSpa": "La declaración de impuestos generalmente vence el 15 de abril del año anterior. "
  },
  {
   "Total": 571,
@@ -5138,7 +5138,7 @@ var palabras =[
   "spaEquiv": "Impuestos",
   "definition": "An amount of money that a government requires people to pay according to their income, the value of their property, etc.",
   "sampleSentenceEng": "Collecting taxes is a fundamental way for countries to generate public revenues. ",
-  "sampleSentenceSpa": "El recolectar impuestos es una manera fundamental para que los pa�ses generen ingresos p�blicos. "
+  "sampleSentenceSpa": "El recolectar impuestos es una manera fundamental para que los países generen ingresos públicos. "
  },
  {
   "Total": 572,
@@ -5165,7 +5165,7 @@ var palabras =[
   "spaEquiv": "Bloqueo temporal",
   "definition": "To help protect from fraud or abuse, an account may be suspended for a limited period of time.",
   "sampleSentenceEng": "Your card will be unblocked automatically, 7 days after the first temporary block.",
-  "sampleSentenceSpa": "Su tarjeta ser� desbloqueada autom�ticamente, siete d�as luego del primer bloqueo temporal. "
+  "sampleSentenceSpa": "Su tarjeta será desbloqueada automáticamente, siete días luego del primer bloqueo temporal. "
  },
  {
   "Total": 575,
@@ -5174,7 +5174,7 @@ var palabras =[
   "spaEquiv": ["Reparaciones temporales" ,"Reparaciones provisionales"],
   "definition": "Repairs made to a damaged property to prevent further damages, until permanent repairs are done.",
   "sampleSentenceEng": "We can make some temporary repairs on your roof to avoid water damage from the pending storm.",
-  "sampleSentenceSpa": "Podemos realizar algunas reparaciones temporales en su techo para evitar da�o por agua de la tormenta que est� en ciernes."
+  "sampleSentenceSpa": "Podemos realizar algunas reparaciones temporales en su techo para evitar daño por agua de la tormenta que está en ciernes."
  },
  {
   "Total": 576,
@@ -5192,7 +5192,7 @@ var palabras =[
   "spaEquiv": ["Desahuciada", "Desahuciado", "Enferma terminal", "Enfermo terminal"],
   "definition": "Terminally ill refers to the condition of a person who is expected to be deceased within a few months, or no more than a year, because of a serious disease or illness.",
   "sampleSentenceEng": "Unfortunately, the patient is terminally ill. ",
-  "sampleSentenceSpa": "Desafortunadamente, el paciente est� desahuciado. "
+  "sampleSentenceSpa": "Desafortunadamente, el paciente está desahuciado. "
  },
  {
   "Total": 578,
@@ -5201,7 +5201,7 @@ var palabras =[
   "spaEquiv": ["Prueba","Análisis", "Examen"],
   "definition": "A procedure intended to establish the quality, performance, or reliability of an individual's health.",
   "sampleSentenceEng": "These are the doctor's orders for the tests you need.",
-  "sampleSentenceSpa": "Estas son las �rdenes del doctor para los ex�menespruebas que necesita."
+  "sampleSentenceSpa": "Estas son las órdenes del doctor para los exámenespruebas que necesita."
  },
  {
   "Total": 579,
@@ -5237,7 +5237,7 @@ var palabras =[
   "spaEquiv": ["Hurto", "Robo", "Delito de hurto"],
   "definition": "Theft referst to taking of another person's property without that person's permission or consent with the intent to deprive the rightful owner of it.",
   "sampleSentenceEng": "Shoplifting is a form of theft. If you enter a store and leave the store without paying for the merchandise, that's shoplifting.",
-  "sampleSentenceSpa": "El hurto en tiendas es un modo de robo. Si usted entra en una tienda y se va de la tienda sin pagar por la mercanc�a, eso es hurto en tiendas. "
+  "sampleSentenceSpa": "El hurto en tiendas es un modo de robo. Si usted entra en una tienda y se va de la tienda sin pagar por la mercancía, eso es hurto en tiendas. "
  },
  {
   "Total": 583,
@@ -5273,7 +5273,7 @@ var palabras =[
   "spaEquiv": "Título",
   "definition": "A legal form, establishing a person or business as the legal owner of a vehicle. Also known as pink slip.",
   "sampleSentenceEng": "You have to sign and notarize your title. ",
-  "sampleSentenceSpa": "Usted tiene que firmar y notarizar su t�tulo. "
+  "sampleSentenceSpa": "Usted tiene que firmar y notarizar su título. "
  },
  {
   "Total": 587,
@@ -5309,7 +5309,7 @@ var palabras =[
   "spaEquiv": ["Amígdalas", "Anginas"],
   "definition": "Either of two small masses of lymphoid tissue in the throat, one on each side of the root of the tongue.",
   "sampleSentenceEng": "Tonsils can become enlarged for many different reasons, including exposure to viruses and bacteria.",
-  "sampleSentenceSpa": "Las amígdalas pueden agrandarse por muchas razones diferentes, incluyendo la exposici�n a virus y bacteria. "
+  "sampleSentenceSpa": "Las amígdalas pueden agrandarse por muchas razones diferentes, incluyendo la exposición a virus y bacteria. "
  },
  {
   "Total": 591,
@@ -5327,7 +5327,7 @@ var palabras =[
   "spaEquiv": ["Grúa", "Camión de remolque"],
   "definition": "A truck with special equipment for pulling a vehicle that is not working to a place where it can be repaired",
   "sampleSentenceEng": "The tow truck was parked behind my car. ",
-  "sampleSentenceSpa": "Estacionaron la gr�a detr�s de mi carro."
+  "sampleSentenceSpa": "Estacionaron la grúa detrás de mi carro."
  },
  {
   "Total": 593,
@@ -5336,7 +5336,7 @@ var palabras =[
   "spaEquiv": ["Lote de vehiculos remolcados", "Corralón"],
   "definition": "A storage facility used to park disabled vehicles on a temporary basis.",
   "sampleSentenceEng": "We need you to call the tow yard and let them know that we will be picking up the car.",
-  "sampleSentenceSpa": "Necesitamos que llame a el estacionamiento de veh�culos remolcados y hacerles saber que vamos a recoger el coche."
+  "sampleSentenceSpa": "Necesitamos que llame a el estacionamiento de vehículos remolcados y hacerles saber que vamos a recoger el coche."
  },
  {
   "Total": 594,
@@ -5354,7 +5354,7 @@ var palabras =[
   "spaEquiv": ["Control del tráfico", "Control del tránsito"],
   "definition": "Traffic control involves directing vehicular and pedestrian traffic around a construction zone, accident or other road disruption, thus ensuring the safety of emergency response teams, construction workers and the general public.",
   "sampleSentenceEng": "There were some orange cones for traffic control on the off ramp.",
-  "sampleSentenceSpa": "Había unos conos anaranjados para control de tr�fico en la rampa de salida."
+  "sampleSentenceSpa": "Había unos conos anaranjados para control de tráfico en la rampa de salida."
  },
  {
   "Total": 596,
@@ -5363,7 +5363,7 @@ var palabras =[
   "spaEquiv": "Semáforo ",
   "definition": "A set of automatically operated colored lights, typically red, amber, and green, for controlling traffic at road junctions and crosswalks.",
   "sampleSentenceEng": "You said you stopped at the traffic light, but in the picture, it shows you running (through) the red light.",
-  "sampleSentenceSpa": "Dice que se detuvo en el sem�foro pero seg�n la foto usted se pas� la luz roja."
+  "sampleSentenceSpa": "Dice que se detuvo en el semáforo pero según la foto usted se pasó la luz roja."
  },
  {
   "Total": 597,
@@ -5408,7 +5408,7 @@ var palabras =[
   "spaEquiv": "Tranvía",
   "definition": "An electric vehicle that transports people, usually in cities, and goes along metal tracks in the road.",
   "sampleSentenceEng": "The tram was running in darkness in early morning amid heavy rain.",
-  "sampleSentenceSpa": "El tranvía corría en la oscuridad temprano en la ma�ana en medio de las fuertes lluvias."
+  "sampleSentenceSpa": "El tranvía corría en la oscuridad temprano en la mañana en medio de las fuertes lluvias."
  },
  {
   "Total": 602,
@@ -5435,7 +5435,7 @@ var palabras =[
   "spaEquiv": "Transporte",
   "definition": "The action of transporting someone or something or the process of being transported.",
   "sampleSentenceEng": "Do you need transportation to and from the doctor's office? If so, that can be arranged.",
-  "sampleSentenceSpa": "¿Necesita transporte para ir y regresar del consultorio del doctor? Si as� es, eso puede ser acordado."
+  "sampleSentenceSpa": "¿Necesita transporte para ir y regresar del consultorio del doctor? Si así es, eso puede ser acordado."
  },
  {
   "Total": 605,
@@ -5453,7 +5453,7 @@ var palabras =[
   "spaEquiv": ["Enfermero de clasificación de emergencias", "Enfermera de clasificación de emergencias"],
   "definition": "A registered nurse (typically in the emergency room) who assesses patients and determines their need for medical attention in order of urgency to determine the order in which they will receive medical care.",
   "sampleSentenceEng": "After the earthquake, the Red Cross sent triage nurses to assess the victims and treat them according to the severity of their injuries and symptoms.",
-  "sampleSentenceSpa": "Después del terremoto, la Red CrossCruz Roja envió a enfermera(o)s de clasificación para evaluar a las víctimas y proveer tratamiento de acuerdo a la gravedad de sus lesiones y s�ntomas."
+  "sampleSentenceSpa": "Después del terremoto, la Red CrossCruz Roja envió a enfermera(o)s de clasificación para evaluar a las víctimas y proveer tratamiento de acuerdo a la gravedad de sus lesiones y síntomas."
  },
  {
   "Total": 607,
@@ -5462,7 +5462,7 @@ var palabras =[
   "spaEquiv": ["Ubicación de problemas", "Localización de fallas", "Localización de problemas", "Diagnóstico de problemas"],
   "definition": "Refers to a form of technical problem solving, often applied to repair failed products or processes. It is a systematic search for the source of a problem in order to solve it, and make the product operational again.",
   "sampleSentenceEng": "The computer technician will go through a process of troubleshooting, to resolve the issues you are having with your internet and phone service.",
-  "sampleSentenceSpa": "El técnico de computadoras hará un proceso de diagnóstico de problemas para resolver el problema que tiene con los servicios de internet y de tel�fono."
+  "sampleSentenceSpa": "El técnico de computadoras hará un proceso de diagnóstico de problemas para resolver el problema que tiene con los servicios de internet y de teléfono."
  },
  {
   "Total": 608,
@@ -5471,7 +5471,7 @@ var palabras =[
   "spaEquiv": ["Baúl", "Maletero", "Cajuela", "Maleta"],
   "definition": "Refers to a vehicle's main storage compartment.",
   "sampleSentenceEng": "The car is not drivable because the trunk won't close and it obstructs my view.",
-  "sampleSentenceSpa": "El coche no se puede conducir debido a que el ba�l no cierra y obstruye mi vista."
+  "sampleSentenceSpa": "El coche no se puede conducir debido a que el baúl no cierra y obstruye mi vista."
  },
  {
   "Total": 609,
@@ -5480,7 +5480,7 @@ var palabras =[
   "spaEquiv": ["Flecha de cruce", "Flecha para voltear"],
   "definition": "Turn arrow means that drivers must come to a stop at the marked stop line before moving into the crosswalk or intersection, and shall turn to the indicated direction when there is indication to proceed.",
   "sampleSentenceEng": "I do not believe the driver saw the turn arrow and drove straight ahead.",
-  "sampleSentenceSpa": "No creo que el conductor haya visto la flecha de cruce y sigui� manejando de frente."
+  "sampleSentenceSpa": "No creo que el conductor haya visto la flecha de cruce y siguió manejando de frente."
  },
  {
   "Total": 610,
@@ -5498,7 +5498,7 @@ var palabras =[
   "spaEquiv": "Carril para dar vuelta",
   "definition": "An auxiliary lane between lanes where vehicles can safely wait for oncoming traffic to abate in order to make a left turn.",
   "sampleSentenceEng": "Check the shared left turn lane for vehicles ahead.",
-  "sampleSentenceSpa": "Vigile el carril para dar vuelta a la izquierda para ver si hay veh�culos adelante."
+  "sampleSentenceSpa": "Vigile el carril para dar vuelta a la izquierda para ver si hay vehículos adelante."
  },
  {
   "Total": 612,
@@ -5507,7 +5507,7 @@ var palabras =[
   "spaEquiv": ["Gemelos","Mellizos"],
   "definition": "Two offspring produced by the same pregnancy. Identical twins result from the fertilization of a single egg by a single sperm, with the fertilized egg then splitting into two. Fraternal twins result from the fertilization of two separate eggs with two different sperm during the same pregnancy.",
   "sampleSentenceEng": "They told me that I'm pregnant with twins, so I am going to need help, because I was prepared for just one baby. What do I need to do to receive assistance?",
-  "sampleSentenceSpa": "Me dijeron que estoy embarazada con mellizos, así que voy a necesitar ayuda porque estaba preparada para solo un beb�. �Qu� necesito hacer para recibir asistencia?"
+  "sampleSentenceSpa": "Me dijeron que estoy embarazada con mellizos, así que voy a necesitar ayuda porque estaba preparada para solo un bebé. ¿Qué necesito hacer para recibir asistencia?"
  },
  {
   "Total": 613,
@@ -5534,7 +5534,7 @@ var palabras =[
   "spaEquiv": ["Agente aprobador","Agrente aprobadora"],
   "definition": "Underwriters identify and calculate the risk of loss from policyholders, establish appropriate premium rates, and write policies that cover this risk.",
   "sampleSentenceEng": "Your life insurance policy application will be sent to our underwriter for review and you will be notified if you qualify.",
-  "sampleSentenceSpa": "Su solicitud de seguro de vida ser� enviada a nuestro agente aprobador para su revisi�n y usted ser� notificado si cumple con los requisitos."
+  "sampleSentenceSpa": "Su solicitud de seguro de vida será enviada a nuestro agente aprobador para su revisión y usted será notificado si cumple con los requisitos."
  },
  {
   "Total": 616,
@@ -5543,7 +5543,7 @@ var palabras =[
   "spaEquiv": "Evaluación de riesgos",
   "definition": "Refers to the process or practice that screens, evaluates, researches and quantifies a financial risk.",
   "sampleSentenceEng": "The underwriting department of an insurance company decides which risks the company should take.",
-  "sampleSentenceSpa": "El departamento de evaluaci�n de riesgos de una compa��a de seguros decide los riesgos que la compa��a debe correr."
+  "sampleSentenceSpa": "El departamento de evaluación de riesgos de una compañía de seguros decide los riesgos que la compañía debe correr."
  },
  {
   "Total": 617,
@@ -5552,7 +5552,7 @@ var palabras =[
   "spaEquiv": "Beneficios de desempleo ",
   "definition": "A payment made by a government or a labor union to an unemployed person, while they look for work.",
   "sampleSentenceEng": "Since you were laid off you can apply for unemployment benefits for a maximum of 6 months.",
-  "sampleSentenceSpa": "Ya que fue despedido usted puede solicitar beneficios de desempleo por un m�ximo de 6 meses."
+  "sampleSentenceSpa": "Ya que fue despedido usted puede solicitar beneficios de desempleo por un máximo de 6 meses."
  },
  {
   "Total": 618,
@@ -5561,7 +5561,7 @@ var palabras =[
   "spaEquiv": ["Cobertura contra conductora no asegurada", "Cobertura contra conductor no asegurado"],
   "definition": "Uninsured motorist coverage (UM) is an add-on coverage for auto policies that will pay for injuries and damages caused by an uninsured driver. Hit-and-run drivers are also considered uninsured motorists.",
   "sampleSentenceEng": "He incurred over $1 million in medical bills arising from an auto accident with a person without uninsured motorist coverage. ",
-  "sampleSentenceSpa": "Contrajo m�s de $1 mill�n en facturas m�dicas que surgieron de un accidente automovil�stico con una persona sin cobertura contra condutor no asegurado."
+  "sampleSentenceSpa": "Contrajo más de $1 millón en facturas médicas que surgieron de un accidente automovilístico con una persona sin cobertura contra condutor no asegurado."
  },
  {
   "Total": 619,
@@ -5570,7 +5570,7 @@ var palabras =[
   "spaEquiv": "Actualizar",
   "definition": "To bring up to date. To inform (someone) with the latest information.",
   "sampleSentenceEng": "You need to update your contact information so we can ensure the correspondence is sent to the right place.",
-  "sampleSentenceSpa": "Necesita actualizar su informaci�n de contacto para asegurarnos que la correspondencia se env�a al lugar correcto."
+  "sampleSentenceSpa": "Necesita actualizar su información de contacto para asegurarnos que la correspondencia se envía al lugar correcto."
  },
  {
   "Total": 620,
@@ -5579,7 +5579,7 @@ var palabras =[
   "spaEquiv": "Mejora de servicios",
   "definition": "Refers to bump up or improve services by one or more levels upward.",
   "sampleSentenceEng": "If you upgrade your phone services, an additional charge will appear every month.",
-  "sampleSentenceSpa": "Si usted mejora su servicio de tel�fono, un cargo adicional aparecer� cada mes."
+  "sampleSentenceSpa": "Si usted mejora su servicio de teléfono, un cargo adicional aparecerá cada mes."
  },
  {
   "Total": 621,
@@ -5588,7 +5588,7 @@ var palabras =[
   "spaEquiv": ["Cuidados de urgencias", "Atención de urgencias", "Cuidados urgentes"],
   "definition": "Urgent care centers primarily treat injuries or illnesses requiring immediate care, but not serious enough to require an emergency department visit.",
   "sampleSentenceEng": "Go to an urgent care center or a walk-in clinic to see a doctor for your son's minor injury; there is no need to rush to the emergency room.",
-  "sampleSentenceSpa": "Acuda a un centro de atenci�n de urgencias o a una cl�nica sin cita previa para ver a un m�dico por la lesi�n menor de su hijo; no hay necesidad de correr a la sala de emergencias."
+  "sampleSentenceSpa": "Acuda a un centro de atención de urgencias o a una clínica sin cita previa para ver a un médico por la lesión menor de su hijo; no hay necesidad de correr a la sala de emergencias."
  },
  {
   "Total": 622,
@@ -5597,7 +5597,7 @@ var palabras =[
   "spaEquiv": "Análisis de orina",
   "definition": "A test that evaluates a sample of urine to detect and assess a wide range of disorders, such as urinary tract infection, kidney disease and diabetes.",
   "sampleSentenceEng": "According to your urinalysis, you have a bladder infection.",
-  "sampleSentenceSpa": "De acuerdo a su an�lisis de orina tiene una infecci�n en la vejiga."
+  "sampleSentenceSpa": "De acuerdo a su análisis de orina tiene una infección en la vejiga."
  },
  {
   "Total": 623,
@@ -5606,7 +5606,7 @@ var palabras =[
   "spaEquiv": "Incontinencia urinaria",
   "definition": "The involuntary leakage of urine. The inability to hold urine in the bladder because voluntary control over the urinary sphincter is either lost or weakened.",
   "sampleSentenceEng": "Shortly after the C section, I began to experience urinary incontinence.",
-  "sampleSentenceSpa": "Poco despu�s de la ces�rea empec� a experimentar incontinencia urinaria."
+  "sampleSentenceSpa": "Poco después de la cesárea empecé a experimentar incontinencia urinaria."
  },
  {
   "Total": 624,
@@ -5615,7 +5615,7 @@ var palabras =[
   "spaEquiv": "Nombre de usuario",
   "definition": "Also known as user ID. A sequence of characters, different from a password, that is used as identification and is required when logging on to a computer or website.",
   "sampleSentenceEng": "You will need to create a username and password before you will have access to this system.",
-  "sampleSentenceSpa": "Debe crear un nombre de usuario y contrase�a antes de tener acceso a este sistema."
+  "sampleSentenceSpa": "Debe crear un nombre de usuario y contraseña antes de tener acceso a este sistema."
  },
  {
   "Total": 625,
@@ -5624,7 +5624,7 @@ var palabras =[
   "spaEquiv": ["Factura de servicios públicos", "Factura de servicios básicos"],
   "definition": "A bill containing the amount due for the consumption of a services such as electricity, gas, and water.",
   "sampleSentenceEng": "I typically receive different utility bills from the companies providing water, electricity and gas.",
-  "sampleSentenceSpa": "Yo t�picamente recibo diferentes facturas de servicios p�blicos de las compa��as que proveen agua, electricidad y gas."
+  "sampleSentenceSpa": "Yo típicamente recibo diferentes facturas de servicios públicos de las compañías que proveen agua, electricidad y gas."
  },
  {
   "Total": 626,
@@ -5633,7 +5633,7 @@ var palabras =[
   "spaEquiv": "Vacunas",
   "definition": "Biological preparations that provide active acquired immunity to a particular infectious disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe",
   "sampleSentenceEng": "It is important to keep your child's vaccines up to date.",
-  "sampleSentenceSpa": "Es importante mantener las vacunas de su hijo al d�a."
+  "sampleSentenceSpa": "Es importante mantener las vacunas de su hijo al día."
  },
  {
   "Total": 627,
@@ -5642,16 +5642,16 @@ var palabras =[
   "spaEquiv": ["Secreción vaginal" ,"Flujo vaginal"],
   "definition": "Refers to secretions from the vagina; the discharge may be: Thick, pasty, or thin, clear, cloudy, odorless or have a bad odor.",
   "sampleSentenceEng": "Does the vaginal discharge have a bad odor?",
-  "sampleSentenceSpa": "�Tiene un mal olor el flujo vaginal?"
+  "sampleSentenceSpa": "¿Tiene un mal olor el flujo vaginal?"
  },
  {
   "Total": 628,
   "industry": "Medical",
   "engTerm": "Vaginal yeast infection",
-  "spaEquiv": ["Candidiasis vaginal", "Infecci�n vaginal por hongos"],
+  "spaEquiv": ["Candidiasis vaginal", "Infección vaginal por hongos"],
   "definition": "A usually localized infection, as of the vagina or mucous membranes of the mouth, caused by fungi of the genus Candida.",
   "sampleSentenceEng": "We're going to treat the vaginal yeast infection with pills instead of creams.",
-  "sampleSentenceSpa": "Vamos a tratar la infecci�n vaginal de hongos con pastillas en lugar de cremas."
+  "sampleSentenceSpa": "Vamos a tratar la infección vaginal de hongos con pastillas en lugar de cremas."
  },
  {
   "Total": 629,
@@ -5660,7 +5660,7 @@ var palabras =[
   "spaEquiv": "Vehículo ",
   "definition": "A mechanical machine used for transporting people or goods, especially on land, such as a car, truck, etc.",
   "sampleSentenceEng": "What's your vehicle's make and model?",
-  "sampleSentenceSpa": "�Cu�l es la marca y modelo de su veh�culo?"
+  "sampleSentenceSpa": "¿Cuál es la marca y modelo de su vehículo?"
  },
  {
   "Total": 630,
@@ -5669,7 +5669,7 @@ var palabras =[
   "spaEquiv": "Verificar",
   "definition": "To check or test the accuracy of.",
   "sampleSentenceEng": "For verification purposes please provide your full address.",
-  "sampleSentenceSpa": "Para fines de verificaci�n por favor proporcione su direcci�n completa."
+  "sampleSentenceSpa": "Para fines de verificación por favor proporcione su dirección completa."
  },
  {
   "Total": 631,
@@ -5678,7 +5678,7 @@ var palabras =[
   "spaEquiv": "Número de identificación vehicular",
   "definition": "A form of identification used by all modern motor vehicles. It contains data about the vehicle's manufacture and country of origin including some model-specific details and the vehicle's unique production serial number.",
   "sampleSentenceEng": "In order to read your VIN number, please consider that the first character tells you where in the world the vehicle was built.",
-  "sampleSentenceSpa": "A fin de leer su n�mero de identificaci�n vehicular, por favor considere que el primer car�cter le indica en qu� parte del mundo se contruy� el veh�culo."
+  "sampleSentenceSpa": "A fin de leer su número de identificación vehicular, por favor considere que el primer carácter le indica en qué parte del mundo se contruyó el vehículo."
  },
  {
   "Total": 632,
@@ -5687,7 +5687,7 @@ var palabras =[
   "spaEquiv": "Visibilidad ",
   "definition": "The distance one can see as determined by light and weather conditions.   How clearly objects can be seen, or how far you can see clearly, usually because of the weather conditions.",
   "sampleSentenceEng": "The fog was so dense there was no visibility. ",
-  "sampleSentenceSpa": "La niebla estaba tan densa que no hab�a visibilidad."
+  "sampleSentenceSpa": "La niebla estaba tan densa que no había visibilidad."
  },
  {
   "Total": 633,
@@ -5696,7 +5696,7 @@ var palabras =[
   "spaEquiv": "Signos vitales",
   "definition": "Clinical measurements, specifically pulse rate, temperature, respiration rate, and blood pressure.",
   "sampleSentenceEng": "The babies in this unit have various devices attached to them that monitor the vital signs.",
-  "sampleSentenceSpa": "Los beb�s en esta unidad tienen varios dispositivos conectados a ellos que monitorean los signos vitales. "
+  "sampleSentenceSpa": "Los bebés en esta unidad tienen varios dispositivos conectados a ellos que monitorean los signos vitales. "
  },
  {
   "Total": 634,
@@ -5704,7 +5704,7 @@ var palabras =[
   "engTerm": "Void",
   "spaEquiv": ["Nulo", "Anular"],
   "definition": "Having no legal force or effect; not legally binding or enforceable.",
-  "sampleSentenceEng": "I�ll just void the check and pay you in cash.",
+  "sampleSentenceEng": "I'll just void the check and pay you in cash.",
   "sampleSentenceSpa": "Solo voy a anular el cheque y pagarle en efectivo."
  },
  {
@@ -5714,7 +5714,7 @@ var palabras =[
   "spaEquiv": "Vaciar la vejiga",
   "definition": "To discharge or emit -void urine.",
   "sampleSentenceEng": "Can you void your bladder completely?",
-  "sampleSentenceSpa": "�Usted puede vaciar completamente la vejiga?"
+  "sampleSentenceSpa": "¿Usted puede vaciar completamente la vejiga?"
  },
  {
   "Total": 636,
@@ -5723,7 +5723,7 @@ var palabras =[
   "spaEquiv": ["Cheque nulo", "Cheque anulado"],
   "definition": "A voided check is a check that has been cancelled. A voided check will have all of your bank information printed on it, so it can provide others everything they need to set up a direct deposit payment from your account.",
   "sampleSentenceEng": "Make a copy of the voided check for your records, noting the check number.",
-  "sampleSentenceSpa": "Haga una copia del cheque nulo para su registro, anotando el n�mero de cheque. "
+  "sampleSentenceSpa": "Haga una copia del cheque nulo para su registro, anotando el número de cheque. "
  },
  {
   "Total": 637,
@@ -5732,7 +5732,7 @@ var palabras =[
   "spaEquiv": ["Vómito", "Con vómitos"],
   "definition": "Refers to the involuntary, forceful expulsion of the contents of one's stomach through the mouth and sometimes the nose.",
   "sampleSentenceEng": "My son has been vomiting since last night and has had diarrhea twice this morning. He may also have a fever as he feels hot to the touch.",
-  "sampleSentenceSpa": "Mi hijo ha estado vomitando desde anoche y ha tenido diarrea dos veces esta ma�ana. Tal vez tambi�n tenga fiebre ya que se siente caliente al tacto. "
+  "sampleSentenceSpa": "Mi hijo ha estado vomitando desde anoche y ha tenido diarrea dos veces esta mañana. Tal vez también tenga fiebre ya que se siente caliente al tacto. "
  },
  {
   "Total": 638,
@@ -5795,7 +5795,7 @@ var palabras =[
   "spaEquiv": "Defecación aguada",
   "definition": "Diarrhea is multiple bouts of very loose, watery stools with little to no form.",
   "sampleSentenceEng": "The medicine is causing watery stools. Can I stop taking it?",
-  "sampleSentenceSpa": "El medicamento me está causando defecación aguada. �Puedo dejar de tomarlo?"
+  "sampleSentenceSpa": "El medicamento me está causando defecación aguada. ¿Puedo dejar de tomarlo?"
  },
  {
   "Total": 645,
@@ -5813,7 +5813,7 @@ var palabras =[
   "spaEquiv": ["Condiciones climáticas", "Estado del tiempo"],
   "definition": "The conditions of the atmosphere in terms of temperature, atmospheric pressure, wind, and moisture.",
   "sampleSentenceEng": "What were the weather conditions at the time of the accident?",
-  "sampleSentenceSpa": "¿Cuáles eran las condiciones clim�ticas cuando tuvo el accidente?"
+  "sampleSentenceSpa": "¿Cuáles eran las condiciones climáticas cuando tuvo el accidente?"
  },
  {
   "Total": 647,
@@ -5876,7 +5876,7 @@ var palabras =[
   "spaEquiv": "Parabrisas",
   "definition": "A window at the front of the passenger compartment of a motor vehicle.",
   "sampleSentenceEng": "A rock hit my windshield and it cracked.",
-  "sampleSentenceSpa": "Una piedra golpeó el parabrisas y lo rompi�."
+  "sampleSentenceSpa": "Una piedra golpeó el parabrisas y lo rompió."
  },
  {
   "Total": 654,
@@ -5885,7 +5885,7 @@ var palabras =[
   "spaEquiv": ["Limpiaparabrisas", "Escobillas"],
   "definition": "A motor-driven device for keeping a windshield clear of rain, typically one with a rubber blade on an arm that moves in an arc.",
   "sampleSentenceEng": "Wipers should be replaced twice a year.",
-  "sampleSentenceSpa": "Los limpiaparabrisas deben ser reemplazados dos veces al a�o."
+  "sampleSentenceSpa": "Los limpiaparabrisas deben ser reemplazados dos veces al año."
  },
  {
   "Total": 655,
@@ -5912,7 +5912,7 @@ var palabras =[
   "spaEquiv": "Indemnización laboral",
   "definition": "A form of insurance required from employers that provides money as compensation for workers who are injured at work or contract an occupational disease.",
   "sampleSentenceEng": "To get an exemption for workers� compensation coverage, your business must go through your state�s screening process.",
-  "sampleSentenceSpa": "Para obtener una dispensa de la cobertura de compensaci�n de los trabajadores, su empresa debe pasar por el proceso de selecci�n de su estado."
+  "sampleSentenceSpa": "Para obtener una dispensa de la cobertura de compensación de los trabajadores, su empresa debe pasar por el proceso de selección de su estado."
  },
  {
   "Total": 658,

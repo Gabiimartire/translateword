@@ -1,7 +1,7 @@
 var palabras = [
   {
     "Total": 1,
-    "Auto Insurance": "Social Services",
+    "industry": "Social Services",
     "engTerm": "Accessible",
     "spaEquiv": ["Accesible", "Alcanzable"],
     "definition": "Easy to approach, reach, enter, speak with, or use.",
@@ -10,7 +10,7 @@ var palabras = [
    },
    {
     "Total": 2,
-    "Auto Insurance": "Auto Insurance",
+    "industry": "Auto Insurance",
     "engTerm": "Accident",
     "spaEquiv": "Accidente",
     "definition": "An unfortunate incident that happens unexpectedly and unintentionally, typically resulting in damage or injury.",
@@ -19,7 +19,7 @@ var palabras = [
    },
    {
     "Total": 3,
-    "Auto Insurance": "Medical",
+    "industry": "Medical",
     "engTerm": "Antibiotics",
     "spaEquiv": "Antibióticos",
     "definition": "Drugs used to kill harmful bacteria and to cure infections (such as penicillin or its derivatives). Antibiotics inhibit the growth of and destroy microorganisms.",
@@ -28,7 +28,7 @@ var palabras = [
    },
    {
     "Total": 4,
-    "Auto Insurance": "General",
+    "industry": "General",
     "engTerm": "Address",
     "spaEquiv": ["Domicilio", "Dirección"],
     "definition": "The information about where a place is located or where someone lives.",
@@ -37,7 +37,7 @@ var palabras = [
    },
   {
     "Total": 5,
-    "Auto Insurance": "Auto Insurance",
+    "industry": "Auto Insurance",
     "engTerm": "Alley ",
     "spaEquiv": ["Callejón", "Pasadizo"],
     "definition": "A narrow passageway between or behind buildings.",

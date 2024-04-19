@@ -1,6 +1,6 @@
 let label = document.getElementById("label")
 let input = document.getElementById("input")
-/* let reset = document.getElementById("reset") */
+let container = document.getElementById("max_container")
 var allWords = []
 const data = palabras
 
@@ -17,14 +17,15 @@ function reset_y_numeroRandom(allWords, callback){
         if(event.key === 'ArrowUp'){
             let indiceAleatorio = Math.floor(Math.random() * allWords.length);
             let desaparecer = document.getElementById('desaparecer')
-            desaparecer.innerHTML= ""
-            label.innerHTML = allWords[indiceAleatorio];
-            let word = allWords[indiceAleatorio]
-            let posicion = indiceAleatorio
             let word_Spa = document.getElementById("palabras_espanol")
             let todo_el_menu = document.getElementById("boxes_")
+            let word = allWords[indiceAleatorio]
+            let posicion = indiceAleatorio
+            desaparecer.innerHTML= ""
+            label.innerHTML = allWords[indiceAleatorio];
             word_Spa.innerHTML = ""
             todo_el_menu.innerHTML = ""
+            todo_el_menu.classList.remove("appears")            
             input.value = ""
             input.style.color = "black"
             callback([word, posicion])
@@ -35,16 +36,21 @@ function reset_y_numeroRandom(allWords, callback){
 
 reset_y_numeroRandom(allWords, function(valorRandom, palabra){
     let ind = valorRandom[1]
-    input.addEventListener('keypress', function(){
+    input.addEventListener('keypress', function(event){
         if(event.keyCode === 13){
+            setTimeout(function(){
+                input.classList.remove("vibrar_mal")
+                input.classList.remove("vibrar_bien")
+            }, 300)
             let encontrada = false;
             data.forEach(palabra => {
                 for(const key in palabra){
                     if(Array.isArray(palabra[key] )){
                         palabra[key].forEach(comparacion =>{
-                            if(event.target.value.toUpperCase().normalize('NFD') == comparacion.toString().toUpperCase().normalize('NFD')){
+                            if(event.target.value.toUpperCase().normalize('NFD') === comparacion.toString().toUpperCase().normalize('NFD')){
                                 console.log("encontró el array");
                                 encontrada = true
+                                input.classList.add("vibrar_bien")
                                 input.style.color = 'var(--good)'
                                 let word_Spa = document.getElementById("palabras_espanol")
                                 word_Spa.innerHTML = ""
@@ -72,9 +78,14 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                                             </div>`
                                             todo_el_menu.appendChild(wordInfo)
                                 word_Spa.appendChild(divSpa)
+                                setTimeout(function(){
+                                    todo_el_menu.classList.add("appears")
+                                }, 200)
                                 return
                             }
-                            if (event.target.value.toUpperCase().normalize('NFD') == data[ind].spaEquiv.toString().toUpperCase().normalize('NFD')) {
+                            if (event.target.value.toUpperCase().normalize('NFD') === data[ind].spaEquiv.toString().toUpperCase().normalize('NFD')) {
+                             
+                                input.classList.add("vibrar_bien")
                                 input.style.color = 'var(--good)';
                                 encontrada = true
                                 let word_Spa = document.getElementById("palabras_espanol")
@@ -103,6 +114,9 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                                             </div>`
                                             todo_el_menu.appendChild(wordInfo)
                                 word_Spa.appendChild(divSpa)
+                                setTimeout(function(){
+                                    todo_el_menu.classList.add("appears")
+                                }, 200)
                                                 return
                             }
                         })
@@ -110,6 +124,7 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                 }
             })
             if(!encontrada){
+            input.classList.add("vibrar_mal")
             input.style.color = 'var(--wrong)';
                                 let word_Spa = document.getElementById("palabras_espanol")
                                 word_Spa.innerHTML = ""
@@ -137,6 +152,9 @@ reset_y_numeroRandom(allWords, function(valorRandom, palabra){
                                             </div>`
                                             todo_el_menu.appendChild(wordInfo)
                                 word_Spa.appendChild(divSpa)
+                                setTimeout(function(){
+                                    todo_el_menu.classList.add("appears")
+                                }, 200)
             }
             
         }

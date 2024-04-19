@@ -33,21 +33,35 @@ header{
     height: 4rem;
     border-radius: 5px;
 }
-.input_text_box{
-    background-color: var(--inputs);
+input:focus{
+    outline: none;
+    
 }
+.input_text_box:active{
+    border-style: none !important;
+}
+
 .box_word_appears{
     background-color: var(--label);
     height: auto;
+}
+.boxs{
+    opacity: 0;
+    transition: opacity 0.5s  ease;
+}
+.boxs.appears{
+    opacity: 1;
 }
 .word_appears{
     font-weight: bold;
     font-size: 2rem;
     padding: 10px;
+
 }
 input{
 /*     font-size: 3.5rem; */
     font-weight: bolder;
+    transition: transform 0.2s ease
 }
 .sampleSentence, .sampleSentenceSpa{ 
     min-height: 15rem;
@@ -75,4 +89,27 @@ input{
     color: gray;
     font-size: 1.4rem;
     text-align: center;
+}
+
+.vibrar_mal{
+    border: 4px var(--wrong) solid ;
+    animation: vibrar 0.2s ease infinite alternate; /* Animación de vibración */
+}
+.vibrar_bien{
+    border: 4px var(--good) solid;
+    animation: vibrar 0.2s ease infinite alternate; /* Animación de vibración */
+}
+@keyframes vibrar  {
+    0% {
+        transform: translateX(-3px);
+    }
+    25%{
+        transform: translateX(1px);
+    }
+    50%{
+        transform: translateX(0px);
+    }
+    100% {
+        transform: translateX(3px); /* Mueve el elemento 5px hacia la derecha */
+    }
 }

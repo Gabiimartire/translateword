@@ -11,21 +11,21 @@
     <title>TransLateWord</title>
 </head>
 <body id="body" class="d-flex flex-column px-5">
-    <header>
-        <h1 class="title text-light text-center pt-5">TranslateWord</h1>
+    <header class="pt-2">
+        <h1 class="title text-light text-center">TranslateWord</h1>
+        <h2 id="desaparecer" class="text-danger text-center fs-1 fw-bolder pt-5">PRESIONE FLECHA HACIA ARRIBA</h2>
     </header>
     <main>
-        <div class="d-flex align-items-center justify-content-center gap-5 pb-5 flex-column">
+        <div id="max_container" class="super_container d-flex align-items-center justify-content-center gap-5 pb-5 flex-column">
             <div class="box_word_appears d-flex justify-content-center align-items-center">
                 <span id="label" class="word_appears fs-1 text-black"></span>
             </div>
-            <h2 id="desaparecer" class="title text-danger fs-1 fw-bolder">PRESIONE FLECHA HACIA ARRIBA</h2>
             <div class="input_text_box d-flex justify-content-center align-items-center ">
                 <input id="input" autocomplete="off" placeholder="Escribe la palabra en Español" class="inputText w-100 h-100 px-5 fs-1" >
             </div>
         </div>
-        <div id="palabras_espanol" class="d-flex align-items-center justify-content-center gap-2 color-success"></div>
-        <div id="boxes_">
+        <div id="palabras_espanol" class="super_container align-items-center justify-content-center gap-2 color-success"></div>
+        <div id="boxes_" class="boxs">
             <div class="d-flex justify-content-center align-items-center flex-column">
         </div>
 
@@ -33,6 +33,8 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <script src="./js/palabrasBackup.js"></script>
+
     <script src="./js/main3.js"></script>
+    <link rel="stylesheet" href="./estilos/style.css">
 </body>
 </html>
