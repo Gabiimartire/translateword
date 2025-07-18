@@ -1,0 +1,1 @@
+https://translateword.netlify.app/
