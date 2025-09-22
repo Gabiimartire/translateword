@@ -95,12 +95,10 @@ input.addEventListener('keypress', function(event){
                             }
                         }
                         }
-                }
+                    }
             })
                             if(!encontrada){
                                 mostrar_info(data[posicion],  "vibrar_mal", "var(--wrong)")
                             }
-
         }
     })
-
